@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block body %}
+
+<div class="main-title">
+<h1>RaceRoom Racing Experience:</h1><h2>Performance Analyzer
+</h2>
+</div>
+
+<form action="/" method="POST" class="search_bar">
+        <input type="text" name="username_input" id = "username_input" placeholder="Enter your username..." class="input_username">
+        <input type="submit" class="usr-src-btn" value="SEARCH">
+</form>
+
+<div class="basic_stat_card">
+        All time statistics for {{ username }}
+        <div class="tile-container">
+                <div class = "p1tile">
+                <h3>P1</h3>
+                        <p name="alltimep1" id ="alltimep1" > {{ p1 }} </p>
+                        <p>{{ p1_rate }} %</p>
+                </div>
+
+                <div class = "p2tile">
+                <h3>P2</h3>
+                        <p name="alltimep2" id ="alltimep2" > {{ p2 }}</p>
+                        <p>{{ p2_rate }} %</p>
+                </div>
+
+                <div class = "p3tile">
+                <h3>P3</h3>
+                        <p name="alltimep3" id ="alltimep3" > {{ p3 }}</p>
+                        <p>{{ p3_rate }} %</p>
+                </div>
+        </div>
+</div>
+
+{% endblock %}
