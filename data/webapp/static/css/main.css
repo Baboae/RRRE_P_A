@@ -50,7 +50,7 @@ body{
     padding: 1rem 1rem;
 }
 .navbar a:hover{
-    color: darkred;
+    color: black;
 }
 
 /* BODY | BODY | BODY */
@@ -70,16 +70,35 @@ section{
 }
 .search-bar{
     position: absolute;
-    left:50%;
+    left:65%;
     translate: -50% -50%;
     width: 50%;
-
 }
 .search-bar input{
     color: white;
+    border: 1px solid darkred;
+    padding: 1.5%;
     background-color: transparent;
 }
-.search-bar button{
+.search-bar input:hover{
+    border: 1px solid rgba(180, 0, 0, 0.5);
+}
+.search-bar input:focus{
+    outline: none;
+}
+
+.search-bar button {
     color: white;
+    padding: 1.5%;
+    border: 1px solid darkred;
     background-color: transparent;
+    transition: color 2s ease-out;
+
+}
+.search-bar button:hover{
+    border: 1px solid rgba(180,0,0,0.5);
+}
+.search-bar button:active{
+    border: 1px solid red;
+
 }
