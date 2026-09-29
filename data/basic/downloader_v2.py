@@ -50,6 +50,8 @@ def create_user_folder(userid, username, racescompleted):
     else:
         return 1
     return userfolder
+def download_json():
+    pass
 
 def start_download_pipeline(username):
     errormsg = ""
