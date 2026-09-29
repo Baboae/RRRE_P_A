@@ -18,7 +18,7 @@ body{
 .navbar {
     position: fixed;
     top: 0;
-    height: 64px;
+    height: fit-content;
     width: 100%;
     background-color: rgba(255,0,0,0.5);
     backdrop-filter: blur(10px);
@@ -54,7 +54,7 @@ body{
 }
 
 /* BODY | BODY | BODY */
-.content{
+.content-dimmed{
     position: relative;
     margin: 10%;
     padding: 5%;
