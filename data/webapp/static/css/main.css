@@ -8,7 +8,7 @@
 body{
     font-family: sans-serif;
     color: white;
-    background-image: linear-gradient(rgba(50, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/backgrounds/211500_2.jpg');
+    background-image: linear-gradient(rgba(50, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/backgrounds/211500_20.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -41,7 +41,6 @@ body{
 .navbar-items{
     display: flex;
     gap: 1rem;
-
 }
 .navbar-items a{
     color: white;
@@ -54,51 +53,29 @@ body{
 }
 
 /* BODY | BODY | BODY */
-.content-dimmed{
+.content_dimmed{
     position: relative;
-    margin: 10%;
-    padding: 5%;
+    display: inline-block;
+    margin: 5%;
+    padding: 2.5%;
     border-radius: 5px;
     background-color: rgba(20,0,0,0.5);
     backdrop-filter: blur(10px);
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    border: 1px solid rgba(25,0,0,0.8)
 }
 section{
     padding-top: 1.5%;
     padding-bottom: 1.5%;
     font-size: 18px;
 }
-.search-bar{
-    position: absolute;
-    left:65%;
-    translate: -50% -50%;
-    width: 50%;
+.features{
+    margin: 5%;
 }
-.search-bar input{
-    color: white;
-    border: 1px solid darkred;
-    padding: 1.5%;
-    background-color: transparent;
-}
-.search-bar input:hover{
-    border: 1px solid rgba(180, 0, 0, 0.5);
-}
-.search-bar input:focus{
-    outline: none;
+.features ul{
+    list-style-type: "- ";
 }
 
-.search-bar button {
-    color: white;
-    padding: 1.5%;
-    border: 1px solid darkred;
-    background-color: transparent;
-    transition: color 2s ease-out;
+/* SRC BAR */
 
-}
-.search-bar button:hover{
-    border: 1px solid rgba(180,0,0,0.5);
-}
-.search-bar button:active{
-    border: 1px solid red;
 
-}

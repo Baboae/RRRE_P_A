@@ -103,5 +103,4 @@ def download_career_pages(username):
         return [1, user_folder]
     except Exception as e:
       return [0, "Error. Something went wrong."]
-
 #endregion

@@ -12,8 +12,10 @@ print(TEMPLATES_DIR)
 @app.route('/')
 def index():
     return render_template("index.html")
-@app.route('/src.html')
+@app.route('/src.html', methods=['POST', 'GET'])
 def src():
+    if request.method == 'POST':
+        download_career_pages(request.form['username'])
     return render_template("src.html")
 
 if __name__ == '__main__':
