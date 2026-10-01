@@ -71,7 +71,7 @@ def check_and_update_local_files(username):
                 RacesCompleted_live = mp_rating_live['RacesCompleted']
                 print(f"Races Completed, local/live: {RacesCompleted_local} / {RacesCompleted_live}")
                 racehashes = collect_racehashes_from_local_files(username)
-                print(f"Actual RaceHashes found in files:\n{len(racehashes)}")
+                print(f"Actual RaceHashes found in files:{len(racehashes)}")
 
                 CareerPages_Num_local = len(os.listdir(users_folder.joinpath(u).joinpath("CareerPages")))
                 CareerPages_Num_live = math.ceil(RacesCompleted_live/100)
@@ -87,10 +87,10 @@ def check_and_update_local_files(username):
 
                             print(f"Downloading missing page #{page} from {currentpage}")
                             downloaded_raw = fetch_json(currentpage)
-                            print(downloaded_raw)
                             filename=users_folder.joinpath(u).joinpath("CareerPages").joinpath(f"Page_{page}.json")
                             save_json(filename, downloaded_raw)
                             print(f"Saved at {filename}")
+                            print(f"Actual RaceHashes found in files:{len(collect_racehashes_from_local_files(username))}")
 
     return None
 
