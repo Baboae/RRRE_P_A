@@ -35,7 +35,7 @@ def basic_user_information(user_folder):
         team = a["team"]
         if team == "":
             team = "privateer"
-    with open(os.path.join(user_folder, 'user_mp_info.json'), 'r') as user_mp_info:
+    with open(os.path.join(user_folder, 'multiplayer_rating.json'), 'r') as user_mp_info:
         b = json.load(user_mp_info)
     return Player(a["id"], a["username"], a["name"], team, a["country"], b["Rating"], b["Reputation"], b["RacesCompleted"], b["Position"])
 

@@ -76,7 +76,7 @@ def download_career_pages(username):
       if user_mp_info is None:
         return [0, "No ranked data found under this alias."]
       else:
-        save_json(user_mp_info, "user_mp_info.json", user_folder)
+        save_json(user_mp_info, "multiplayer_rating.json", user_folder)
         RacesCompleted = user_mp_info["RacesCompleted"]
         NumberOfPages = math.ceil(RacesCompleted / 100)
         start = time.time()

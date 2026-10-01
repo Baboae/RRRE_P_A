@@ -1,0 +1,157 @@
+{
+    "context": {
+        "c": {
+            "get": {
+                "CurrentPage": "-18",
+                "json": "",
+                "PageSize": "100"
+            },
+            "tabs": [
+                {
+                    "active": false,
+                    "path": "https://game.raceroom.com/users/username/",
+                    "name": "overview",
+                    "label": "Overview"
+                },
+                {
+                    "active": false,
+                    "path": "https://game.raceroom.com/users/username/screenshots",
+                    "name": "screenshots",
+                    "label": "Screenshots"
+                },
+                {
+                    "active": false,
+                    "path": "https://game.raceroom.com/users/username/contacts",
+                    "name": "contacts",
+                    "label": "Contacts"
+                },
+                {
+                    "active": true,
+                    "path": "https://game.raceroom.com/users/username/career",
+                    "name": "career",
+                    "label": "Ranked Multiplayer"
+                },
+                {
+                    "active": false,
+                    "path": "https://game.raceroom.com/users/username/statistics",
+                    "name": "statistics",
+                    "label": "Advanced statistics"
+                }
+            ],
+            "global": {
+                "lang": "en",
+                "csrf_token": "571fd1c85e51fa354a7937a98fbb64e7a1241562",
+                "asset_paths": [
+                    "https://prod.r3eassets.com"
+                ],
+                "action_paths": {
+                    "goto_store_item": "https://game.raceroom.com/store/item_redirect",
+                    "search": "/search",
+                    "startpage": "https://game.raceroom.com/"
+                },
+                "current_path": "/users/USERNAME/career?CurrentPage=-18&PageSize=100&json",
+                "site": {
+                    "sentry_dsn": "http://9afcc28784854d28af819f32a1f5d90d@178.63.51.20:9000/8",
+                    "ga": "UA-120078812-1"
+                },
+                "experience": {
+                    "race_length": 60,
+                    "features": [
+                        "dashboard",
+                        "store",
+                        "leaderboards",
+                        "competitions",
+                        "brands",
+                        "search",
+                        "user_search",
+                        "game_menu_main",
+                        "game_mode_single_race",
+                        "game_mode_leaderboard_challenge",
+                        "game_mode_track_test",
+                        "game_mode_multiplayer",
+                        "game_mode_competition",
+                        "game_mode_championship",
+                        "game_mode_championship_custom",
+                        "game_browser_bar",
+                        "newsfeed",
+                        "user_videos",
+                        "user_purchases",
+                        "user_screenshots",
+                        "trial_launcher"
+                    ],
+                    "id": 2481,
+                    "base_path": "https://game.raceroom.com/",
+                    "name": "r3e"
+                },
+                "is_broadcaster": false,
+                "static_assets": {
+                    "css": "/static/css/1790867681/client.css",
+                    "js": "/static/js/1790867681/client.js"
+                },
+                "user_agent": "python-requests/2.33.1",
+                "main_menu": [
+                    {
+                        "path": "https://game.raceroom.com/leaderboard/",
+                        "items": [
+                            {
+                                "path": "https://game.raceroom.com/leaderboard/",
+                                "id": "leaderboards-r3e",
+                                "experience": "r3e",
+                                "name": "RaceRoom Racing Experience"
+                            }
+                        ],
+                        "id": "leaderboards",
+                        "name": "Leaderboards"
+                    },
+                    {
+                        "path": "https://game.raceroom.com/competitions/",
+                        "items": [
+                            {
+                                "path": "https://game.raceroom.com/competitions/",
+                                "id": "competitions-r3e",
+                                "experience": "r3e",
+                                "name": "RaceRoom Racing Experience"
+                            }
+                        ],
+                        "id": "competitions",
+                        "name": "Competitions"
+                    },
+                    {
+                        "path": "https://game.raceroom.com/partners/",
+                        "id": "brands",
+                        "name": "Partners"
+                    },
+                    {
+                        "path": "https://game.raceroom.com/vip-drivers/",
+                        "id": "users_vip",
+                        "name": "VIP Drivers"
+                    },
+                    {
+                        "path": "https://game.raceroom.com/store/",
+                        "id": "store",
+                        "name": "Store"
+                    }
+                ]
+            },
+            "leaderboard_listings": null,
+            "header": null,
+            "date": "2026-10-01T17:05:47.107150+00:00",
+            "post": {},
+            "user_id": 52525,
+            "name": "Name Surname",
+            "title": "Name Surname - User profile - RaceRoom Racing Experience",
+            "competition_rank": null,
+            "action_paths": {},
+            "raceList": {
+                "GetUserMpRatingProgressResult": {
+                    "TotalEntries": 0,
+                    "Entries": []
+                }
+            },
+            "avatar": "https://game.raceroom.com/assets/user-avatars/helmets/helmet-24.png",
+            "online": false,
+            "team": ""
+        }
+    },
+    "template": "user"
+}
