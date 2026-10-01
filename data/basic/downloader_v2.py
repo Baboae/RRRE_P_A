@@ -13,7 +13,7 @@ USERFOLDERS_LIST = [u for u in os.listdir(users_folder)]
 
 USER_INFO_URL = "https://game.raceroom.com/utils/user-info/USERNAME"
 MP_RATING_URL = "https://game.raceroom.com/multiplayer-rating/user/USERID.json"
-CAREER_PAGE_URL = "https://game.raceroom.com/users/USERNAME/career""?CurrentPage=-NUMOFPAGE&PageSize=100&json"
+CAREER_PAGE_URL = "https://game.raceroom.com/users/USERNAME/career?CurrentPage=-NUMOFPAGE&PageSize=100&json"
 
 def fetch_json(URL):
     """It loads the data from the official site's server.
@@ -55,12 +55,13 @@ def create_user_folder(userid, username, racescompleted):
 
 def check_and_update_local_files(username):
     # TODO: check the foldernames in the users dir. If any of them contain the username that was in the input, go on checking if they have content or not.
-    for  u in USERFOLDERS_LIST:
+    for u in USERFOLDERS_LIST:
         if username in u:
             print(f"User data found in local folders at {users_folder.joinpath(u)}")
             #TODO: Check if folder has necessary data (user_info.json, multiplayer_rating.json, CareerPages folder full with all pages.
             if os.listdir(users_folder.joinpath(u)) == ['CareerPages', 'multiplayer_rating.json', 'user_info.json']:
-                #TODO: Check what the local and live mp-rating file says racecount-wise. If there is a difference, data must be refreshed.
+                #TODO: Check what the local and live mp-rating file says racecount-wise. If there is a difference, local data must be updated.
+
                 mp_rating_json = users_folder.joinpath(u).joinpath('multiplayer_rating.json')
                 with open(mp_rating_json) as f:
                     mp_rating_local = json.load(f)
@@ -69,6 +70,8 @@ def check_and_update_local_files(username):
                 RacesCompleted_local = mp_rating_local['RacesCompleted']
                 RacesCompleted_live = mp_rating_live['RacesCompleted']
                 print(f"Races Completed, local/live: {RacesCompleted_local} / {RacesCompleted_live}")
+                racehashes = collect_racehashes_from_local_files(username)
+                print(f"Actual RaceHashes found in files:\n{len(racehashes)}")
 
                 CareerPages_Num_local = len(os.listdir(users_folder.joinpath(u).joinpath("CareerPages")))
                 CareerPages_Num_live = math.ceil(RacesCompleted_live/100)
@@ -79,8 +82,9 @@ def check_and_update_local_files(username):
                     for page in range(1, CareerPages_Num_live + 1):
                         if f"Page_{page}.json" not in Pages_local:
 
-                            currentpage = CAREER_PAGE_URL.replace("USERNAME", username)
-                            currentpage = CAREER_PAGE_URL.replace("NUMOFPAGE", str(page))
+
+                            currentpage = CAREER_PAGE_URL.replace("USERNAME", username).replace("NUMOFPAGE", str(page))
+
                             print(f"Downloading missing page #{page} from {currentpage}")
                             downloaded_raw = fetch_json(currentpage)
                             print(downloaded_raw)
@@ -90,14 +94,33 @@ def check_and_update_local_files(username):
 
     return None
 
+def collect_racehashes_from_local_files(username):
+    local_racehashes = []
+    for u in USERFOLDERS_LIST:
+        if username in u:
+            user_folder = users_folder.joinpath(u)
+            pages = os.listdir(user_folder.joinpath("CareerPages"))
+            for page in pages:
+                with open(user_folder.joinpath("CareerPages").joinpath(page), "r") as f:
+                    entries = json.load(f)
+                    for entry in entries["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
+                        if entry["RaceHash"] not in local_racehashes:
+                            local_racehashes.append(entry["RaceHash"])
+    return local_racehashes
+
 def start_download_pipeline(username):
     """This is what I plan to call when the user clicks search on the site. It's still WIP.
 
     """
     check_and_update_local_files(username)
+
 print("\nEdge case 1: valid user with all data downloaded")
 start_download_pipeline("Bab_0")
+
+
 
 print("\nEdge case 2: valid user with missing pagefiles/races")
 start_download_pipeline("Orban_k")
 
+
+print("\n")
