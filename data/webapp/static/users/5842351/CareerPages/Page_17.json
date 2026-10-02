@@ -2,7 +2,7 @@
     "context": {
         "c": {
             "get": {
-                "CurrentPage": "-18",
+                "CurrentPage": "-17",
                 "json": "",
                 "PageSize": "100"
             },
@@ -46,7 +46,7 @@
             ],
             "global": {
                 "lang": "en",
-                "csrf_token": "4f6b56df8f49efe3c6150c4535aab15c553c52f3",
+                "csrf_token": "3d070f52e55d6471c6be4268a8da09fc8b98021f",
                 "asset_paths": [
                     "https://prod.r3eassets.com"
                 ],
@@ -55,7 +55,7 @@
                     "search": "/search",
                     "startpage": "https://game.raceroom.com/"
                 },
-                "current_path": "/users/Orban_k/career?CurrentPage=-18&PageSize=100&json",
+                "current_path": "/users/Orban_K/career?CurrentPage=-17&PageSize=100&json",
                 "site": {
                     "sentry_dsn": "http://9afcc28784854d28af819f32a1f5d90d@178.63.51.20:9000/8",
                     "ga": "UA-120078812-1"
@@ -91,8 +91,8 @@
                 },
                 "is_broadcaster": false,
                 "static_assets": {
-                    "css": "/static/css/1790878481/client.css",
-                    "js": "/static/js/1790878481/client.js"
+                    "css": "/static/css/1790781278/client.css",
+                    "js": "/static/js/1790781278/client.js"
                 },
                 "user_agent": "python-requests/2.33.1",
                 "main_menu": [
@@ -139,9 +139,9 @@
                     }
                 ]
             },
-            "leaderboard_listings": null,
             "header": "https://game.raceroom.com/storage/user-banners/Z2bex4knG381Tm9dW4gsHtkesvwIcjeS.jpg",
-            "date": "2026-10-01T19:14:19.747396+00:00",
+            "online": false,
+            "date": "2026-09-30T16:49:15.765966+00:00",
             "post": {},
             "user_id": 5842351,
             "name": "Krisztian Orban",
@@ -152,214 +152,6 @@
                 "GetUserMpRatingProgressResult": {
                     "TotalEntries": 1704,
                     "Entries": [
-                        {
-                            "RaceHash": "dJ4vy",
-                            "StartPosition": 3,
-                            "PlayersCount": 16,
-                            "TrackLayoutId": {
-                                "Id": 1693,
-                                "Name": "Grand Prix"
-                            },
-                            "Cars": [
-                                {
-                                    "Id": 4681,
-                                    "Name": "Audi TT cup 2015"
-                                },
-                                {
-                                    "Id": 5588,
-                                    "Name": "Audi TT cup 2016"
-                                }
-                            ],
-                            "PerformanceIndexes": [
-                                190
-                            ],
-                            "IncidentPoints": 18,
-                            "ReputationAfter": 73.647,
-                            "StartPositionInClass": 3,
-                            "RatingChange": 2.946,
-                            "RatingAfter": 1502.946,
-                            "Starter": true,
-                            "RaceFinishTime": 1612634765,
-                            "FinishPositionInClass": 8,
-                            "ReputationChange": 3.647,
-                            "RatingBefore": 1500.0,
-                            "RaceNum": 1,
-                            "CarClasses": [
-                                {
-                                    "Id": 4680,
-                                    "Name": "Audi Sport TT Cup 2015"
-                                },
-                                {
-                                    "Id": 5726,
-                                    "Name": "Audi Sport TT Cup 2016"
-                                }
-                            ],
-                            "FinishPosition": 8,
-                            "NonStartersCount": 0,
-                            "CorrelationId": "1cdbd2c59c0441d6",
-                            "LiveryId": {
-                                "Id": 5685,
-                                "Name": "#33"
-                            },
-                            "ReputationBefore": 70.0,
-                            "PerformanceIndex": 190
-                        },
-                        {
-                            "RaceHash": "Aw8ZY",
-                            "StartPosition": 2,
-                            "PlayersCount": 26,
-                            "TrackLayoutId": {
-                                "Id": 1693,
-                                "Name": "Grand Prix"
-                            },
-                            "Cars": [
-                                {
-                                    "Id": 4681,
-                                    "Name": "Audi TT cup 2015"
-                                },
-                                {
-                                    "Id": 5588,
-                                    "Name": "Audi TT cup 2016"
-                                }
-                            ],
-                            "PerformanceIndexes": [
-                                190
-                            ],
-                            "IncidentPoints": 7,
-                            "ReputationAfter": 78.003,
-                            "StartPositionInClass": 2,
-                            "RatingChange": 76.672,
-                            "RatingAfter": 1579.618,
-                            "Starter": true,
-                            "RaceFinishTime": 1612639273,
-                            "FinishPositionInClass": 2,
-                            "ReputationChange": 4.356,
-                            "RatingBefore": 1502.946,
-                            "RaceNum": 1,
-                            "CarClasses": [
-                                {
-                                    "Id": 4680,
-                                    "Name": "Audi Sport TT Cup 2015"
-                                },
-                                {
-                                    "Id": 5726,
-                                    "Name": "Audi Sport TT Cup 2016"
-                                }
-                            ],
-                            "FinishPosition": 2,
-                            "NonStartersCount": 0,
-                            "CorrelationId": "4030a0daea694422",
-                            "LiveryId": {
-                                "Id": 5685,
-                                "Name": "#33"
-                            },
-                            "ReputationBefore": 73.647,
-                            "PerformanceIndex": 190
-                        },
-                        {
-                            "RaceHash": "rOb5v",
-                            "StartPosition": 1,
-                            "PlayersCount": 25,
-                            "TrackLayoutId": {
-                                "Id": 1693,
-                                "Name": "Grand Prix"
-                            },
-                            "Cars": [
-                                {
-                                    "Id": 4681,
-                                    "Name": "Audi TT cup 2015"
-                                },
-                                {
-                                    "Id": 5588,
-                                    "Name": "Audi TT cup 2016"
-                                }
-                            ],
-                            "PerformanceIndexes": [
-                                190
-                            ],
-                            "IncidentPoints": 4,
-                            "ReputationAfter": 81.88,
-                            "StartPositionInClass": 1,
-                            "RatingChange": 71.733,
-                            "RatingAfter": 1651.351,
-                            "Starter": true,
-                            "RaceFinishTime": 1612645978,
-                            "FinishPositionInClass": 1,
-                            "ReputationChange": 3.877,
-                            "RatingBefore": 1579.618,
-                            "RaceNum": 1,
-                            "CarClasses": [
-                                {
-                                    "Id": 4680,
-                                    "Name": "Audi Sport TT Cup 2015"
-                                },
-                                {
-                                    "Id": 5726,
-                                    "Name": "Audi Sport TT Cup 2016"
-                                }
-                            ],
-                            "FinishPosition": 1,
-                            "NonStartersCount": 0,
-                            "CorrelationId": "0e066ff76e444add",
-                            "LiveryId": {
-                                "Id": 5685,
-                                "Name": "#33"
-                            },
-                            "ReputationBefore": 78.003,
-                            "PerformanceIndex": 190
-                        },
-                        {
-                            "RaceHash": "pOPyX",
-                            "StartPosition": 1,
-                            "PlayersCount": 29,
-                            "TrackLayoutId": {
-                                "Id": 1693,
-                                "Name": "Grand Prix"
-                            },
-                            "Cars": [
-                                {
-                                    "Id": 4681,
-                                    "Name": "Audi TT cup 2015"
-                                },
-                                {
-                                    "Id": 5588,
-                                    "Name": "Audi TT cup 2016"
-                                }
-                            ],
-                            "PerformanceIndexes": [
-                                190
-                            ],
-                            "IncidentPoints": 20,
-                            "ReputationAfter": 82.89,
-                            "StartPositionInClass": 1,
-                            "RatingChange": 42.686,
-                            "RatingAfter": 1694.037,
-                            "Starter": true,
-                            "RaceFinishTime": 1612648599,
-                            "FinishPositionInClass": 2,
-                            "ReputationChange": 1.01,
-                            "RatingBefore": 1651.351,
-                            "RaceNum": 1,
-                            "CarClasses": [
-                                {
-                                    "Id": 4680,
-                                    "Name": "Audi Sport TT Cup 2015"
-                                },
-                                {
-                                    "Id": 5726,
-                                    "Name": "Audi Sport TT Cup 2016"
-                                }
-                            ],
-                            "FinishPosition": 2,
-                            "NonStartersCount": 0,
-                            "CorrelationId": "fa1d6c9b7d654818",
-                            "LiveryId": {
-                                "Id": 5685,
-                                "Name": "#33"
-                            },
-                            "ReputationBefore": 81.88,
-                            "PerformanceIndex": 190
-                        },
                         {
                             "RaceHash": "dJ5q8",
                             "StartPosition": 2,
@@ -7831,13 +7623,189 @@
                             },
                             "ReputationBefore": 93.843,
                             "PerformanceIndex": 205
+                        },
+                        {
+                            "RaceHash": "XX3YP",
+                            "StartPosition": 2,
+                            "PlayersCount": 14,
+                            "TrackLayoutId": {
+                                "Id": 6341,
+                                "Name": "Grand Prix"
+                            },
+                            "Cars": [
+                                {
+                                    "Id": 6262,
+                                    "Name": "BMW M235i Racing"
+                                }
+                            ],
+                            "PerformanceIndexes": [
+                                205
+                            ],
+                            "IncidentPoints": 11,
+                            "ReputationAfter": 92.594,
+                            "StartPositionInClass": 2,
+                            "RatingChange": 4.652,
+                            "RatingAfter": 1856.185,
+                            "Starter": true,
+                            "RaceFinishTime": 1623248238,
+                            "FinishPositionInClass": 2,
+                            "ReputationChange": -0.341,
+                            "RatingBefore": 1851.533,
+                            "RaceNum": 1,
+                            "CarClasses": [
+                                {
+                                    "Id": 6344,
+                                    "Name": "BMW M235i Racing Cup"
+                                }
+                            ],
+                            "FinishPosition": 2,
+                            "NonStartersCount": 0,
+                            "CorrelationId": null,
+                            "LiveryId": {
+                                "Id": 6363,
+                                "Name": "#668"
+                            },
+                            "ReputationBefore": 92.935,
+                            "PerformanceIndex": 205
+                        },
+                        {
+                            "RaceHash": "y9rw2",
+                            "StartPosition": 2,
+                            "PlayersCount": 14,
+                            "TrackLayoutId": {
+                                "Id": 6341,
+                                "Name": "Grand Prix"
+                            },
+                            "Cars": [
+                                {
+                                    "Id": 6262,
+                                    "Name": "BMW M235i Racing"
+                                }
+                            ],
+                            "PerformanceIndexes": [
+                                205
+                            ],
+                            "IncidentPoints": 5,
+                            "ReputationAfter": 92.858,
+                            "StartPositionInClass": 2,
+                            "RatingChange": 4.402,
+                            "RatingAfter": 1860.587,
+                            "Starter": true,
+                            "RaceFinishTime": 1623263723,
+                            "FinishPositionInClass": 2,
+                            "ReputationChange": 0.264,
+                            "RatingBefore": 1856.185,
+                            "RaceNum": 1,
+                            "CarClasses": [
+                                {
+                                    "Id": 6344,
+                                    "Name": "BMW M235i Racing Cup"
+                                }
+                            ],
+                            "FinishPosition": 2,
+                            "NonStartersCount": 0,
+                            "CorrelationId": null,
+                            "LiveryId": {
+                                "Id": 6363,
+                                "Name": "#668"
+                            },
+                            "ReputationBefore": 92.594,
+                            "PerformanceIndex": 205
+                        },
+                        {
+                            "RaceHash": "m3rnW",
+                            "StartPosition": 1,
+                            "PlayersCount": 21,
+                            "TrackLayoutId": {
+                                "Id": 6341,
+                                "Name": "Grand Prix"
+                            },
+                            "Cars": [
+                                {
+                                    "Id": 6262,
+                                    "Name": "BMW M235i Racing"
+                                }
+                            ],
+                            "PerformanceIndexes": [
+                                205
+                            ],
+                            "IncidentPoints": 13,
+                            "ReputationAfter": 92.334,
+                            "StartPositionInClass": 1,
+                            "RatingChange": 1.051,
+                            "RatingAfter": 1861.638,
+                            "Starter": true,
+                            "RaceFinishTime": 1623265529,
+                            "FinishPositionInClass": 3,
+                            "ReputationChange": -0.524,
+                            "RatingBefore": 1860.587,
+                            "RaceNum": 1,
+                            "CarClasses": [
+                                {
+                                    "Id": 6344,
+                                    "Name": "BMW M235i Racing Cup"
+                                }
+                            ],
+                            "FinishPosition": 3,
+                            "NonStartersCount": 0,
+                            "CorrelationId": null,
+                            "LiveryId": {
+                                "Id": 6363,
+                                "Name": "#668"
+                            },
+                            "ReputationBefore": 92.858,
+                            "PerformanceIndex": 205
+                        },
+                        {
+                            "RaceHash": "41YpP",
+                            "StartPosition": 1,
+                            "PlayersCount": 12,
+                            "TrackLayoutId": {
+                                "Id": 6341,
+                                "Name": "Grand Prix"
+                            },
+                            "Cars": [
+                                {
+                                    "Id": 6262,
+                                    "Name": "BMW M235i Racing"
+                                }
+                            ],
+                            "PerformanceIndexes": [
+                                205
+                            ],
+                            "IncidentPoints": 1,
+                            "ReputationAfter": 93.005,
+                            "StartPositionInClass": 1,
+                            "RatingChange": 8.528,
+                            "RatingAfter": 1870.166,
+                            "Starter": true,
+                            "RaceFinishTime": 1623267771,
+                            "FinishPositionInClass": 1,
+                            "ReputationChange": 0.671,
+                            "RatingBefore": 1861.638,
+                            "RaceNum": 1,
+                            "CarClasses": [
+                                {
+                                    "Id": 6344,
+                                    "Name": "BMW M235i Racing Cup"
+                                }
+                            ],
+                            "FinishPosition": 1,
+                            "NonStartersCount": 0,
+                            "CorrelationId": null,
+                            "LiveryId": {
+                                "Id": 6363,
+                                "Name": "#668"
+                            },
+                            "ReputationBefore": 92.334,
+                            "PerformanceIndex": 205
                         }
                     ]
                 }
             },
             "avatar": "https://game.raceroom.com/storage/user-avatars/JtYlPfXGLdxWqNQWaYSZzMtGYI1k4Tar.jpg",
-            "online": false,
-            "team": "GPSE"
+            "team": "GPSE",
+            "leaderboard_listings": null
         }
     },
     "template": "user"

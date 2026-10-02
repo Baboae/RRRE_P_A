@@ -1,19 +1,18 @@
+import math
 import os
 import json
-import math
+from encodings import utf_8
 from pathlib import Path
-from sys import excepthook, exception
 
 import requests
-from conda.exports import root_dir
 
 app_folder=Path(__file__).parent.parent.parent
-users_folder = Path(__file__).parent.parent.joinpath("webapp").joinpath("users")
+users_folder = Path(__file__).parent.parent.joinpath("webapp").joinpath("static").joinpath("users")
 USERFOLDERS_LIST = [u for u in os.listdir(users_folder)]
 
 USER_INFO_URL = "https://game.raceroom.com/utils/user-info/USERNAME"
 MP_RATING_URL = "https://game.raceroom.com/multiplayer-rating/user/USERID.json"
-CAREER_PAGE_URL = "https://game.raceroom.com/users/USERNAME/career?CurrentPage=-NUMOFPAGE&PageSize=100&json"
+CAREER_PAGE_URL = "https://game.raceroom.com/users/USERNAME/career?CurrentPage=-PAGE&PageSize=100&json"
 
 def fetch_json(URL):
     """It loads the data from the official site's server.
@@ -21,7 +20,6 @@ def fetch_json(URL):
         If the server fails to respond, or responds with a default JSON file
         indicating that the specific file or user does not exist, it returns the status code;
         otherwise, it returns the raw data."""
-
     response = requests.get(URL)
     if response.status_code == 200 and "error" not in response.json().keys():
         return response.json()
@@ -29,98 +27,110 @@ def fetch_json(URL):
         return response.status_code
 
 def save_json(filename, file):
-    with open(filename, "w") as f:
-        json.dump(file, f, indent=4)
+    with open(filename, "w", encoding='utf-8') as f:
+        json.dump(file, f, indent=4, ensure_ascii=False)
 
-def create_user_folder(userid, username, racescompleted):
+def create_user_folder(userid):
     """If a folder does not yet exist for the user, the program creates one.
 
-        The default naming convention I tought would be working was "{userid}_{username}_{racescompleted}".
-        - ID is included at the beginning to ensure the folder can be clearly distinguished from others.
-        - username is included to make it easier to locate a specific user during a manual search.
-        - "racescompleted" (i.e., the number of races) is part of the name so that the folder does
-         not need to be opened when data needs to be updated from the server.
+        If there was no folder before, it creates it, then returns 1 and the folder path.
+        If there is already a folder, it returns a 0 and the folder path.
+        The default naming convention for now is userid."""
 
-         However, I realized that while this may sound foolproof it doesn't seem to be working.
-         Many players have underscores in their name and when checking the foldernames, I use _ to split the name to bits.
-
-         """
-
-    userfolder = app_folder.joinpath("data").joinpath("webapp").joinpath("users").joinpath(f"{userid}_{username}_{racescompleted}")
+    userfolder = app_folder.joinpath("data").joinpath("webapp").joinpath("static").joinpath("users").joinpath(f"{userid}")
     if not os.path.exists(userfolder):
         os.makedirs(userfolder)
+        return 1, userfolder
     else:
         return 0, userfolder
-    return 1, userfolder
 
-def check_and_update_local_files(username):
-    # TODO: check the foldernames in the users dir. If any of them contain the username that was in the input, go on checking if they have content or not.
-    for u in USERFOLDERS_LIST:
-        if username in u:
-            print(f"User data found in local folders at {users_folder.joinpath(u)}")
-            #TODO: Check if folder has necessary data (user_info.json, multiplayer_rating.json, CareerPages folder full with all pages.
-            if os.listdir(users_folder.joinpath(u)) == ['CareerPages', 'multiplayer_rating.json', 'user_info.json']:
-                #TODO: Check what the local and live mp-rating file says racecount-wise. If there is a difference, local data must be updated.
-
-                mp_rating_json = users_folder.joinpath(u).joinpath('multiplayer_rating.json')
-                with open(mp_rating_json) as f:
-                    mp_rating_local = json.load(f)
-                mp_rating_live = fetch_json(MP_RATING_URL.replace("USERID", str(mp_rating_local["UserId"])))
-
-                RacesCompleted_local = mp_rating_local['RacesCompleted']
-                RacesCompleted_live = mp_rating_live['RacesCompleted']
-                print(f"Races Completed, local/live: {RacesCompleted_local} / {RacesCompleted_live}")
-                racehashes = collect_racehashes_from_local_files(username)
-                print(f"Actual RaceHashes found in files:{len(racehashes)}")
-
-                CareerPages_Num_local = len(os.listdir(users_folder.joinpath(u).joinpath("CareerPages")))
-                CareerPages_Num_live = math.ceil(RacesCompleted_live/100)
-                print(f"Career Pages, local/live: {CareerPages_Num_local}/{CareerPages_Num_live}")
-
-                if RacesCompleted_local == RacesCompleted_live and CareerPages_Num_local != CareerPages_Num_live:
-                    Pages_local = [page for page in os.listdir(users_folder.joinpath(u).joinpath("CareerPages"))]
-                    for page in range(1, CareerPages_Num_live + 1):
-                        if f"Page_{page}.json" not in Pages_local:
-
-
-                            currentpage = CAREER_PAGE_URL.replace("USERNAME", username).replace("NUMOFPAGE", str(page))
-
-                            print(f"Downloading missing page #{page} from {currentpage}")
-                            downloaded_raw = fetch_json(currentpage)
-                            filename=users_folder.joinpath(u).joinpath("CareerPages").joinpath(f"Page_{page}.json")
-                            save_json(filename, downloaded_raw)
-                            print(f"Saved at {filename}")
-                            print(f"Actual RaceHashes found in files:{len(collect_racehashes_from_local_files(username))}")
-
-    return None
-
-def collect_racehashes_from_local_files(username):
-    local_racehashes = []
-    for u in USERFOLDERS_LIST:
-        if username in u:
-            user_folder = users_folder.joinpath(u)
-            pages = os.listdir(user_folder.joinpath("CareerPages"))
-            for page in pages:
-                with open(user_folder.joinpath("CareerPages").joinpath(page), "r") as f:
-                    entries = json.load(f)
-                    for entry in entries["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
-                        if entry["RaceHash"] not in local_racehashes:
-                            local_racehashes.append(entry["RaceHash"])
-    return local_racehashes
 
 def start_download_pipeline(username):
-    """This is what I plan to call when the user clicks search on the site. It's still WIP.
+    """This is what I plan to call when the user clicks search on the site. It's still WIP."""
+    user_info = fetch_json(USER_INFO_URL.replace("USERNAME", username))
+    if type(user_info) != int:
+        userid = str(user_info["id"])
+        folder = create_user_folder(userid)
+        folderpath = folder[1]
+        if folder[0] == 0:
+            print(f"Local user data found at {folderpath}")
+            if "user_info.json" in os.listdir(folderpath):
+                if "multiplayer_rating.json" in os.listdir(folderpath):
+                    with open(folderpath.joinpath("multiplayer_rating.json"), "r") as f:
+                        multiplayer_rating_local = json.load(f)
+                    multiplayer_rating = fetch_json(MP_RATING_URL.replace("USERID", userid))
+                    if multiplayer_rating == multiplayer_rating_local:
 
-    """
-    check_and_update_local_files(username)
+                        pagenum = math.ceil(multiplayer_rating["RacesCompleted"]/100)
+                        print(f"Pagenum: {pagenum}")
+                        racescompleted = multiplayer_rating["RacesCompleted"]
+                        print(f"RacesCompleted: {racescompleted}")
 
-print("\nEdge case 1: valid user with all data downloaded")
+                        #TODO: go on with testing CareerPages.
+                        for page in range(1, pagenum + 1):
+                            entriesthispage_local = []
+                            entriesthispage = []
+                            print(f"Testing Page #{page}")
+                            currentpage_local = folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json")
+                            with open(currentpage_local, "r") as f:
+                                currentpage_local_raw = json.load(f)
+                            for c in currentpage_local_raw["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
+                                entriesthispage_local.append(c["RaceHash"])
+
+                            currentpage = fetch_json(CAREER_PAGE_URL.replace("USERNAME", username).replace("PAGE", str(page)))
+                            if type(currentpage) != int:
+                                for c in currentpage["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
+                                    entriesthispage.append(c["RaceHash"])
+
+                            print(f"Local racehashes:{len(entriesthispage_local)}\n{entriesthispage_local}")
+                            print(f"Live racehashes:{len(entriesthispage)}\n{entriesthispage}")
+
+                            if entriesthispage_local != entriesthispage:
+                                save_json(folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json"), currentpage)
+                                print(f"Page #{page} have been updated.")
+                            else:
+                                print(f"Page #{page} is up to date.")
+
+                        print("local mp rating is up to date")
+                        return
+                    else:
+                        print("Local mp-rating needs to be updated.")
+                        with open(folderpath.joinpath("multiplayer_rating.json"), "w") as f:
+                            json.dump(multiplayer_rating, f, indent=4)
+                            print("Local mp-rating updated")
+                else:
+                    exit()
+            else:
+                exit()
+        else:
+            print(f"Setting up user data at {folder[1]}...Please wait.")
+            multiplayer_rating = fetch_json(MP_RATING_URL.replace("USERID", userid))
+            if type(multiplayer_rating) != int:
+                save_json(folderpath.joinpath("user_info.json"), user_info)
+                print("Saved user_info.json")
+                save_json(folderpath.joinpath("multiplayer_rating.json"), multiplayer_rating)
+                print("Saved multiplayer_rating.json")
+
+                pagenum = math.ceil(multiplayer_rating["RacesCompleted"]/100)
+
+                os.mkdir(folderpath.joinpath("CareerPages"))
+                print("Created CareerPages folder.")
+                for page in range(1, pagenum + 1):
+                    page_n = fetch_json(CAREER_PAGE_URL.replace("USERNAME", username).replace("PAGE", str(page)))
+                    save_json(folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json"), page_n)
+                    print(f"Saved Page_{page}.json")
+
+    else:
+        return f"Error: Server is down or there is no such user as {username}"
+
+#print("Test for Orban_k")
+#start_download_pipeline("Orban_k")
+print("\n")
+
+print("Test for Bab_0")
 start_download_pipeline("Bab_0")
+print("\n")
 
-
-
-print("\nEdge case 2: valid user with missing pagefiles/races")
-start_download_pipeline("Orban_k")
-
-
+#print("Test for Stoffie87")
+#start_download_pipeline("Stoffie87")
 print("\n")
