@@ -17,6 +17,14 @@ def src():
     if request.method == 'POST':
         download_career_pages(request.form['username'])
     return render_template("src.html")
-
+@app.route('/tracks.html')
+def tracks():
+    return render_template("tracks.html")
+@app.route('/local.html')
+def local():
+    return render_template("local.html")
+@app.route('/cars.html')
+def cars():
+    return render_template("cars.html")
 if __name__ == '__main__':
     app.run(debug=True)

@@ -20,7 +20,7 @@ body{
     top: 0;
     height: fit-content;
     width: 100%;
-    background-color: rgba(255,0,0,0.5);
+    background-color: rgba(255,0,0,0.25);
     backdrop-filter: blur(10px);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
     z-index: 10;
@@ -30,7 +30,8 @@ body{
 .navbar-banner{
     display: flex;
     flex-direction: column;
-    background-color: rgba(20,0,0,0.5);
+    background-color: rgba(25,25,25,0.5);
+    border: 1px solid rgba(25, 25,25,0.15);
     width: fit-content;
     padding: 0.5rem 1rem;
 }
@@ -40,16 +41,19 @@ body{
 }
 .navbar-items{
     display: flex;
-    gap: 1rem;
 }
 .navbar-items a{
-    color: white;
+    color: rgba(220,220,220,0.95);
+    border: 1px solid rgba(25, 25,25,0.15);
+    background-color: rgba(25,25,25,0.5);
     text-decoration: none;
     margin: 0;
     padding: 1rem 1rem;
+    transition: color, background-color, font-size, 0.15s ease-in-out;
 }
-.navbar a:hover{
-    color: black;
+.navbar-items a:hover{
+    color: rgba(255,255,255,1);
+    background-color: rgba(25,25,25,0.15);
 }
 
 /* BODY | BODY | BODY */
@@ -58,16 +62,57 @@ body{
     display: inline-block;
     margin: 5%;
     padding: 2.5%;
-    border-radius: 5px;
-    background-color: rgba(20,0,0,0.5);
+    background-color: rgba(25,25,25,0.5);
     backdrop-filter: blur(10px);
+    border: 1px solid rgba(50,50,50,0.5);
+    border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
-    border: 1px solid rgba(25,0,0,0.8)
+
+}
+.search_bar{
+    position: absolute;
+    translate: -50% -50%;
+    left:50%;
+    top:50%;
+    width: 80%;
+    text-align: center;
+    padding: 2.5%;
+    background-color: rgba(25,25,25,0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(50,50,50,0.5);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+.search_bar input{
+    position: relative;
 }
 section{
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
-    font-size: 18px;
+   padding: 2.5%;
+}
+section h2{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+section h3{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+.track_layouts{
+    display: flex;
+}
+.track_layouts p{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+.track_layouts img{
+    height: 256px;
+    width: 256px;
+    transition: width, height, 0.15s ease-in-out;
+}
+.track_layouts img:hover{
+    height: 312px;
+    width: 312px;
 }
 .features{
     margin: 5%;

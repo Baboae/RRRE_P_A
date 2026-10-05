@@ -1,136 +1,57 @@
 import math
 import os
 import json
-from encodings import utf_8
 from pathlib import Path
 
 import requests
+import typing_extensions
 
-app_folder=Path(__file__).parent.parent.parent
-users_folder = Path(__file__).parent.parent.joinpath("webapp").joinpath("static").joinpath("users")
-USERFOLDERS_LIST = [u for u in os.listdir(users_folder)]
+print("\n")
 
-USER_INFO_URL = "https://game.raceroom.com/utils/user-info/USERNAME"
-MP_RATING_URL = "https://game.raceroom.com/multiplayer-rating/user/USERID.json"
-CAREER_PAGE_URL = "https://game.raceroom.com/users/USERNAME/career?CurrentPage=-PAGE&PageSize=100&json"
+pathto_app_folder=Path(__file__).parent.parent.parent
+pathto_users_folder = Path(__file__).parent.parent.joinpath("webapp").joinpath("static").joinpath("users")
+itemsIn_users_folder = [u for u in os.listdir(pathto_users_folder)]
 
-def fetch_json(URL):
-    """It loads the data from the official site's server.
 
-        If the server fails to respond, or responds with a default JSON file
-        indicating that the specific file or user does not exist, it returns the status code;
-        otherwise, it returns the raw data."""
-    response = requests.get(URL)
-    if response.status_code == 200 and "error" not in response.json().keys():
-        return response.json()
-    else:
+def fetch(url):
+    try:
+        #test a block of code
+        response = requests.get(url)
+        if response.status_code != 200:
+            raise Exception
+        if response.status_code == 200 and "error" in response.json().keys():
+            raise ValueError
+    except Exception:
+        #handle some sort of issue
+        print("Error connecting to RaceRoom servers.")
         return response.status_code
-
-def save_json(filename, file):
-    with open(filename, "w", encoding='utf-8') as f:
-        json.dump(file, f, indent=4, ensure_ascii=False)
-
-def create_user_folder(userid):
-    """If a folder does not yet exist for the user, the program creates one.
-
-        If there was no folder before, it creates it, then returns 1 and the folder path.
-        If there is already a folder, it returns a 0 and the folder path.
-        The default naming convention for now is userid."""
-
-    userfolder = app_folder.joinpath("data").joinpath("webapp").joinpath("static").joinpath("users").joinpath(f"{userid}")
-    if not os.path.exists(userfolder):
-        os.makedirs(userfolder)
-        return 1, userfolder
+    except ValueError:
+        print("Error: user or data does not exist.")
+        return 0
     else:
-        return 0, userfolder
+        #code executed if there is no error
+        return response.json()
+    finally:
+        #code that will run regardless of the result of the test
+        print(f"Response: {response}")
 
+def download_pipeline(username):
+    url_user_info = f"https://game.raceroom.com/utils/user-info/{username}"
+    url_mp_rating = "https://game.raceroom.com/multiplayer-rating/user/USERID.json"
+    url_career_page = "https://game.raceroom.com/users/USERNAME/career?CurrentPage=-PAGE&PageSize=100&json"
+    pass
 
-def start_download_pipeline(username):
-    """This is what I plan to call when the user clicks search on the site. It's still WIP."""
-    user_info = fetch_json(USER_INFO_URL.replace("USERNAME", username))
-    if type(user_info) != int:
-        userid = str(user_info["id"])
-        folder = create_user_folder(userid)
-        folderpath = folder[1]
-        if folder[0] == 0:
-            print(f"Local user data found at {folderpath}")
-            if "user_info.json" in os.listdir(folderpath):
-                if "multiplayer_rating.json" in os.listdir(folderpath):
-                    with open(folderpath.joinpath("multiplayer_rating.json"), "r") as f:
-                        multiplayer_rating_local = json.load(f)
-                    multiplayer_rating = fetch_json(MP_RATING_URL.replace("USERID", userid))
-                    if multiplayer_rating == multiplayer_rating_local:
+#region TESTING GROUNDS
 
-                        pagenum = math.ceil(multiplayer_rating["RacesCompleted"]/100)
-                        print(f"Pagenum: {pagenum}")
-                        racescompleted = multiplayer_rating["RacesCompleted"]
-                        print(f"RacesCompleted: {racescompleted}")
+test_good_username = f"https://game.raceroom.com/utils/user-info/Bab_0"
+test_bad_username = f"https://game.raceroom.com/utils/user-info/nemletezo"
 
-                        #TODO: go on with testing CareerPages.
-                        for page in range(1, pagenum + 1):
-                            entriesthispage_local = []
-                            entriesthispage = []
-                            print(f"Testing Page #{page}")
-                            currentpage_local = folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json")
-                            with open(currentpage_local, "r") as f:
-                                currentpage_local_raw = json.load(f)
-                            for c in currentpage_local_raw["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
-                                entriesthispage_local.append(c["RaceHash"])
+print(f"Good user-info:\n{fetch(test_good_username)}\n")
+print(f"Bad user-info:\n{fetch(test_bad_username)}\n")
 
-                            currentpage = fetch_json(CAREER_PAGE_URL.replace("USERNAME", username).replace("PAGE", str(page)))
-                            if type(currentpage) != int:
-                                for c in currentpage["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]:
-                                    entriesthispage.append(c["RaceHash"])
+test_good_mp_rating = "https://game.raceroom.com/multiplayer-rating/user/6524740.json"
+test_bad_mp_rating = "https://game.raceroom.com/multiplayer-rating/user/6524741.json"
 
-                            print(f"Local racehashes:{len(entriesthispage_local)}\n{entriesthispage_local}")
-                            print(f"Live racehashes:{len(entriesthispage)}\n{entriesthispage}")
-
-                            if entriesthispage_local != entriesthispage:
-                                save_json(folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json"), currentpage)
-                                print(f"Page #{page} have been updated.")
-                            else:
-                                print(f"Page #{page} is up to date.")
-
-                        print("local mp rating is up to date")
-                        return
-                    else:
-                        print("Local mp-rating needs to be updated.")
-                        with open(folderpath.joinpath("multiplayer_rating.json"), "w") as f:
-                            json.dump(multiplayer_rating, f, indent=4)
-                            print("Local mp-rating updated")
-                else:
-                    exit()
-            else:
-                exit()
-        else:
-            print(f"Setting up user data at {folder[1]}...Please wait.")
-            multiplayer_rating = fetch_json(MP_RATING_URL.replace("USERID", userid))
-            if type(multiplayer_rating) != int:
-                save_json(folderpath.joinpath("user_info.json"), user_info)
-                print("Saved user_info.json")
-                save_json(folderpath.joinpath("multiplayer_rating.json"), multiplayer_rating)
-                print("Saved multiplayer_rating.json")
-
-                pagenum = math.ceil(multiplayer_rating["RacesCompleted"]/100)
-
-                os.mkdir(folderpath.joinpath("CareerPages"))
-                print("Created CareerPages folder.")
-                for page in range(1, pagenum + 1):
-                    page_n = fetch_json(CAREER_PAGE_URL.replace("USERNAME", username).replace("PAGE", str(page)))
-                    save_json(folderpath.joinpath("CareerPages").joinpath(f"Page_{page}.json"), page_n)
-                    print(f"Saved Page_{page}.json")
-
-    else:
-        return f"Error: Server is down or there is no such user as {username}"
-
-#print("Test for Orban_k")
-#start_download_pipeline("Orban_k")
-print("\n")
-
-print("Test for Bab_0")
-start_download_pipeline("Bab_0")
-print("\n")
-
-#print("Test for Stoffie87")
-#start_download_pipeline("Stoffie87")
-print("\n")
+print(f"Good mp-rating:\n{fetch(test_good_mp_rating)}\n")
+print(f"Bad mp-rating:\n{fetch(test_bad_mp_rating)}\n")
+#endregion

@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
 
 {% block NAVBAR %}
-<a href="/">LOCAL FILES</a>
+<a href="local.html">LOCAL FILES</a>
 {% endblock %}
 
 {% block body %}
-<form action="/src.html" method="POST" class="content_dimmed">
-    <input type="text" name="username" id="username">
-    <input type="submit" value="Search User!">
+<form action="/src.html" method="POST" class="search_bar">
+    <input class="text_input" type="text" name="username" id="username">
+    <input class="button" type="submit" value="Search User!">
 </form>
 {% endblock %}

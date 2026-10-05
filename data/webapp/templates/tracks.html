@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block NAVBAR %}
+<a href="#EUROPE">EUROPE</a>
+<a href="#UNITED_STATES">UNITED STATES</a>
+<a href="#ASIA">ASIA</a>
+{% endblock %}
+
+{% block body %}
+<div class="content_dimmed">
+    <h1>Kind reminder!</h1>
+
+    <br>This informational part of the web app is still under development.<br>
+    <br>Below you can find a small sample of what I plan to do here.<br>
+    <br>Enjoy! (～￣▽￣)～
+</div>
+
+<div class="content_dimmed" id="EUROPE" name="EUROPE">
+    <section>
+    <h1>EUROPE</h1>
+        <h2>NORDSCHLEIFE</h2>
+
+            <p>
+                The Nürburgring Nordschleife is the longest, toughest and most terrifying track in racing today. The "Green Hell" as it is known, twists and turns through the German Eifel mountains, providing a unique set of challenges.
+                160 unique turns, 22.8 kilometers and straights allowing you to reach dizzying top speeds, all have been minutely modelled based on laserscan data. Details down to the grafitti on track is recreated, and we are proud to now invite you to race this mythical track with any of the wide variety of RaceRoom cars.
+                Racing and winning on the Nordschleife has always been very special. Tricky corners, treacherous crests, steep gradients and the constant close guardrails demand great skill from the driver and great understanding of your racing car. There is no comparison to taking on the Green Hell.
+            </p>
+
+        <h3>Layouts:</h3>
+        <div class="track_layouts">
+
+        <p><img src="/static/tracks/images/NORDSCHLEIFE/24_Hours.png" height="256px" width="256px">
+        <br>24 Hours: 25.378 km</p>
+
+        <p><img src="/static/tracks/images/NORDSCHLEIFE/NLS.png" height="256px" width="256px">
+        <br>NLS: 24.433 km</p>
+
+        <p><img src="/static/tracks/images/NORDSCHLEIFE/Nordschleife.png" height="256px" width="256px">
+        <br>Nordschleife: 20.83 km</p>
+
+        <p><img src="/static/tracks/images/NORDSCHLEIFE/Tourist.png" height="256px" width="256px">
+        <br>Tourist: 19.17 km</p>
+
+        </div>
+    </section>
+</div>
+
+<div class="content_dimmed" id="UNITED_STATES" name="UNITED_STATES">
+    <section>
+        <h1>UNITED STATES</h1>
+        <h2>Mid Ohio</h2>
+
+        <p>
+        Located in the American heartland, this track is a real rollercoaster ride with enough challenges for even the most experienced drivers. Blind crests and technical sections bring excitement and passing opportunities to the three layouts.
+        </p>
+
+        <h3>Layouts:</h3>
+        <div class="track_layouts">
+            <p><img src="/static/tracks/images/MID_OHIO/full.png">
+            <br>Full: 3.823 km</p>
+            <p><img src="/static/tracks/images/MID_OHIO/short.png">
+            <br>Short: 2.88 km</p>
+            <p><img src="/static/tracks/images/MID_OHIO/chicane.png">
+            <br>Chicane: 3.862 km</p>
+        </div>
+    </section>
+</div>
+
+<div class="content_dimmed" id="ASIA" name="ASIA">
+    <section>
+    <h1>ASIA</h1>
+    <h2>Suzuka</h2>
+
+    <p>
+    Suzuka has been an icon of racing in the Far East for decades and it is one of few circuits in the world with a "figure 8" layout, the back straight passing over the front section via an overpass. You get three layouts on this famed tarmac.
+    </p>
+
+    <h3>Layouts:</h3>
+    <div class="track_layouts">
+        <p><img src="/static/tracks/images/SUZUKA/Grand_Prix.png">
+        <br>Grand Prix: 5.807 km</p>
+        <p><img src="/static/tracks/images/SUZUKA/East_Course.png">
+        <br>East Course: 2.243 km</p>
+        <p><img src="/static/tracks/images/SUZUKA/West_Course.png">
+        <br>West Course: 3.466 km</p>
+    </div>
+    </section>
+</div>
+
+{% endblock %}
