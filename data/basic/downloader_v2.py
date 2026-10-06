@@ -1,22 +1,16 @@
 import os
-import json
 import math
-import threading
 import time
-from sys import thread_info
-
+import json
 import requests
-import multiprocessing
+import concurrent.futures
 from pathlib import Path
-
-import requests
-import typing_extensions
-from conda.notices import fetch
 
 curdir = Path(os.getcwd())
 folder_users = curdir.parent.joinpath("webapp").joinpath("static").joinpath("users")
 local_users = [user for user in os.listdir(folder_users)]
-print(local_users)
+
+#print(local_users)
 
 def fetching(url):
   response = requests.get(url)
@@ -33,7 +27,6 @@ def get_user_info(username):
     return 0
   else:
     return response.json()
-
 def get_multiplayer_rating(userid):
   """Kap egy userid-t, linkbe pattintja, ha az ad választ akkor visszaadja a nyers json-t, amúgy a státuszkódot.  """
 
@@ -42,24 +35,51 @@ def get_multiplayer_rating(userid):
     return response.status_code
   else:
     return response.json()
-
 def get_pages(page_urls):
   """Letölti a felhasználó "'career pages' json-jait.
     bemenetként megkapja listában az url-eket amiket le kell töltenie."""
   #TODO: valamilyen multiprocess/multithreading függvényt megírni,
   # amivel egyszerre több request-et leadva a raceroom szerverekre
   # egyszerre behívjuk az összes json-t.
-
-  start_time = time.time()
-  threads = []
-  for url in page_urls:
-    thread = threading.Thread(target=fetching, args=(url,))
-    threads.append(thread)
-    thread.start()
-  for thread in threads:
-    thread.join()
-  end_time = time.time()
-  print(f"{end_time - start_time} ")
+  downloaded_pages = []
+  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    # Start the load operations and mark each future with its URL
+    start_time = time.time()
+    future_to_url = {executor.submit(fetching, url): url for url in page_urls}
+    for future in concurrent.futures.as_completed(future_to_url):
+        url = future_to_url[future]
+        try:
+            data = future.result()
+            if type(data) is int:
+              raise Exception
+        except Exception as exc:
+            print('%r generated an exception: %s' % (url, exc))
+        else:
+            print('%r page is %d bytes' % (url, len(data)))
+            downloaded_pages.append(data)
+    end_time = time.time()
+    print(f"Download done in {end_time - start_time}s")
+    return downloaded_pages
+def get_races(race_urls):
+  downloaded_pages = []
+  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    # Start the load operations and mark each future with its URL
+    start_time = time.time()
+    future_to_url = {executor.submit(fetching, url): url for url in race_urls}
+    for future in concurrent.futures.as_completed(future_to_url):
+      url = future_to_url[future]
+      try:
+        data = future.result()
+        if type(data) is int:
+          raise Exception
+      except Exception as exc:
+        print('%r generated an exception: %s' % (url, exc))
+      else:
+        print('%r page is %d bytes' % (url, len(data)))
+        downloaded_pages.append(data)
+    end_time = time.time()
+    print(f"Download done in {end_time - start_time}s")
+    return downloaded_pages
 def download_pipeline(username):
   """Ezt a függvényt hívom be ha a felhasználó beír egy játékosnevet és a keresésre kattint az oldalon. Még nincs kész, nem tudom mit ad vissza."""
   user_info = get_user_info(username)
@@ -115,10 +135,21 @@ def download_pipeline(username):
     print("User not found")
 
 #region statikus teszt:
-username = "Orban_k"
-pagenums = [i for i in range(1,19)]
-print(pagenums)
-print(get_pages([f"https://game.raceroom.com/users/{username}/career?CurrentPage=-{str(n)}&PageSize=100&json" for n in pagenums]))
+username = "manolensen"
+pagenums = [i for i in range(1, 41)]
+
+pages = get_pages([f"https://game.raceroom.com/users/{username}/career?CurrentPage=-{str(n)}&PageSize=100&json" for n in pagenums])
+
+RaceHashes = []
+
+for page in range(len(pages)):
+  current_page = pages[page]["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"]
+  for line in current_page:
+    if line["RaceHash"] not in RaceHashes:
+      RaceHashes.append(line["RaceHash"])
+
+racelogs = get_races([f"https://game.raceroom.com/multiplayer/results/{rhash}" for rhash in RaceHashes])
+
 #endregion
 
 #region Dinamikus teszt:

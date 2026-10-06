@@ -1,0 +1,10 @@
+Test results for downloader_v2
+subject was user "manolensen"
+
+download was done using the
+concurrent.futures.ThreadPoolExecutor method
+with 5 workers for both task (pages n racelogs)
+
+> 3965 races
+> pages (40) download time: 65.34838509559631s
+>racelogs (3965) download time: 2503.7008278369904s (around 42 mins)
