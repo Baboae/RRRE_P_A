@@ -85,7 +85,12 @@ def download_pipeline(username):
           print(f"Races Completed(local): {local_mp_r["RacesCompleted"]}")
           if local_mp_r != multiplayer_rating:
             print(f"Local mp-rating is outdated, update required.\nLOCAL:\n{local_mp_r}\nLIVE:\n{multiplayer_rating}")
-
+            if local_mp_r["RacesCompleted"] != multiplayer_rating["RacesCompleted"]: #vagy: rating, rep
+              print("Races completed do not match, updating...")
+            else:
+              print("General mp rating data out of data, refreshing the local mp-rating file...")
+              with open(folder_user.joinpath("multiplayer_rating.json"), "w", encoding="utf-8") as wf:
+                wf.write(json.dumps(multiplayer_rating, indent=4, ensure_ascii=False))
     else:
       # TODO: NINCS MP RATING ÁG
       print(f"Error: User has no mp data or servers are down.")
