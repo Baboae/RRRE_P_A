@@ -22,7 +22,11 @@ def tracks():
     return render_template("tracks.html")
 @app.route('/local.html')
 def local():
-    return render_template("local.html")
+    users = []
+    for user in os.listdir('static/users'):
+        with open(os.path.join(f"static/users/{user}/multiplayer_rating.json"), 'r', encoding="utf-8") as f:
+            users.append(json.load(f))
+    return render_template("local.html", users=users)
 @app.route('/cars.html')
 def cars():
     return render_template("cars.html")
