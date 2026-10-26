@@ -1,15 +1,20 @@
 {% extends 'base.html' %}
 {% block NAVBAR %}
-<a href="src.html">SEARCH</a>
-<a href="tracks.html">TRACKS</a>
-<a href="cars.html">CARS</a>
+<a href="local.html">LOCAL FILES</a>
 {% endblock %}
 
 {% block body %}
 
-<div class="content_dimmed">
+<div class="rel_inline centered dimmed padding_2_5 margin_5">
+    <form>
+        <input class="dimmed_interactive_bright" type="text">
+        <input class="dimmed_interactive_bright" type="submit" value="Search!">
+    </form>
+</div>
+
+<div class="rel_inline centered dimmed padding_2_5 margin_5">
+    <section>
     <h1>About</h1>
-    <section id="about">
             <p> Explore your Raceroom ranked career history through detailed statistical insights provided by this tool.
                 The official website features a dashboard displaying your finishing positions, ELO, and other statistics
                 for your last 100 races, along with a career page to review your complete racing history.<br><br>
@@ -17,31 +22,7 @@
                 Designed to expand upon these graphs, this site helps you better understand your results by uncovering extra
                 data points from the source files that aren't visible on your career page.
             </p>
-
     </section>
 </div>
 
-<div class="content_dimmed">
-    <h1>Features</h1>
-        <div class="features">
-            <ul>
-                    <li>Lorem ipsum dolor sit amet consectetur adipiscing elit.</li><br>
-                    <li>Quisque faucets ex sapien vitae interpellates sem placerat.</li><br>
-                    <li>In id cursus mi pretium tellus duis Corvallis.</li><br>
-            </ul>
-        </div>
-</div>
-
-<div class="content_dimmed">
-    <h1>FAQ:</h1>
-    <div class="features">
-        <ul>
-            <li>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.
-                Quisque faucets ex sapien vitae interpellates sem placerat?</p><br>
-                <p>In id cursus mi pretium tellus duis Corvallis.</p>
-            </li>
-        </ul>
-    </div>
-</div>
 {% endblock %}

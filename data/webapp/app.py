@@ -12,14 +12,6 @@ print(TEMPLATES_DIR)
 @app.route('/')
 def index():
     return render_template("index.html")
-@app.route('/src.html', methods=['POST', 'GET'])
-def src():
-    if request.method == 'POST':
-        download_career_pages(request.form['username'])
-    return render_template("src.html")
-@app.route('/tracks.html')
-def tracks():
-    return render_template("tracks.html")
 @app.route('/local.html')
 def local():
     users = []
@@ -27,8 +19,6 @@ def local():
         with open(os.path.join(f"static/users/{user}/multiplayer_rating.json"), 'r', encoding="utf-8") as f:
             users.append(json.load(f))
     return render_template("local.html", users=users)
-@app.route('/cars.html')
-def cars():
-    return render_template("cars.html")
+
 if __name__ == '__main__':
     app.run(debug=True)

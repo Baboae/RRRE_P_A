@@ -1,20 +1,26 @@
 {% extends 'base.html' %}
 
 {% block body %}
-<div class="content_dimmed">
-  <div class="local_users">
-    <h1>LOCAL USERS:</h1>
-    <ul>
+<div class="centered">
+  <table class="local rel_inline padding_2_5 margin_5" >
+    <thead class="dimmed">
+    <tr>
+      <th>NAME</th>
+      <th>ELO</th>
+      <th>SAFETY</th>
+      <th>POS</th>
+    </tr>
+    </thead>
+    <tbody class="dimmed">
     {% for user in users %}
-      <li>
-        {{ user["Fullname"] }}<br>
-        ELO: {{ user["Rating"] }}<br>
-        REP: {{ user["Reputation"] }}<br>
-        Races completed: {{ user["RacesCompleted"] }}<br>
-      </li>
-      <br>
+    <tr>
+        <td><a href="">{{ user["Fullname"] }}</a></td>
+        <td>{{ user["Rating"] }}</td>
+        <td>{{ user["Reputation"] }}</td>
+        <td>{% if "Position" in user %}{{ user["Position"] }}{% else %} inactive {% endif %}</td>
+    </tr>
     {% endfor %}
-    </ul>
-  </div>
+    </tbody>
+</table>
 </div>
 {% endblock %}
