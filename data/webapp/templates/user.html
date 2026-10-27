@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block NAVBAR %}
+<a href="/local.html">LOCALS</a>
+{% endblock %}
+{% block body %}
+<div class="table wide blurred_background rounded_border">
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>DATE</th>
+            <th>STARTED</th>
+            <th>FINISHED</th>
+            <th>PLAYERS</th>
+            <th>ELO +/-</th>
+            <th>REP +/-</th>
+            <th>INC</th>
+
+        </tr>
+        {% for page in pages %}
+            {% for line in page["context"]["c"]["raceList"]["GetUserMpRatingProgressResult"]["Entries"] %}
+                <tr>
+                    <td>{{line["RaceHash"]}}</td>
+                    <td>{{line["RaceFinishTime"] | datetimeformat }}</td>
+                    <td>{{line["StartPosition"]}}</td>
+                    <td>{{line["FinishPosition"]}}</td>
+                    <td>{{line["PlayersCount"]}}</td>
+                    <td>{{line["RatingChange"]}}</td>
+                    <td>{{line["ReputationChange"]}}</td>
+                    <td>{{line["IncidentPoints"]}}</td>
+                    <td>{{line[""]}}</td>
+                    <td>{{line[""]}}</td>
+                    <td>{{line[""]}}</td>
+                    <td>{{line[""]}}</td>
+
+                </tr>
+            {% endfor %}
+        {% endfor %}
+    </table>
+</div>
+
+{% endblock %}

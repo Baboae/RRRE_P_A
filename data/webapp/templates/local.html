@@ -1,26 +1,44 @@
 {% extends 'base.html' %}
-
+{% block NAVBAR %}
+<a href="/">BACK</a>
+{% endblock %}
 {% block body %}
-<div class="centered">
-  <table class="local rel_inline padding_2_5 margin_5" >
-    <thead class="dimmed">
-    <tr>
-      <th>NAME</th>
-      <th>ELO</th>
-      <th>SAFETY</th>
-      <th>POS</th>
-    </tr>
-    </thead>
-    <tbody class="dimmed">
-    {% for user in users %}
-    <tr>
-        <td><a href="">{{ user["Fullname"] }}</a></td>
-        <td>{{ user["Rating"] }}</td>
-        <td>{{ user["Reputation"] }}</td>
-        <td>{% if "Position" in user %}{{ user["Position"] }}{% else %} inactive {% endif %}</td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
+{% for user in user_infos %}
+<div class="profile_card container wide blurred_background rounded_border">
+    <div class="user_info">
+        <div class="avatar">
+            <a href="/user/{{user['username']}}">
+            <img src="{{ user['avatar'] }}">
+            </a>
+        </div>
+        <br>
+        <div class="name">
+           <a href="/user/{{user['username']}}">
+            @{{ user["name"]}}
+           </a>
+        </div>
+        <div class="basic_info">
+            NATIONALITY: {{user["country"]["name"]}}
+            {% if user["team"] != ""%}
+                MEMBER OF: {{user["team"]}}
+                {% else %}
+                    PRIVATEER
+            {% endif %}
+        </div>
+    </div>
+    <div class="mp_info">
+        {% for mp in mp_ratings%}
+            {% if mp["UserId"] == user["id"]%}
+                ELO RATING: {{mp["Rating"]}}<br>
+                REPUTATION: {{mp["Reputation"]}}<br>
+                ENTRIES: {{mp["RacesCompleted"]}}<br>
+                ACTIVITY: {{mp["ActivityPoints"]}}<br>
+                {% if mp["ActivityPoints"] > 0%}
+                    GLOBAL POSITION: {{mp["Position"]}}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>
+{%endfor%}
 {% endblock %}
