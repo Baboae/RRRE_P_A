@@ -1,0 +1,274 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "w1WXmZ",
+        "TrackLayoutId": {
+            "Id": 7112,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 7111,
+            "Name": "Autodrom Most"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100683,
+                        "SectorTimes": [
+                            46432,
+                            74753,
+                            100683
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5373442,
+                "Username": "johnltmiller",
+                "FullName": "John Miller",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1983.782,
+                "RatingChange": 0.35,
+                "RatingAfter": 1984.132,
+                "ReputationBefore": 90.937,
+                "ReputationChange": 0.192,
+                "ReputationAfter": 91.129,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 106474,
+                        "SectorTimes": [
+                            51737,
+                            80426,
+                            106474
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101299,
+                        "SectorTimes": [
+                            46279,
+                            75206,
+                            101299
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101920,
+                        "SectorTimes": [
+                            46568,
+                            75461,
+                            101920
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5373442,
+                "Username": "johnltmiller",
+                "FullName": "John Miller",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1545.034,
+                "RatingChange": -1.4,
+                "RatingAfter": 1543.634,
+                "ReputationBefore": 83.269,
+                "ReputationChange": -0.94,
+                "ReputationAfter": 82.329,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111789,
+                        "SectorTimes": [
+                            55915,
+                            85329,
+                            111789
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101465,
+                        "SectorTimes": [
+                            46716,
+                            75205,
+                            101465
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

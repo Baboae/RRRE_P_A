@@ -1,0 +1,383 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "bvn9xa",
+        "TrackLayoutId": {
+            "Id": 1676,
+            "Name": "Chicane"
+        },
+        "TrackId": {
+            "Id": 1673,
+            "Name": "Mid-Ohio Sports Car Course"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 11916,
+                    "Name": "#22"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6211918,
+                "Username": "rubio8984",
+                "FullName": "J.A moreno",
+                "Team": "Peña Rallye Al Volante",
+                "LiveryId": {
+                    "Id": 11563,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 11916,
+                    "Name": "#22"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2175.53,
+                "RatingChange": 0.2,
+                "RatingAfter": 2175.73,
+                "ReputationBefore": 92.572,
+                "ReputationChange": -0.448,
+                "ReputationAfter": 92.124,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111517,
+                        "SectorTimes": [
+                            49302,
+                            87873,
+                            111517
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104577,
+                        "SectorTimes": [
+                            42683,
+                            80905,
+                            104577
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104594,
+                        "SectorTimes": [
+                            42758,
+                            81354,
+                            104594
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104637,
+                        "SectorTimes": [
+                            42496,
+                            80976,
+                            104637
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 103113,
+                        "SectorTimes": [
+                            42907,
+                            80356,
+                            103113
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 108433,
+                        "SectorTimes": [
+                            41527,
+                            83427,
+                            108433
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101887,
+                        "SectorTimes": [
+                            41319,
+                            78855,
+                            101887
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104413,
+                        "SectorTimes": [
+                            42794,
+                            81015,
+                            104413
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 105281,
+                        "SectorTimes": [
+                            43149,
+                            81825,
+                            105281
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6211918,
+                "Username": "rubio8984",
+                "FullName": "J.A moreno",
+                "Team": "Peña Rallye Al Volante",
+                "LiveryId": {
+                    "Id": 11563,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1638.23,
+                "RatingChange": -0.4,
+                "RatingAfter": 1637.83,
+                "ReputationBefore": 80.402,
+                "ReputationChange": 0.531,
+                "ReputationAfter": 80.933,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111063,
+                        "SectorTimes": [
+                            49168,
+                            87405,
+                            111063
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104673,
+                        "SectorTimes": [
+                            42992,
+                            81011,
+                            104673
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104503,
+                        "SectorTimes": [
+                            42923,
+                            81223,
+                            104503
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104899,
+                        "SectorTimes": [
+                            42842,
+                            81109,
+                            104899
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 105247,
+                        "SectorTimes": [
+                            43058,
+                            81682,
+                            105247
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104217,
+                        "SectorTimes": [
+                            42614,
+                            80705,
+                            104217
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103979,
+                        "SectorTimes": [
+                            42816,
+                            80807,
+                            103979
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104431,
+                        "SectorTimes": [
+                            42763,
+                            81090,
+                            104431
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 105798,
+                        "SectorTimes": [
+                            43326,
+                            81763,
+                            105798
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

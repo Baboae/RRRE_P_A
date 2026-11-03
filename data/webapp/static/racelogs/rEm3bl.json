@@ -1,0 +1,926 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "rEm3bl",
+        "TrackLayoutId": {
+            "Id": 2123,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 2122,
+            "Name": "Guia Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12584,
+                    "Name": "#8"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5187030,
+                "Username": "cgrg17",
+                "FullName": "carlos rodríguez gil",
+                "Team": "ubik",
+                "LiveryId": {
+                    "Id": 12647,
+                    "Name": "#016"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12647,
+                    "Name": "#016"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8275167,
+                "Username": "leankawita",
+                "FullName": "Leandro Barreiro",
+                "Team": "ESRA",
+                "LiveryId": {
+                    "Id": 12920,
+                    "Name": "#04"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8969822,
+                "Username": "REPEEKMC",
+                "FullName": "Pedro Silva",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12838,
+                    "Name": "#89"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9328194,
+                "Username": "faltacuecas23",
+                "FullName": "rodrigo henriques",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12831,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12584,
+                    "Name": "#8"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1935.756,
+                "RatingChange": 2.062,
+                "RatingAfter": 1937.818,
+                "ReputationBefore": 90.497,
+                "ReputationChange": -0.05,
+                "ReputationAfter": 90.447,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 4,
+                        "Points": 16
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 6,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 166953,
+                        "SectorTimes": [
+                            35905,
+                            135874,
+                            166953
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151919,
+                        "SectorTimes": [
+                            28018,
+                            121279,
+                            151919
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151305,
+                        "SectorTimes": [
+                            28072,
+                            120455,
+                            151305
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150373,
+                        "SectorTimes": [
+                            28181,
+                            119851,
+                            150373
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150652,
+                        "SectorTimes": [
+                            28174,
+                            119891,
+                            150652
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150726,
+                        "SectorTimes": [
+                            28225,
+                            120222,
+                            150726
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150111,
+                        "SectorTimes": [
+                            28190,
+                            119661,
+                            150111
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 149874,
+                        "SectorTimes": [
+                            28154,
+                            119445,
+                            149874
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150537,
+                        "SectorTimes": [
+                            28202,
+                            120091,
+                            150537
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 150550,
+                        "SectorTimes": [
+                            28052,
+                            120239,
+                            150550
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151541,
+                        "SectorTimes": [
+                            28043,
+                            121001,
+                            151541
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 152721,
+                        "SectorTimes": [
+                            28259,
+                            121877,
+                            152721
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8275167,
+                "Username": "leankawita",
+                "FullName": "Leandro Barreiro",
+                "Team": "ESRA",
+                "LiveryId": {
+                    "Id": 12920,
+                    "Name": "#04"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1732.28,
+                "RatingChange": 5.011,
+                "RatingAfter": 1737.291,
+                "ReputationBefore": 82.654,
+                "ReputationChange": 1.11,
+                "ReputationAfter": 83.764,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 14,
+                        "Points": 15
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 167604,
+                        "SectorTimes": [
+                            36795,
+                            137128,
+                            167604
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 153272,
+                        "SectorTimes": [
+                            28288,
+                            122919,
+                            153272
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 149982,
+                        "SectorTimes": [
+                            27443,
+                            119670,
+                            149982
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151131,
+                        "SectorTimes": [
+                            27580,
+                            120854,
+                            151131
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150262,
+                        "SectorTimes": [
+                            27668,
+                            119747,
+                            150262
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151546,
+                        "SectorTimes": [
+                            27487,
+                            121057,
+                            151546
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150892,
+                        "SectorTimes": [
+                            27479,
+                            120646,
+                            150892
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150978,
+                        "SectorTimes": [
+                            27345,
+                            120674,
+                            150978
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150863,
+                        "SectorTimes": [
+                            27378,
+                            120427,
+                            150863
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 157523,
+                        "SectorTimes": [
+                            27409,
+                            126882,
+                            157523
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151317,
+                        "SectorTimes": [
+                            27401,
+                            120778,
+                            151317
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 158271,
+                        "SectorTimes": [
+                            27533,
+                            120293,
+                            158271
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5187030,
+                "Username": "cgrg17",
+                "FullName": "carlos rodríguez gil",
+                "Team": "ubik",
+                "LiveryId": {
+                    "Id": 12647,
+                    "Name": "#016"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 6,
+                "FinishPosition": 3,
+                "StartPositionInClass": 6,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1624.888,
+                "RatingChange": 3.725,
+                "RatingAfter": 1628.613,
+                "ReputationBefore": 90.308,
+                "ReputationChange": 0.515,
+                "ReputationAfter": 90.823,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 7,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 177680,
+                        "SectorTimes": [
+                            40431,
+                            144435,
+                            177680
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 168159,
+                        "SectorTimes": [
+                            29993,
+                            134233,
+                            168159
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165225,
+                        "SectorTimes": [
+                            29805,
+                            133020,
+                            165225
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 164513,
+                        "SectorTimes": [
+                            28932,
+                            130871,
+                            164513
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165843,
+                        "SectorTimes": [
+                            29110,
+                            131476,
+                            165843
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165091,
+                        "SectorTimes": [
+                            29138,
+                            131506,
+                            165091
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165808,
+                        "SectorTimes": [
+                            29811,
+                            132609,
+                            165808
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 167863,
+                        "SectorTimes": [
+                            29077,
+                            135134,
+                            167863
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165622,
+                        "SectorTimes": [
+                            30014,
+                            132495,
+                            165622
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 162464,
+                        "SectorTimes": [
+                            29563,
+                            130193,
+                            162464
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 165093,
+                        "SectorTimes": [
+                            29103,
+                            132982,
+                            165093
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12647,
+                    "Name": "#016"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 5,
+                "FinishPosition": 4,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1891.027,
+                "RatingChange": -8.16,
+                "RatingAfter": 1882.867,
+                "ReputationBefore": 94.247,
+                "ReputationChange": -0.016,
+                "ReputationAfter": 94.231,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 5,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 167398,
+                        "SectorTimes": [
+                            35820,
+                            136544,
+                            167398
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 155135,
+                        "SectorTimes": [
+                            28620,
+                            124493,
+                            155135
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 153407,
+                        "SectorTimes": [
+                            27762,
+                            122188,
+                            153407
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 161765,
+                        "SectorTimes": [
+                            27947,
+                            130969,
+                            161765
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151928,
+                        "SectorTimes": [
+                            27780,
+                            121359,
+                            151928
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 152071,
+                        "SectorTimes": [
+                            27922,
+                            121731,
+                            152071
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 152249,
+                        "SectorTimes": [
+                            27623,
+                            121087,
+                            152249
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151425,
+                        "SectorTimes": [
+                            27649,
+                            120974,
+                            151425
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 164194,
+                        "SectorTimes": [
+                            28510,
+                            127594,
+                            164194
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 257843,
+                        "SectorTimes": [
+                            30298,
+                            151681,
+                            257843
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 166751,
+                        "SectorTimes": [
+                            40756,
+                            135614,
+                            166751
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 8969822,
+                "Username": "REPEEKMC",
+                "FullName": "Pedro Silva",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12838,
+                    "Name": "#89"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 3,
+                "FinishPosition": 5,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1448.234,
+                "RatingChange": -0.798,
+                "RatingAfter": 1447.436,
+                "ReputationBefore": 65.522,
+                "ReputationChange": -12.904,
+                "ReputationAfter": 52.618,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            },
+            {
+                "UserId": 9328194,
+                "Username": "faltacuecas23",
+                "FullName": "rodrigo henriques",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12831,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 4,
+                "FinishPosition": 6,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 6,
+                "RatingBefore": 1424.237,
+                "RatingChange": -8.603,
+                "RatingAfter": 1415.634,
+                "ReputationBefore": 58.022,
+                "ReputationChange": -11.404,
+                "ReputationAfter": 46.618,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    }
+                ]
+            }
+        ]
+    }
+}

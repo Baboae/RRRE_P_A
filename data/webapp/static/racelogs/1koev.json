@@ -1,0 +1,864 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "1koev",
+        "TrackLayoutId": {
+            "Id": 1856,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1855,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 6290308,
+                "Username": "RobertKroemer",
+                "FullName": "Robert Kroemer",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 4935,
+                    "Name": "#99"
+                },
+                "CarClass": {
+                    "Id": 4680,
+                    "Name": "Audi Sport TT Cup 2015"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96578,
+                        "SectorTimes": [
+                            32965,
+                            67931,
+                            96578
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 95558,
+                        "SectorTimes": [
+                            32634,
+                            67305,
+                            95558
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 97599,
+                        "SectorTimes": [
+                            32626,
+                            69160,
+                            97599
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6347700,
+                "Username": "SaltVader",
+                "FullName": "Sao Sola Molto",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5682,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6331526,
+                "Username": "Siriur",
+                "FullName": "Martín Valls",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 4935,
+                    "Name": "#99"
+                },
+                "CarClass": {
+                    "Id": 4680,
+                    "Name": "Audi Sport TT Cup 2015"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5676,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5676,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 4,
+                "FinishPosition": 1,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1444.302,
+                "RatingChange": 6.488,
+                "RatingAfter": 1450.79,
+                "ReputationBefore": 73.099,
+                "ReputationChange": 2.065,
+                "ReputationAfter": 75.164,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 105329,
+                        "SectorTimes": [
+                            41036,
+                            77473,
+                            105329
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 93718,
+                        "SectorTimes": [
+                            32547,
+                            66305,
+                            93718
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 93258,
+                        "SectorTimes": [
+                            31066,
+                            64426,
+                            93258
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90716,
+                        "SectorTimes": [
+                            31245,
+                            63974,
+                            90716
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91285,
+                        "SectorTimes": [
+                            31218,
+                            64237,
+                            91285
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91250,
+                        "SectorTimes": [
+                            31169,
+                            64303,
+                            91250
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91373,
+                        "SectorTimes": [
+                            31188,
+                            64161,
+                            91373
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91521,
+                        "SectorTimes": [
+                            31023,
+                            64473,
+                            91521
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92879,
+                        "SectorTimes": [
+                            31487,
+                            65055,
+                            92879
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92810,
+                        "SectorTimes": [
+                            31309,
+                            64963,
+                            92810
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6347700,
+                "Username": "SaltVader",
+                "FullName": "Sao Sola Molto",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5682,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1443.374,
+                "RatingChange": 2.252,
+                "RatingAfter": 1445.626,
+                "ReputationBefore": 68.193,
+                "ReputationChange": 1.861,
+                "ReputationAfter": 70.054,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 104747,
+                        "SectorTimes": [
+                            41179,
+                            76605,
+                            104747
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 93720,
+                        "SectorTimes": [
+                            32054,
+                            66297,
+                            93720
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 94451,
+                        "SectorTimes": [
+                            31218,
+                            64805,
+                            94451
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92041,
+                        "SectorTimes": [
+                            31207,
+                            64523,
+                            92041
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92472,
+                        "SectorTimes": [
+                            31546,
+                            64959,
+                            92472
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92868,
+                        "SectorTimes": [
+                            31723,
+                            65040,
+                            92868
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92843,
+                        "SectorTimes": [
+                            31989,
+                            65569,
+                            92843
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 97828,
+                        "SectorTimes": [
+                            31564,
+                            69836,
+                            97828
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 95455,
+                        "SectorTimes": [
+                            32638,
+                            67069,
+                            95455
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 93413,
+                        "SectorTimes": [
+                            32307,
+                            65888,
+                            93413
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6290308,
+                "Username": "RobertKroemer",
+                "FullName": "Robert Kroemer",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 4935,
+                    "Name": "#99"
+                },
+                "CarClass": {
+                    "Id": 4680,
+                    "Name": "Audi Sport TT Cup 2015"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 1,
+                "FinishPosition": 3,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1372.066,
+                "RatingChange": -2.145,
+                "RatingAfter": 1369.921,
+                "ReputationBefore": 79.513,
+                "ReputationChange": 1.549,
+                "ReputationAfter": 81.062,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 104405,
+                        "SectorTimes": [
+                            40226,
+                            75669,
+                            104405
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 97283,
+                        "SectorTimes": [
+                            32624,
+                            68476,
+                            97283
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 96035,
+                        "SectorTimes": [
+                            32710,
+                            67700,
+                            96035
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 95943,
+                        "SectorTimes": [
+                            32416,
+                            67282,
+                            95943
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 95839,
+                        "SectorTimes": [
+                            32899,
+                            67642,
+                            95839
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 95669,
+                        "SectorTimes": [
+                            32346,
+                            66799,
+                            95669
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 97128,
+                        "SectorTimes": [
+                            32887,
+                            68270,
+                            97128
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 95266,
+                        "SectorTimes": [
+                            32481,
+                            66602,
+                            95266
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 96649,
+                        "SectorTimes": [
+                            33091,
+                            68421,
+                            96649
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 96108,
+                        "SectorTimes": [
+                            32893,
+                            67711,
+                            96108
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 6331526,
+                "Username": "Siriur",
+                "FullName": "Martín Valls",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 4935,
+                    "Name": "#99"
+                },
+                "CarClass": {
+                    "Id": 4680,
+                    "Name": "Audi Sport TT Cup 2015"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 3,
+                "FinishPosition": 4,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1303.743,
+                "RatingChange": -5.47,
+                "RatingAfter": 1298.273,
+                "ReputationBefore": 88.23,
+                "ReputationChange": -0.629,
+                "ReputationAfter": 87.601,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "Stationary",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 104686,
+                        "SectorTimes": [
+                            40608,
+                            76265,
+                            104686
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 197270,
+                        "SectorTimes": [
+                            47872,
+                            82340,
+                            197270
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 102030,
+                        "SectorTimes": [
+                            37972,
+                            73827,
+                            102030
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 103381,
+                        "SectorTimes": [
+                            32719,
+                            74512,
+                            103381
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 103012,
+                        "SectorTimes": [
+                            32315,
+                            73857,
+                            103012
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 96908,
+                        "SectorTimes": [
+                            33102,
+                            68884,
+                            96908
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 106201,
+                        "SectorTimes": [
+                            35261,
+                            77616,
+                            106201
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 94671,
+                        "SectorTimes": [
+                            32291,
+                            66764,
+                            94671
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 102861,
+                        "SectorTimes": [
+                            37657,
+                            72188,
+                            102861
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

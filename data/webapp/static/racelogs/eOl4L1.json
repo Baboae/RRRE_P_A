@@ -1,0 +1,186 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "eOl4L1",
+        "TrackLayoutId": {
+            "Id": 4975,
+            "Name": "NLS"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 11247,
+                    "Name": "#24"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1964.647,
+                "RatingChange": 1.45,
+                "RatingAfter": 1966.097,
+                "ReputationBefore": 90.943,
+                "ReputationChange": 0.906,
+                "ReputationAfter": 91.849,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 11247,
+                    "Name": "#24"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1809.855,
+                "RatingChange": -2.9,
+                "RatingAfter": 1806.955,
+                "ReputationBefore": 81.767,
+                "ReputationChange": -8.077,
+                "ReputationAfter": 73.69,
+                "Incidents": [
+                    {
+                        "Type": "Stationary",
+                        "Count": 9,
+                        "Points": 9
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,666 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "1YwX1b",
+        "TrackLayoutId": {
+            "Id": 10904,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 10903,
+            "Name": "Circuit de Charade"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 12289,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109518,
+                        "SectorTimes": [
+                            29803,
+                            68546,
+                            109518
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 1031627,
+                "Username": "mpauco",
+                "FullName": "Mikulas Pauco",
+                "Team": "P&P Duo Racing",
+                "LiveryId": {
+                    "Id": 12289,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113334,
+                        "SectorTimes": [
+                            31333,
+                            71258,
+                            113334
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110997,
+                        "SectorTimes": [
+                            30640,
+                            69891,
+                            110997
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6226848,
+                "Username": "jonatanparrilla97",
+                "FullName": "jon cn",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12235,
+                    "Name": "#28"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 12289,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2151.665,
+                "RatingChange": 0.163,
+                "RatingAfter": 2151.828,
+                "ReputationBefore": 92.933,
+                "ReputationChange": 0.469,
+                "ReputationAfter": 93.402,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111940,
+                        "SectorTimes": [
+                            34009,
+                            72238,
+                            111940
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 106957,
+                        "SectorTimes": [
+                            29470,
+                            67228,
+                            106957
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119420,
+                        "SectorTimes": [
+                            41272,
+                            79254,
+                            119420
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112436,
+                        "SectorTimes": [
+                            30514,
+                            71864,
+                            112436
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 109771,
+                        "SectorTimes": [
+                            30325,
+                            69327,
+                            109771
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 121318,
+                        "SectorTimes": [
+                            42115,
+                            80588,
+                            121318
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110300,
+                        "SectorTimes": [
+                            30701,
+                            69402,
+                            110300
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 109931,
+                        "SectorTimes": [
+                            30929,
+                            69682,
+                            109931
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 108039,
+                        "SectorTimes": [
+                            29490,
+                            67430,
+                            108039
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 112013,
+                        "SectorTimes": [
+                            34184,
+                            72020,
+                            112013
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115422,
+                        "SectorTimes": [
+                            29658,
+                            69797,
+                            115422
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 1031627,
+                "Username": "mpauco",
+                "FullName": "Mikulas Pauco",
+                "Team": "P&P Duo Racing",
+                "LiveryId": {
+                    "Id": 12289,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1618.855,
+                "RatingChange": 1.696,
+                "RatingAfter": 1620.551,
+                "ReputationBefore": 83.384,
+                "ReputationChange": 2.492,
+                "ReputationAfter": 85.876,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 115970,
+                        "SectorTimes": [
+                            35564,
+                            74863,
+                            115970
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111801,
+                        "SectorTimes": [
+                            31341,
+                            70845,
+                            111801
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110200,
+                        "SectorTimes": [
+                            30845,
+                            69781,
+                            110200
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 112283,
+                        "SectorTimes": [
+                            31790,
+                            71385,
+                            112283
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109720,
+                        "SectorTimes": [
+                            30488,
+                            69622,
+                            109720
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 121590,
+                        "SectorTimes": [
+                            41811,
+                            80977,
+                            121590
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110286,
+                        "SectorTimes": [
+                            30615,
+                            69499,
+                            110286
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111387,
+                        "SectorTimes": [
+                            31047,
+                            69907,
+                            111387
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111141,
+                        "SectorTimes": [
+                            30533,
+                            69423,
+                            111141
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111600,
+                        "SectorTimes": [
+                            30857,
+                            69620,
+                            111600
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112371,
+                        "SectorTimes": [
+                            31093,
+                            71210,
+                            112371
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6226848,
+                "Username": "jonatanparrilla97",
+                "FullName": "jon cn",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12235,
+                    "Name": "#28"
+                },
+                "CarClass": {
+                    "Id": 12015,
+                    "Name": "Porsche Carrera Cup Deutschland 2023"
+                },
+                "PerformanceIndex": 110,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1338.013,
+                "RatingChange": -1.174,
+                "RatingAfter": 1336.839,
+                "ReputationBefore": 83.014,
+                "ReputationChange": 0.065,
+                "ReputationAfter": 83.079,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 5,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 17,
+                        "Points": 17
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 136647,
+                        "SectorTimes": [
+                            41488,
+                            89222,
+                            136647
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126844,
+                        "SectorTimes": [
+                            34920,
+                            78680,
+                            126844
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 128585,
+                        "SectorTimes": [
+                            36809,
+                            79386,
+                            128585
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 123086,
+                        "SectorTimes": [
+                            35222,
+                            77625,
+                            123086
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 128265,
+                        "SectorTimes": [
+                            34732,
+                            79101,
+                            128265
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 129210,
+                        "SectorTimes": [
+                            35210,
+                            81604,
+                            129210
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 131818,
+                        "SectorTimes": [
+                            35367,
+                            78168,
+                            131818
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 132715,
+                        "SectorTimes": [
+                            35303,
+                            78233,
+                            132715
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 140150,
+                        "SectorTimes": [
+                            33960,
+                            86228,
+                            140150
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 136099,
+                        "SectorTimes": [
+                            36203,
+                            87429,
+                            136099
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

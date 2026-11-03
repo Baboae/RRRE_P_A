@@ -1,0 +1,360 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "a1zP42",
+        "TrackLayoutId": {
+            "Id": 1693,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1692,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12740,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2067.009,
+                "RatingChange": 1.65,
+                "RatingAfter": 2068.659,
+                "ReputationBefore": 94.895,
+                "ReputationChange": -1.254,
+                "ReputationAfter": 93.641,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 115776,
+                        "SectorTimes": [
+                            29750,
+                            80374,
+                            115776
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110018,
+                        "SectorTimes": [
+                            24296,
+                            74444,
+                            110018
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130971,
+                        "SectorTimes": [
+                            24648,
+                            80294,
+                            130971
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110447,
+                        "SectorTimes": [
+                            24445,
+                            74994,
+                            110447
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111805,
+                        "SectorTimes": [
+                            24342,
+                            74561,
+                            111805
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133227,
+                        "SectorTimes": [
+                            25639,
+                            97093,
+                            133227
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 126220,
+                        "SectorTimes": [
+                            32400,
+                            90871,
+                            126220
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110601,
+                        "SectorTimes": [
+                            24474,
+                            75208,
+                            110601
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12740,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1944.412,
+                "RatingChange": -1.65,
+                "RatingAfter": 1942.762,
+                "ReputationBefore": 94.401,
+                "ReputationChange": -1.977,
+                "ReputationAfter": 92.424,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 3,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 118114,
+                        "SectorTimes": [
+                            30973,
+                            81937,
+                            118114
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111811,
+                        "SectorTimes": [
+                            24818,
+                            75732,
+                            111811
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 123279,
+                        "SectorTimes": [
+                            24751,
+                            75418,
+                            123279
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123056,
+                        "SectorTimes": [
+                            25183,
+                            86673,
+                            123056
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110664,
+                        "SectorTimes": [
+                            24621,
+                            75241,
+                            110664
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 137365,
+                        "SectorTimes": [
+                            36066,
+                            88802,
+                            137365
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115648,
+                        "SectorTimes": [
+                            26933,
+                            78514,
+                            115648
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116579,
+                        "SectorTimes": [
+                            28382,
+                            79627,
+                            116579
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

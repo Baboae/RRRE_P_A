@@ -1,0 +1,593 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "29w9Q",
+        "TrackLayoutId": {
+            "Id": 1678,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1677,
+            "Name": "2019"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5928428,
+                "Username": "chris010804",
+                "FullName": "Chris Thorpe",
+                "Team": "SCB Racing",
+                "LiveryId": {
+                    "Id": 7227,
+                    "Name": "#48"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110517,
+                        "SectorTimes": [
+                            48642,
+                            77494,
+                            110517
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111000,
+                        "SectorTimes": [
+                            48980,
+                            77907,
+                            111000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            48540,
+                            77504,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 9180,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6302823,
+                "Username": "CyberonMG",
+                "FullName": "Lazar Pejic",
+                "Team": "Decoline",
+                "LiveryId": {
+                    "Id": 7226,
+                    "Name": "#14"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5928428,
+                "Username": "chris010804",
+                "FullName": "Chris Thorpe",
+                "Team": "SCB Racing",
+                "LiveryId": {
+                    "Id": 7227,
+                    "Name": "#48"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1455.069,
+                "RatingChange": 5.543,
+                "RatingAfter": 1460.612,
+                "ReputationBefore": 83.062,
+                "ReputationChange": 0.342,
+                "ReputationAfter": 83.404,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 119197,
+                        "SectorTimes": [
+                            57238,
+                            86302,
+                            119197
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110567,
+                        "SectorTimes": [
+                            48663,
+                            77515,
+                            110567
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110489,
+                        "SectorTimes": [
+                            48435,
+                            77464,
+                            110489
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110355,
+                        "SectorTimes": [
+                            48677,
+                            77705,
+                            110355
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109954,
+                        "SectorTimes": [
+                            48620,
+                            77296,
+                            109954
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111775,
+                        "SectorTimes": [
+                            49975,
+                            79187,
+                            111775
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109839,
+                        "SectorTimes": [
+                            48205,
+                            77020,
+                            109839
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110229,
+                        "SectorTimes": [
+                            48370,
+                            77633,
+                            110229
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110186,
+                        "SectorTimes": [
+                            48632,
+                            77227,
+                            110186
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 9180,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1454.942,
+                "RatingChange": -0.978,
+                "RatingAfter": 1453.964,
+                "ReputationBefore": 74.693,
+                "ReputationChange": 1.056,
+                "ReputationAfter": 75.749,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 115849,
+                        "SectorTimes": [
+                            55334,
+                            83395,
+                            115849
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109442,
+                        "SectorTimes": [
+                            48408,
+                            76732,
+                            109442
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119443,
+                        "SectorTimes": [
+                            47898,
+                            86950,
+                            119443
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110165,
+                        "SectorTimes": [
+                            47800,
+                            76218,
+                            110165
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 108903,
+                        "SectorTimes": [
+                            47914,
+                            76264,
+                            108903
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 109284,
+                        "SectorTimes": [
+                            48023,
+                            76555,
+                            109284
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 109622,
+                        "SectorTimes": [
+                            48098,
+                            76715,
+                            109622
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 114343,
+                        "SectorTimes": [
+                            48441,
+                            81881,
+                            114343
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 109949,
+                        "SectorTimes": [
+                            48150,
+                            76906,
+                            109949
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6302823,
+                "Username": "CyberonMG",
+                "FullName": "Lazar Pejic",
+                "Team": "Decoline",
+                "LiveryId": {
+                    "Id": 7226,
+                    "Name": "#14"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1347.828,
+                "RatingChange": -4.565,
+                "RatingAfter": 1343.263,
+                "ReputationBefore": 71.418,
+                "ReputationChange": 0.77,
+                "ReputationAfter": 72.188,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 4,
+                        "Points": 16
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 119710,
+                        "SectorTimes": [
+                            57872,
+                            86742,
+                            119710
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110529,
+                        "SectorTimes": [
+                            49339,
+                            77739,
+                            110529
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110216,
+                        "SectorTimes": [
+                            48489,
+                            77398,
+                            110216
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110898,
+                        "SectorTimes": [
+                            49013,
+                            77822,
+                            110898
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110399,
+                        "SectorTimes": [
+                            48294,
+                            77246,
+                            110399
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111272,
+                        "SectorTimes": [
+                            48619,
+                            78114,
+                            111272
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111614,
+                        "SectorTimes": [
+                            49072,
+                            78689,
+                            111614
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 111046,
+                        "SectorTimes": [
+                            48938,
+                            78011,
+                            111046
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111632,
+                        "SectorTimes": [
+                            49170,
+                            78065,
+                            111632
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

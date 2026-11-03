@@ -1,0 +1,575 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "d6l6Q6",
+        "TrackLayoutId": {
+            "Id": 10463,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 10462,
+            "Name": "Autódromo José Carlos Pace"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9038,
+                    "Name": "#86"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100490,
+                        "SectorTimes": [
+                            25149,
+                            68994,
+                            100490
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99942,
+                        "SectorTimes": [
+                            24791,
+                            68397,
+                            99942
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 637969,
+                "Username": "Nenad61",
+                "FullName": "Nenad Djordjevic",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10190,
+                    "Name": "#56"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 637969,
+                "Username": "Nenad61",
+                "FullName": "Nenad Djordjevic",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10190,
+                    "Name": "#56"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1942.793,
+                "RatingChange": 3.6,
+                "RatingAfter": 1946.393,
+                "ReputationBefore": 96.355,
+                "ReputationChange": 0.031,
+                "ReputationAfter": 96.386,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 103383,
+                        "SectorTimes": [
+                            28354,
+                            72014,
+                            103383
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101408,
+                        "SectorTimes": [
+                            26298,
+                            70095,
+                            101408
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100291,
+                        "SectorTimes": [
+                            25327,
+                            68959,
+                            100291
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100119,
+                        "SectorTimes": [
+                            25048,
+                            68751,
+                            100119
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100866,
+                        "SectorTimes": [
+                            24947,
+                            68653,
+                            100866
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100371,
+                        "SectorTimes": [
+                            25120,
+                            68956,
+                            100371
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100470,
+                        "SectorTimes": [
+                            25423,
+                            68960,
+                            100470
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100259,
+                        "SectorTimes": [
+                            25003,
+                            68692,
+                            100259
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100137,
+                        "SectorTimes": [
+                            24993,
+                            68649,
+                            100137
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101076,
+                        "SectorTimes": [
+                            24925,
+                            69394,
+                            101076
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101079,
+                        "SectorTimes": [
+                            25072,
+                            69359,
+                            101079
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101013,
+                        "SectorTimes": [
+                            25409,
+                            69329,
+                            101013
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9038,
+                    "Name": "#86"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 2108.552,
+                "RatingChange": -3.6,
+                "RatingAfter": 2104.952,
+                "ReputationBefore": 95.368,
+                "ReputationChange": -0.703,
+                "ReputationAfter": 94.665,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 103194,
+                        "SectorTimes": [
+                            28038,
+                            71503,
+                            103194
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101284,
+                        "SectorTimes": [
+                            25829,
+                            69685,
+                            101284
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100344,
+                        "SectorTimes": [
+                            24949,
+                            68426,
+                            100344
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100075,
+                        "SectorTimes": [
+                            24987,
+                            68476,
+                            100075
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100495,
+                        "SectorTimes": [
+                            24850,
+                            68588,
+                            100495
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99713,
+                        "SectorTimes": [
+                            24723,
+                            68100,
+                            99713
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100591,
+                        "SectorTimes": [
+                            24857,
+                            68820,
+                            100591
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100073,
+                        "SectorTimes": [
+                            24950,
+                            68539,
+                            100073
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100092,
+                        "SectorTimes": [
+                            24793,
+                            68435,
+                            100092
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109757,
+                        "SectorTimes": [
+                            24941,
+                            77387,
+                            109757
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111704,
+                        "SectorTimes": [
+                            30896,
+                            80117,
+                            111704
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104352,
+                        "SectorTimes": [
+                            25134,
+                            72564,
+                            104352
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

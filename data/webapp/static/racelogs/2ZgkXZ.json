@@ -1,0 +1,358 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "2ZgkXZ",
+        "TrackLayoutId": {
+            "Id": 1850,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1849,
+            "Name": "Autódromo Internazionale Enzo e Dino Ferrari"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 11405,
+                    "Name": "#85"
+                },
+                "CarClass": {
+                    "Id": 11055,
+                    "Name": "Praga R1"
+                },
+                "PerformanceIndex": 82,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8230010,
+                "Username": "GermanMonkey69",
+                "FullName": "Stefan Chiselef",
+                "Team": "Stefan_GT3 on ig/tt",
+                "LiveryId": {
+                    "Id": 11405,
+                    "Name": "#85"
+                },
+                "CarClass": {
+                    "Id": 11055,
+                    "Name": "Praga R1"
+                },
+                "PerformanceIndex": 82,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 11405,
+                    "Name": "#85"
+                },
+                "CarClass": {
+                    "Id": 11055,
+                    "Name": "Praga R1"
+                },
+                "PerformanceIndex": 82,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2289.534,
+                "RatingChange": 0.1,
+                "RatingAfter": 2289.634,
+                "ReputationBefore": 97.332,
+                "ReputationChange": 0.106,
+                "ReputationAfter": 97.438,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111915,
+                        "SectorTimes": [
+                            38451,
+                            77002,
+                            111915
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135151,
+                        "SectorTimes": [
+                            37529,
+                            92484,
+                            135151
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 134716,
+                        "SectorTimes": [
+                            34588,
+                            82649,
+                            134716
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 102094,
+                        "SectorTimes": [
+                            30686,
+                            67755,
+                            102094
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 101236,
+                        "SectorTimes": [
+                            29642,
+                            66515,
+                            101236
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 134475,
+                        "SectorTimes": [
+                            31560,
+                            98834,
+                            134475
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104010,
+                        "SectorTimes": [
+                            30087,
+                            68049,
+                            104010
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 112529,
+                        "SectorTimes": [
+                            32075,
+                            73276,
+                            112529
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 120119,
+                        "SectorTimes": [
+                            37524,
+                            80372,
+                            120119
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114186,
+                        "SectorTimes": [
+                            36192,
+                            78071,
+                            114186
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 108433,
+                        "SectorTimes": [
+                            33205,
+                            71770,
+                            108433
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8230010,
+                "Username": "GermanMonkey69",
+                "FullName": "Stefan Chiselef",
+                "Team": "Stefan_GT3 on ig/tt",
+                "LiveryId": {
+                    "Id": 11405,
+                    "Name": "#85"
+                },
+                "CarClass": {
+                    "Id": 11055,
+                    "Name": "Praga R1"
+                },
+                "PerformanceIndex": 82,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1601.724,
+                "RatingChange": -0.2,
+                "RatingAfter": 1601.524,
+                "ReputationBefore": 76.644,
+                "ReputationChange": -2.517,
+                "ReputationAfter": 74.127,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 5,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "WrongWay",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 24,
+                        "Points": 24
+                    },
+                    {
+                        "Type": "NonServedPenalty",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111918,
+                        "SectorTimes": [
+                            38202,
+                            76620,
+                            111918
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136666,
+                        "SectorTimes": [
+                            46675,
+                            93687,
+                            136666
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 134473,
+                        "SectorTimes": [
+                            40278,
+                            98274,
+                            134473
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104796,
+                        "SectorTimes": [
+                            31104,
+                            69452,
+                            104796
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110595,
+                        "SectorTimes": [
+                            31159,
+                            70541,
+                            110595
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 132576,
+                        "SectorTimes": [
+                            33968,
+                            83719,
+                            132576
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 117775,
+                        "SectorTimes": [
+                            36000,
+                            80216,
+                            117775
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 197401,
+                        "SectorTimes": [
+                            32307,
+                            119587,
+                            197401
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

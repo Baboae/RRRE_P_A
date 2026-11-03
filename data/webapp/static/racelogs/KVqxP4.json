@@ -1,0 +1,482 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "KVqxP4",
+        "TrackLayoutId": {
+            "Id": 9943,
+            "Name": "Road Course"
+        },
+        "TrackId": {
+            "Id": 9942,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 11253,
+                    "Name": "#39"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8410221,
+                "Username": "ElmanCo_2",
+                "FullName": "Lilian Mercedes",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11243,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2081.907,
+                "RatingChange": 0.587,
+                "RatingAfter": 2082.494,
+                "ReputationBefore": 93.751,
+                "ReputationChange": 0.011,
+                "ReputationAfter": 93.762,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 110423,
+                        "SectorTimes": [
+                            51048,
+                            84673,
+                            110423
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103512,
+                        "SectorTimes": [
+                            44879,
+                            78314,
+                            103512
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101025,
+                        "SectorTimes": [
+                            41868,
+                            75461,
+                            101025
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99682,
+                        "SectorTimes": [
+                            41396,
+                            74728,
+                            99682
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100727,
+                        "SectorTimes": [
+                            41784,
+                            75399,
+                            100727
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101008,
+                        "SectorTimes": [
+                            41654,
+                            75995,
+                            101008
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99793,
+                        "SectorTimes": [
+                            41411,
+                            74766,
+                            99793
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99701,
+                        "SectorTimes": [
+                            41497,
+                            74825,
+                            99701
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99789,
+                        "SectorTimes": [
+                            41510,
+                            74806,
+                            99789
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 11253,
+                    "Name": "#39"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1768.48,
+                "RatingChange": 0.326,
+                "RatingAfter": 1768.806,
+                "ReputationBefore": 97.37,
+                "ReputationChange": 0.14,
+                "ReputationAfter": 97.51,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111379,
+                        "SectorTimes": [
+                            52373,
+                            86075,
+                            111379
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 102059,
+                        "SectorTimes": [
+                            42427,
+                            76382,
+                            102059
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 100631,
+                        "SectorTimes": [
+                            41863,
+                            75594,
+                            100631
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100274,
+                        "SectorTimes": [
+                            41788,
+                            75236,
+                            100274
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100742,
+                        "SectorTimes": [
+                            41940,
+                            75490,
+                            100742
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100741,
+                        "SectorTimes": [
+                            41895,
+                            75501,
+                            100741
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100217,
+                        "SectorTimes": [
+                            41640,
+                            75064,
+                            100217
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 100337,
+                        "SectorTimes": [
+                            41950,
+                            75298,
+                            100337
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 101141,
+                        "SectorTimes": [
+                            42328,
+                            75803,
+                            101141
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8410221,
+                "Username": "ElmanCo_2",
+                "FullName": "Lilian Mercedes",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11243,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1518.574,
+                "RatingChange": -1.5,
+                "RatingAfter": 1517.074,
+                "ReputationBefore": 80.06,
+                "ReputationChange": 1.871,
+                "ReputationAfter": 81.931,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111151,
+                        "SectorTimes": [
+                            51740,
+                            85631,
+                            111151
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 102118,
+                        "SectorTimes": [
+                            42426,
+                            76398,
+                            102118
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 102315,
+                        "SectorTimes": [
+                            42380,
+                            76299,
+                            102315
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101665,
+                        "SectorTimes": [
+                            42071,
+                            76233,
+                            101665
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101429,
+                        "SectorTimes": [
+                            42327,
+                            76149,
+                            101429
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 102170,
+                        "SectorTimes": [
+                            41949,
+                            76020,
+                            102170
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101013,
+                        "SectorTimes": [
+                            41972,
+                            75604,
+                            101013
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101001,
+                        "SectorTimes": [
+                            41960,
+                            75546,
+                            101001
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101121,
+                        "SectorTimes": [
+                            42140,
+                            75815,
+                            101121
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

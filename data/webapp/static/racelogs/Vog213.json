@@ -1,0 +1,151 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "Vog213",
+        "TrackLayoutId": {
+            "Id": 10782,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 10781,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9038,
+                    "Name": "#86"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 113855,
+                        "SectorTimes": [
+                            43848,
+                            83457,
+                            113855
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            34149,
+                            75407,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103578,
+                        "SectorTimes": [
+                            33967,
+                            73200,
+                            103578
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9038,
+                    "Name": "#86"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2152.864,
+                "RatingChange": 0,
+                "RatingAfter": 2152.864,
+                "ReputationBefore": 96.383,
+                "ReputationChange": 0,
+                "ReputationAfter": 96.383,
+                "Incidents": [
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

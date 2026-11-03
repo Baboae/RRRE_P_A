@@ -1,0 +1,89 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "oZqzX5",
+        "TrackLayoutId": {
+            "Id": 10463,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 10462,
+            "Name": "Autódromo José Carlos Pace"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1968.918,
+                "RatingChange": 0,
+                "RatingAfter": 1968.918,
+                "ReputationBefore": 81.467,
+                "ReputationChange": 0,
+                "ReputationAfter": 81.467,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 126364,
+                        "SectorTimes": [
+                            35259,
+                            82332,
+                            126364
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 778711,
+                        "SectorTimes": [
+                            665202,
+                            718023,
+                            778711
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

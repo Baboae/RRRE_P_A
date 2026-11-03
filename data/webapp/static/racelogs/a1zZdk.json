@@ -1,0 +1,570 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "a1zZdk",
+        "TrackLayoutId": {
+            "Id": 1841,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1840,
+            "Name": "Suzuka International Racing Course"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5384254,
+                "Username": "ProFuzzy",
+                "FullName": "Christian J ProFuzzy",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 8148,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "Stationary",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 8287,
+                    "Name": "#917"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5426748,
+                "Username": "TheCheese#48",
+                "FullName": "Francesco Billett",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9277,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 6963684,
+                "Username": "Timbo78",
+                "FullName": "Tim Johnson",
+                "Team": "NEXGEN Racing",
+                "LiveryId": {
+                    "Id": 7232,
+                    "Name": "#77"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 8287,
+                    "Name": "#917"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2224.795,
+                "RatingChange": 0.098,
+                "RatingAfter": 2224.893,
+                "ReputationBefore": 94.081,
+                "ReputationChange": 0.109,
+                "ReputationAfter": 94.19,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 147789,
+                        "SectorTimes": [
+                            61572,
+                            117426,
+                            147789
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 133230,
+                        "SectorTimes": [
+                            55760,
+                            104256,
+                            133230
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 134700,
+                        "SectorTimes": [
+                            56473,
+                            105331,
+                            134700
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 136463,
+                        "SectorTimes": [
+                            56628,
+                            106448,
+                            136463
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135849,
+                        "SectorTimes": [
+                            57041,
+                            106441,
+                            135849
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132675,
+                        "SectorTimes": [
+                            54857,
+                            103480,
+                            132675
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133349,
+                        "SectorTimes": [
+                            54942,
+                            103059,
+                            133349
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5426748,
+                "Username": "TheCheese#48",
+                "FullName": "Francesco Billett",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9277,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 3,
+                "FinishPosition": 2,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1556.082,
+                "RatingChange": 2.543,
+                "RatingAfter": 1558.625,
+                "ReputationBefore": 53.1,
+                "ReputationChange": 4.086,
+                "ReputationAfter": 57.186,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 143037,
+                        "SectorTimes": [
+                            63398,
+                            113307,
+                            143037
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 136057,
+                        "SectorTimes": [
+                            56623,
+                            106471,
+                            136057
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 136514,
+                        "SectorTimes": [
+                            57675,
+                            107120,
+                            136514
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136472,
+                        "SectorTimes": [
+                            56480,
+                            106481,
+                            136472
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 137181,
+                        "SectorTimes": [
+                            56759,
+                            106533,
+                            137181
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135109,
+                        "SectorTimes": [
+                            56198,
+                            105380,
+                            135109
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136169,
+                        "SectorTimes": [
+                            56435,
+                            106107,
+                            136169
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6963684,
+                "Username": "Timbo78",
+                "FullName": "Tim Johnson",
+                "Team": "NEXGEN Racing",
+                "LiveryId": {
+                    "Id": 7232,
+                    "Name": "#77"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 4,
+                "FinishPosition": 3,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1495.772,
+                "RatingChange": -2.739,
+                "RatingAfter": 1493.033,
+                "ReputationBefore": 75.366,
+                "ReputationChange": 1.759,
+                "ReputationAfter": 77.125,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 147713,
+                        "SectorTimes": [
+                            66289,
+                            117037,
+                            147713
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 140782,
+                        "SectorTimes": [
+                            60092,
+                            110372,
+                            140782
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 190278,
+                        "SectorTimes": [
+                            57813,
+                            108496,
+                            190278
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 212402,
+                        "SectorTimes": [
+                            68466,
+                            121923,
+                            212402
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 156889,
+                        "SectorTimes": [
+                            73984,
+                            125890,
+                            156889
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 143092,
+                        "SectorTimes": [
+                            59655,
+                            111994,
+                            143092
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5384254,
+                "Username": "ProFuzzy",
+                "FullName": "Christian J ProFuzzy",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 8148,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": -1,
+                "FinishPosition": -1,
+                "StartPositionInClass": -1,
+                "FinishPositionInClass": -1,
+                "RatingBefore": 1828.269,
+                "RatingChange": -5,
+                "RatingAfter": 1823.269,
+                "ReputationBefore": 93.143,
+                "ReputationChange": -0.931,
+                "ReputationAfter": 92.212,
+                "Incidents": [
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": false,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

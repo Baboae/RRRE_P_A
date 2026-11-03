@@ -1,0 +1,283 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "xVKJ41",
+        "TrackLayoutId": {
+            "Id": 4039,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 4038,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12831,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12610,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12831,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1989.919,
+                "RatingChange": 1.2,
+                "RatingAfter": 1991.119,
+                "ReputationBefore": 92.405,
+                "ReputationChange": 0.045,
+                "ReputationAfter": 92.45,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 139198,
+                        "SectorTimes": [
+                            45881,
+                            100649,
+                            139198
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131653,
+                        "SectorTimes": [
+                            39145,
+                            93190,
+                            131653
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130485,
+                        "SectorTimes": [
+                            39043,
+                            92689,
+                            130485
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133279,
+                        "SectorTimes": [
+                            38815,
+                            92627,
+                            133279
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131785,
+                        "SectorTimes": [
+                            39098,
+                            93728,
+                            131785
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131109,
+                        "SectorTimes": [
+                            39133,
+                            93179,
+                            131109
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130553,
+                        "SectorTimes": [
+                            38502,
+                            92680,
+                            130553
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 12610,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 1710,
+                    "Name": "Super Touring"
+                },
+                "PerformanceIndex": 161,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1794.4,
+                "RatingChange": -2.4,
+                "RatingAfter": 1792,
+                "ReputationBefore": 87.829,
+                "ReputationChange": 1.098,
+                "ReputationAfter": 88.927,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 138719,
+                        "SectorTimes": [
+                            45368,
+                            100509,
+                            138719
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131871,
+                        "SectorTimes": [
+                            39236,
+                            93370,
+                            131871
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131824,
+                        "SectorTimes": [
+                            39265,
+                            94036,
+                            131824
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131571,
+                        "SectorTimes": [
+                            39351,
+                            93704,
+                            131571
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132599,
+                        "SectorTimes": [
+                            39369,
+                            94708,
+                            132599
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131866,
+                        "SectorTimes": [
+                            39601,
+                            94253,
+                            131866
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 132166,
+                        "SectorTimes": [
+                            39075,
+                            93679,
+                            132166
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

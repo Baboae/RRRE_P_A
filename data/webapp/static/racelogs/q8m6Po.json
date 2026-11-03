@@ -1,0 +1,478 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "q8m6Po",
+        "TrackLayoutId": {
+            "Id": 4975,
+            "Name": "NLS"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3565,
+                    "Name": "#36"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7769733,
+                "Username": "OnlyStockCar",
+                "FullName": "Christian Rone",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3846,
+                    "Name": "#33"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8220962,
+                "Username": "MARTINEZ61",
+                "FullName": "ANGEL MARTINEZ",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3566,
+                    "Name": "#38"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8969545,
+                "Username": "Mids_781743",
+                "FullName": "Go Thunberg",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3876,
+                    "Name": "#26"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8978166,
+                "Username": "ELPAXXO13",
+                "FullName": "VINCENZO VAMPARI",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3541,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3565,
+                    "Name": "#36"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1983.042,
+                "RatingChange": 0.813,
+                "RatingAfter": 1983.855,
+                "ReputationBefore": 91.303,
+                "ReputationChange": 0.317,
+                "ReputationAfter": 91.62,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 547010,
+                        "SectorTimes": [
+                            189987,
+                            303329,
+                            547010
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 529217,
+                        "SectorTimes": [
+                            177655,
+                            290072,
+                            529217
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 530760,
+                        "SectorTimes": [
+                            178152,
+                            289244,
+                            530760
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8969545,
+                "Username": "Mids_781743",
+                "FullName": "Go Thunberg",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3876,
+                    "Name": "#26"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 2,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1606.302,
+                "RatingChange": 3.778,
+                "RatingAfter": 1610.08,
+                "ReputationBefore": 86.661,
+                "ReputationChange": 0.278,
+                "ReputationAfter": 86.939,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 6,
+                        "Points": 9
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 3,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 560736,
+                        "SectorTimes": [
+                            188748,
+                            316030,
+                            560736
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 569144,
+                        "SectorTimes": [
+                            206262,
+                            322068,
+                            569144
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 564896,
+                        "SectorTimes": [
+                            191264,
+                            313600,
+                            564896
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 7769733,
+                "Username": "OnlyStockCar",
+                "FullName": "Christian Rone",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3846,
+                    "Name": "#33"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 5,
+                "FinishPosition": 3,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1752.637,
+                "RatingChange": -3.922,
+                "RatingAfter": 1748.715,
+                "ReputationBefore": 88.685,
+                "ReputationChange": -0.226,
+                "ReputationAfter": 88.459,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 547366,
+                        "SectorTimes": [
+                            188369,
+                            303071,
+                            547366
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 547399,
+                        "SectorTimes": [
+                            179290,
+                            292677,
+                            547399
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8220962,
+                "Username": "MARTINEZ61",
+                "FullName": "ANGEL MARTINEZ",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3566,
+                    "Name": "#38"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1273.47,
+                "RatingChange": 0.478,
+                "RatingAfter": 1273.948,
+                "ReputationBefore": 28.713,
+                "ReputationChange": 4.866,
+                "ReputationAfter": 33.579,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 8,
+                        "Points": 11
+                    },
+                    {
+                        "Type": "Stationary",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 15,
+                        "Points": 15
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 550271,
+                        "SectorTimes": [
+                            191158,
+                            304072,
+                            550271
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 556651,
+                        "SectorTimes": [
+                            186215,
+                            304632,
+                            556651
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 8978166,
+                "Username": "ELPAXXO13",
+                "FullName": "VINCENZO VAMPARI",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3541,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 5,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1136.447,
+                "RatingChange": -1.961,
+                "RatingAfter": 1134.486,
+                "ReputationBefore": 9.175,
+                "ReputationChange": -0.817,
+                "ReputationAfter": 8.358,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

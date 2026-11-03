@@ -1,0 +1,560 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "kG2yav",
+        "TrackLayoutId": {
+            "Id": 5095,
+            "Name": "24 Hours"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5971277,
+                "Username": "jowest",
+                "FullName": "Jo West",
+                "Team": "Privateer",
+                "LiveryId": {
+                    "Id": 3544,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 4912569,
+                "Username": "artpridmoredrums",
+                "FullName": "Art Pridmore",
+                "Team": "Pridmore Racing",
+                "LiveryId": {
+                    "Id": 3559,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6544381,
+                "Username": "Why_Me91",
+                "FullName": "Kevin Warum",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3563,
+                    "Name": "#21"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 3563,
+                    "Name": "#21"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 6544381,
+                "Username": "Why_Me91",
+                "FullName": "Kevin Warum",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3563,
+                    "Name": "#21"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 1,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1801.943,
+                "RatingChange": 5.255,
+                "RatingAfter": 1807.198,
+                "ReputationBefore": 90.08,
+                "ReputationChange": 0.715,
+                "ReputationAfter": 90.795,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 568360,
+                        "SectorTimes": [
+                            206573,
+                            320778,
+                            568360
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 554240,
+                        "SectorTimes": [
+                            198763,
+                            312275,
+                            554240
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 556722,
+                        "SectorTimes": [
+                            199887,
+                            313793,
+                            556722
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 554442,
+                        "SectorTimes": [
+                            199256,
+                            312857,
+                            554442
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 3563,
+                    "Name": "#21"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 4,
+                "FinishPosition": 2,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 2096.115,
+                "RatingChange": -2.172,
+                "RatingAfter": 2093.943,
+                "ReputationBefore": 93.873,
+                "ReputationChange": -0.691,
+                "ReputationAfter": 93.182,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 4,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 4,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 15,
+                        "Points": 15
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 566811,
+                        "SectorTimes": [
+                            205016,
+                            320204,
+                            566811
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 567345,
+                        "SectorTimes": [
+                            207716,
+                            321895,
+                            567345
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 570895,
+                        "SectorTimes": [
+                            195973,
+                            311802,
+                            570895
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 598591,
+                        "SectorTimes": [
+                            208605,
+                            340851,
+                            598591
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 4912569,
+                "Username": "artpridmoredrums",
+                "FullName": "Art Pridmore",
+                "Team": "Pridmore Racing",
+                "LiveryId": {
+                    "Id": 3559,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1305.732,
+                "RatingChange": 3.057,
+                "RatingAfter": 1308.789,
+                "ReputationBefore": 83.256,
+                "ReputationChange": 2.005,
+                "ReputationAfter": 85.261,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 3,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 731316,
+                        "SectorTimes": [
+                            255255,
+                            411747,
+                            731316
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 698686,
+                        "SectorTimes": [
+                            241432,
+                            388032,
+                            698686
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 723073,
+                        "SectorTimes": [
+                            256294,
+                            409340,
+                            723073
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            256278,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5971277,
+                "Username": "jowest",
+                "FullName": "Jo West",
+                "Team": "Privateer",
+                "LiveryId": {
+                    "Id": 3544,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 4,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1397.45,
+                "RatingChange": -3.968,
+                "RatingAfter": 1393.482,
+                "ReputationBefore": 80.708,
+                "ReputationChange": -7.971,
+                "ReputationAfter": 72.737,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

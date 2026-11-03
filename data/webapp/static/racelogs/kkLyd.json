@@ -1,0 +1,317 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "kkLyd",
+        "TrackLayoutId": {
+            "Id": 1678,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1677,
+            "Name": "2019"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 8851,
+                    "Name": "#03"
+                },
+                "CarClass": {
+                    "Id": 8682,
+                    "Name": "CUPRA Leon e-Racer"
+                },
+                "PerformanceIndex": 158,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "WrongWay",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103490,
+                        "SectorTimes": [
+                            45855,
+                            72670,
+                            103490
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6027841,
+                "Username": "ct_1",
+                "FullName": "Chrischi Teuber",
+                "Team": "Ballerbude",
+                "LiveryId": {
+                    "Id": 8865,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 8682,
+                    "Name": "CUPRA Leon e-Racer"
+                },
+                "PerformanceIndex": 158,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 103665,
+                        "SectorTimes": [
+                            45937,
+                            72698,
+                            103665
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 8851,
+                    "Name": "#03"
+                },
+                "CarClass": {
+                    "Id": 8682,
+                    "Name": "CUPRA Leon e-Racer"
+                },
+                "PerformanceIndex": 158,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1464.37,
+                "RatingChange": 3.8,
+                "RatingAfter": 1468.17,
+                "ReputationBefore": 80.62,
+                "ReputationChange": 1.707,
+                "ReputationAfter": 82.327,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 110022,
+                        "SectorTimes": [
+                            52186,
+                            79652,
+                            110022
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 102790,
+                        "SectorTimes": [
+                            45639,
+                            72324,
+                            102790
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 103227,
+                        "SectorTimes": [
+                            45635,
+                            72622,
+                            103227
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103976,
+                        "SectorTimes": [
+                            46264,
+                            72908,
+                            103976
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104833,
+                        "SectorTimes": [
+                            46284,
+                            73208,
+                            104833
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6027841,
+                "Username": "ct_1",
+                "FullName": "Chrischi Teuber",
+                "Team": "Ballerbude",
+                "LiveryId": {
+                    "Id": 8865,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 8682,
+                    "Name": "CUPRA Leon e-Racer"
+                },
+                "PerformanceIndex": 158,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1378.829,
+                "RatingChange": -3.8,
+                "RatingAfter": 1375.029,
+                "ReputationBefore": 96.714,
+                "ReputationChange": 0.329,
+                "ReputationAfter": 97.043,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 108946,
+                        "SectorTimes": [
+                            51626,
+                            78109,
+                            108946
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103578,
+                        "SectorTimes": [
+                            45384,
+                            72367,
+                            103578
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 104915,
+                        "SectorTimes": [
+                            46630,
+                            73868,
+                            104915
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 104775,
+                        "SectorTimes": [
+                            46580,
+                            73661,
+                            104775
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 103911,
+                        "SectorTimes": [
+                            45999,
+                            72638,
+                            103911
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

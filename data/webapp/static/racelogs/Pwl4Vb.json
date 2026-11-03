@@ -1,0 +1,350 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "Pwl4Vb",
+        "TrackLayoutId": {
+            "Id": 2123,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 2122,
+            "Name": "Guia Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 10617,
+                    "Name": "#01"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5101,
+                    "Name": "#13"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 10617,
+                    "Name": "#01"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1753.039,
+                "RatingChange": 8.5,
+                "RatingAfter": 1761.539,
+                "ReputationBefore": 93.458,
+                "ReputationChange": -1.071,
+                "ReputationAfter": 92.387,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 8,
+                        "Points": 9
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 186753,
+                        "SectorTimes": [
+                            37246,
+                            128820,
+                            186753
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 203252,
+                        "SectorTimes": [
+                            67600,
+                            159188,
+                            203252
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 158493,
+                        "SectorTimes": [
+                            30692,
+                            128159,
+                            158493
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 152022,
+                        "SectorTimes": [
+                            30506,
+                            121570,
+                            152022
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151910,
+                        "SectorTimes": [
+                            30628,
+                            121565,
+                            151910
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 152788,
+                        "SectorTimes": [
+                            30608,
+                            122141,
+                            152788
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150506,
+                        "SectorTimes": [
+                            30414,
+                            120464,
+                            150506
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 157106,
+                        "SectorTimes": [
+                            30490,
+                            126587,
+                            157106
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5101,
+                    "Name": "#13"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 2058.786,
+                "RatingChange": -4.25,
+                "RatingAfter": 2054.536,
+                "ReputationBefore": 93.085,
+                "ReputationChange": -0.658,
+                "ReputationAfter": 92.427,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 9,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 183542,
+                        "SectorTimes": [
+                            37783,
+                            141133,
+                            183542
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 204473,
+                        "SectorTimes": [
+                            71788,
+                            172411,
+                            204473
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 160321,
+                        "SectorTimes": [
+                            30832,
+                            129276,
+                            160321
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153585,
+                        "SectorTimes": [
+                            30706,
+                            122713,
+                            153585
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151531,
+                        "SectorTimes": [
+                            30615,
+                            121158,
+                            151531
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151600,
+                        "SectorTimes": [
+                            30571,
+                            120816,
+                            151600
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151220,
+                        "SectorTimes": [
+                            30625,
+                            121191,
+                            151220
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 156922,
+                        "SectorTimes": [
+                            29924,
+                            125817,
+                            156922
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

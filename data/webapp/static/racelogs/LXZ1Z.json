@@ -1,0 +1,594 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "LXZ1Z",
+        "TrackLayoutId": {
+            "Id": 1856,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1855,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5368499,
+                "Username": "daniel_nfs2",
+                "FullName": "Daniel Muñoz",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5674,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92680,
+                        "SectorTimes": [
+                            32002,
+                            64972,
+                            92680
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            32027,
+                            64729,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6225068,
+                "Username": "Blueo",
+                "FullName": "Blu Color",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5674,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            34085,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 102939,
+                        "SectorTimes": [
+                            34248,
+                            73491,
+                            102939
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5676,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5676,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 3,
+                "FinishPosition": 1,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1429.16,
+                "RatingChange": 5.152,
+                "RatingAfter": 1434.312,
+                "ReputationBefore": 71.557,
+                "ReputationChange": 1.015,
+                "ReputationAfter": 72.572,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 99108,
+                        "SectorTimes": [
+                            39309,
+                            71973,
+                            99108
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92441,
+                        "SectorTimes": [
+                            31956,
+                            65166,
+                            92441
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90915,
+                        "SectorTimes": [
+                            31087,
+                            63870,
+                            90915
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91522,
+                        "SectorTimes": [
+                            31679,
+                            64641,
+                            91522
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90902,
+                        "SectorTimes": [
+                            30966,
+                            63638,
+                            90902
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91319,
+                        "SectorTimes": [
+                            31447,
+                            63993,
+                            91319
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91160,
+                        "SectorTimes": [
+                            31361,
+                            64104,
+                            91160
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90997,
+                        "SectorTimes": [
+                            31238,
+                            64042,
+                            90997
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91379,
+                        "SectorTimes": [
+                            30980,
+                            64032,
+                            91379
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92892,
+                        "SectorTimes": [
+                            31302,
+                            65179,
+                            92892
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5368499,
+                "Username": "daniel_nfs2",
+                "FullName": "Daniel Muñoz",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5674,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1330.636,
+                "RatingChange": 1.37,
+                "RatingAfter": 1332.006,
+                "ReputationBefore": 77.489,
+                "ReputationChange": 0.03,
+                "ReputationAfter": 77.519,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 98950,
+                        "SectorTimes": [
+                            38666,
+                            70982,
+                            98950
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91749,
+                        "SectorTimes": [
+                            31663,
+                            64642,
+                            91749
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91129,
+                        "SectorTimes": [
+                            31355,
+                            63922,
+                            91129
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91633,
+                        "SectorTimes": [
+                            31984,
+                            64668,
+                            91633
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91128,
+                        "SectorTimes": [
+                            31058,
+                            63318,
+                            91128
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91278,
+                        "SectorTimes": [
+                            31266,
+                            63844,
+                            91278
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91821,
+                        "SectorTimes": [
+                            32014,
+                            64728,
+                            91821
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 95529,
+                        "SectorTimes": [
+                            31171,
+                            68058,
+                            95529
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 94120,
+                        "SectorTimes": [
+                            32307,
+                            65440,
+                            94120
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 93978,
+                        "SectorTimes": [
+                            32301,
+                            66149,
+                            93978
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6225068,
+                "Username": "Blueo",
+                "FullName": "Blu Color",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5674,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5726,
+                    "Name": "Audi Sport TT Cup 2016"
+                },
+                "PerformanceIndex": 190,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1379.944,
+                "RatingChange": -13.043,
+                "RatingAfter": 1366.901,
+                "ReputationBefore": 58.228,
+                "ReputationChange": 1.559,
+                "ReputationAfter": 59.787,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 8,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 117386,
+                        "SectorTimes": [
+                            41255,
+                            84963,
+                            117386
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 107258,
+                        "SectorTimes": [
+                            35076,
+                            74144,
+                            107258
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 107034,
+                        "SectorTimes": [
+                            35574,
+                            74593,
+                            107034
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110205,
+                        "SectorTimes": [
+                            36457,
+                            77969,
+                            110205
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 121237,
+                        "SectorTimes": [
+                            36050,
+                            79398,
+                            121237
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

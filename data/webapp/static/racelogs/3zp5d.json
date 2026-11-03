@@ -1,0 +1,545 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "3zp5d",
+        "TrackLayoutId": {
+            "Id": 1841,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1840,
+            "Name": "Suzuka International Racing Course"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 1939,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132376,
+                        "SectorTimes": [
+                            55123,
+                            103166,
+                            132376
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131532,
+                        "SectorTimes": [
+                            55075,
+                            102787,
+                            131532
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6566380,
+                "Username": "Gwenkhan94_0",
+                "FullName": "Gwen Khan",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3301,
+                    "Name": "#504"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135802,
+                        "SectorTimes": [
+                            56985,
+                            106034,
+                            135802
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135534,
+                        "SectorTimes": [
+                            56627,
+                            105908,
+                            135534
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6362981,
+                "Username": "willcreach",
+                "FullName": "will creach",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3309,
+                    "Name": "#409"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 1939,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1804.925,
+                "RatingChange": 2.609,
+                "RatingAfter": 1807.534,
+                "ReputationBefore": 93.879,
+                "ReputationChange": -0.233,
+                "ReputationAfter": 93.646,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 138570,
+                        "SectorTimes": [
+                            61808,
+                            109719,
+                            138570
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132125,
+                        "SectorTimes": [
+                            54794,
+                            102627,
+                            132125
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131819,
+                        "SectorTimes": [
+                            55043,
+                            102996,
+                            131819
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131806,
+                        "SectorTimes": [
+                            54604,
+                            102738,
+                            131806
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130492,
+                        "SectorTimes": [
+                            54201,
+                            101836,
+                            130492
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130719,
+                        "SectorTimes": [
+                            54298,
+                            101955,
+                            130719
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130441,
+                        "SectorTimes": [
+                            54369,
+                            101874,
+                            130441
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6362981,
+                "Username": "willcreach",
+                "FullName": "will creach",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3309,
+                    "Name": "#409"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 3,
+                "FinishPosition": 2,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1686.457,
+                "RatingChange": -1.5,
+                "RatingAfter": 1684.957,
+                "ReputationBefore": 94.34,
+                "ReputationChange": -0.4,
+                "ReputationAfter": 93.94,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 140434,
+                        "SectorTimes": [
+                            62293,
+                            111264,
+                            140434
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131778,
+                        "SectorTimes": [
+                            54807,
+                            102505,
+                            131778
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130595,
+                        "SectorTimes": [
+                            54376,
+                            101824,
+                            130595
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131745,
+                        "SectorTimes": [
+                            54519,
+                            102597,
+                            131745
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 132226,
+                        "SectorTimes": [
+                            55204,
+                            103530,
+                            132226
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131867,
+                        "SectorTimes": [
+                            54673,
+                            103124,
+                            131867
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131558,
+                        "SectorTimes": [
+                            55045,
+                            102875,
+                            131558
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6566380,
+                "Username": "Gwenkhan94_0",
+                "FullName": "Gwen Khan",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3301,
+                    "Name": "#504"
+                },
+                "CarClass": {
+                    "Id": 255,
+                    "Name": "Aquila CR1 Cup"
+                },
+                "PerformanceIndex": 150,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1321.708,
+                "RatingChange": -1.109,
+                "RatingAfter": 1320.599,
+                "ReputationBefore": 81.376,
+                "ReputationChange": 1.138,
+                "ReputationAfter": 82.514,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 143488,
+                        "SectorTimes": [
+                            64507,
+                            113187,
+                            143488
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 137873,
+                        "SectorTimes": [
+                            57798,
+                            107902,
+                            137873
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 134888,
+                        "SectorTimes": [
+                            56509,
+                            105004,
+                            134888
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 137292,
+                        "SectorTimes": [
+                            57616,
+                            107143,
+                            137292
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 136900,
+                        "SectorTimes": [
+                            56890,
+                            106944,
+                            136900
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 139520,
+                        "SectorTimes": [
+                            56548,
+                            106709,
+                            139520
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 136742,
+                        "SectorTimes": [
+                            57178,
+                            106686,
+                            136742
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

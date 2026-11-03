@@ -1,0 +1,206 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "Yye8z",
+        "TrackLayoutId": {
+            "Id": 1678,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1677,
+            "Name": "2019"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 122453,
+                        "SectorTimes": [
+                            54486,
+                            86413,
+                            122453
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            53892,
+                            85285,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1518.2,
+                "RatingChange": 0,
+                "RatingAfter": 1518.2,
+                "ReputationBefore": 71.067,
+                "ReputationChange": 0,
+                "ReputationAfter": 71.067,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 127874,
+                        "SectorTimes": [
+                            61496,
+                            92006,
+                            127874
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 120036,
+                        "SectorTimes": [
+                            52746,
+                            83977,
+                            120036
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119736,
+                        "SectorTimes": [
+                            53249,
+                            84337,
+                            119736
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119210,
+                        "SectorTimes": [
+                            52915,
+                            83716,
+                            119210
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 204083,
+                        "SectorTimes": [
+                            77250,
+                            153136,
+                            204083
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 125332,
+                        "SectorTimes": [
+                            59422,
+                            89851,
+                            125332
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119356,
+                        "SectorTimes": [
+                            52968,
+                            83547,
+                            119356
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

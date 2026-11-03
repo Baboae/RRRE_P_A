@@ -1,0 +1,491 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "3rvVe9",
+        "TrackLayoutId": {
+            "Id": 6341,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 6340,
+            "Name": "Sepang International Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 4759917,
+                "Username": "Blownn",
+                "FullName": "Thibault Becerra",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11611,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            36363,
+                            88532,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 148853,
+                        "SectorTimes": [
+                            35945,
+                            88209,
+                            148853
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            36002,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 7926599,
+                "Username": "Wigglybaton7",
+                "FullName": "Salvatore Iuorio",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10916,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 153545,
+                        "SectorTimes": [
+                            37053,
+                            91234,
+                            153545
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            37232,
+                            90932,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 3,
+                "FinishPosition": 1,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2021.458,
+                "RatingChange": 0.587,
+                "RatingAfter": 2022.045,
+                "ReputationBefore": 96.333,
+                "ReputationChange": -0.272,
+                "ReputationAfter": 96.061,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 156501,
+                        "SectorTimes": [
+                            44235,
+                            96344,
+                            156501
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 147282,
+                        "SectorTimes": [
+                            35716,
+                            87457,
+                            147282
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 148222,
+                        "SectorTimes": [
+                            35979,
+                            88040,
+                            148222
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 148429,
+                        "SectorTimes": [
+                            36386,
+                            88438,
+                            148429
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153364,
+                        "SectorTimes": [
+                            36002,
+                            88021,
+                            153364
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 148127,
+                        "SectorTimes": [
+                            35773,
+                            87915,
+                            148127
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 4759917,
+                "Username": "Blownn",
+                "FullName": "Thibault Becerra",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11611,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1688.205,
+                "RatingChange": 0.783,
+                "RatingAfter": 1688.988,
+                "ReputationBefore": 77.248,
+                "ReputationChange": 1.796,
+                "ReputationAfter": 79.044,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 157416,
+                        "SectorTimes": [
+                            44498,
+                            97285,
+                            157416
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 149644,
+                        "SectorTimes": [
+                            36081,
+                            88408,
+                            149644
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 148344,
+                        "SectorTimes": [
+                            36074,
+                            88168,
+                            148344
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 150607,
+                        "SectorTimes": [
+                            36366,
+                            89456,
+                            150607
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 153220,
+                        "SectorTimes": [
+                            36750,
+                            91807,
+                            153220
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 149346,
+                        "SectorTimes": [
+                            36515,
+                            88594,
+                            149346
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 7926599,
+                "Username": "Wigglybaton7",
+                "FullName": "Salvatore Iuorio",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10916,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1498.577,
+                "RatingChange": -3.913,
+                "RatingAfter": 1494.664,
+                "ReputationBefore": 91.584,
+                "ReputationChange": 1.044,
+                "ReputationAfter": 92.628,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 161846,
+                        "SectorTimes": [
+                            45526,
+                            100146,
+                            161846
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151579,
+                        "SectorTimes": [
+                            36887,
+                            89929,
+                            151579
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151743,
+                        "SectorTimes": [
+                            36460,
+                            89801,
+                            151743
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151377,
+                        "SectorTimes": [
+                            36399,
+                            89659,
+                            151377
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 151301,
+                        "SectorTimes": [
+                            36596,
+                            89841,
+                            151301
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 156182,
+                        "SectorTimes": [
+                            36559,
+                            93713,
+                            156182
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

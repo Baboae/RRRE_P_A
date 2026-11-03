@@ -1,0 +1,436 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "5ZbK2L",
+        "TrackLayoutId": {
+            "Id": 4975,
+            "Name": "NLS"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 785090,
+                "Username": "SlicedBurrito",
+                "FullName": "Jack Watson",
+                "Team": "Under-Appreciated Toyota Racing",
+                "LiveryId": {
+                    "Id": 11248,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7936078,
+                "Username": "DAV1E_47",
+                "FullName": "david weir",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11059,
+                    "Name": "#48"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8873232,
+                "Username": "AMET_251428",
+                "FullName": "Pedro Aréchiga",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8926440,
+                "Username": "DaveMustaine_498595",
+                "FullName": "corey long",
+                "Team": "Under-Appreciated Toyota Racing",
+                "LiveryId": {
+                    "Id": 11239,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2034.287,
+                "RatingChange": 0.407,
+                "RatingAfter": 2034.694,
+                "ReputationBefore": 94.75,
+                "ReputationChange": 0.072,
+                "ReputationAfter": 94.822,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 601585,
+                        "SectorTimes": [
+                            201678,
+                            322790,
+                            601585
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 596152,
+                        "SectorTimes": [
+                            193091,
+                            314125,
+                            596152
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 785090,
+                "Username": "SlicedBurrito",
+                "FullName": "Jack Watson",
+                "Team": "Under-Appreciated Toyota Racing",
+                "LiveryId": {
+                    "Id": 11248,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 5,
+                "FinishPosition": 2,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1606.96,
+                "RatingChange": 3.157,
+                "RatingAfter": 1610.117,
+                "ReputationBefore": 83.051,
+                "ReputationChange": 1.469,
+                "ReputationAfter": 84.52,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 609706,
+                        "SectorTimes": [
+                            208756,
+                            334758,
+                            609706
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 596632,
+                        "SectorTimes": [
+                            198445,
+                            323106,
+                            596632
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8873232,
+                "Username": "AMET_251428",
+                "FullName": "Pedro Aréchiga",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1464.019,
+                "RatingChange": 2.009,
+                "RatingAfter": 1466.028,
+                "ReputationBefore": 73.705,
+                "ReputationChange": 1.045,
+                "ReputationAfter": 74.75,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 4,
+                        "Points": 5
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 604160,
+                        "SectorTimes": [
+                            207748,
+                            332565,
+                            604160
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 616964,
+                        "SectorTimes": [
+                            212841,
+                            338710,
+                            616964
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 8926440,
+                "Username": "DaveMustaine_498595",
+                "FullName": "corey long",
+                "Team": "Under-Appreciated Toyota Racing",
+                "LiveryId": {
+                    "Id": 11239,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 4,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1337.162,
+                "RatingChange": 0.478,
+                "RatingAfter": 1337.64,
+                "ReputationBefore": 65.369,
+                "ReputationChange": 2.633,
+                "ReputationAfter": 68.002,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 630929,
+                        "SectorTimes": [
+                            224959,
+                            351713,
+                            630929
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 601705,
+                        "SectorTimes": [
+                            202275,
+                            328588,
+                            601705
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 7936078,
+                "Username": "DAV1E_47",
+                "FullName": "david weir",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11059,
+                    "Name": "#48"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 4,
+                "FinishPosition": 5,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1421.412,
+                "RatingChange": -12.913,
+                "RatingAfter": 1408.499,
+                "ReputationBefore": 73.687,
+                "ReputationChange": -14.537,
+                "ReputationAfter": 59.15,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

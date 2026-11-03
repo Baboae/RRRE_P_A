@@ -1,0 +1,472 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "MGXgZ4",
+        "TrackLayoutId": {
+            "Id": 6587,
+            "Name": "Grand Prix Circuit"
+        },
+        "TrackId": {
+            "Id": 6586,
+            "Name": "Dubai Autodrome"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5832844,
+                "Username": "sabinoangelo",
+                "FullName": "Angelo Sabino",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12140,
+                    "Name": "#931"
+                },
+                "CarClass": {
+                    "Id": 12302,
+                    "Name": "Porsche 992 GT3 Cup"
+                },
+                "PerformanceIndex": 104,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 8,
+                        "Points": 8
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            58235,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            57744,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 12147,
+                    "Name": "#989"
+                },
+                "CarClass": {
+                    "Id": 12302,
+                    "Name": "Porsche 992 GT3 Cup"
+                },
+                "PerformanceIndex": 104,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 12147,
+                    "Name": "#989"
+                },
+                "CarClass": {
+                    "Id": 12302,
+                    "Name": "Porsche 992 GT3 Cup"
+                },
+                "PerformanceIndex": 104,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2218.782,
+                "RatingChange": 0.05,
+                "RatingAfter": 2218.832,
+                "ReputationBefore": 90.691,
+                "ReputationChange": 0.368,
+                "ReputationAfter": 91.059,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 6,
+                        "Points": 6
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 131463,
+                        "SectorTimes": [
+                            59748,
+                            98032,
+                            131463
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123889,
+                        "SectorTimes": [
+                            53416,
+                            91027,
+                            123889
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 143886,
+                        "SectorTimes": [
+                            60236,
+                            110218,
+                            143886
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 128219,
+                        "SectorTimes": [
+                            55514,
+                            94057,
+                            128219
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 127235,
+                        "SectorTimes": [
+                            54611,
+                            93303,
+                            127235
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 125288,
+                        "SectorTimes": [
+                            54899,
+                            92484,
+                            125288
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123791,
+                        "SectorTimes": [
+                            53179,
+                            90797,
+                            123791
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123346,
+                        "SectorTimes": [
+                            53059,
+                            90637,
+                            123346
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 122772,
+                        "SectorTimes": [
+                            53139,
+                            90261,
+                            122772
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 122957,
+                        "SectorTimes": [
+                            52837,
+                            90151,
+                            122957
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5832844,
+                "Username": "sabinoangelo",
+                "FullName": "Angelo Sabino",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12140,
+                    "Name": "#931"
+                },
+                "CarClass": {
+                    "Id": 12302,
+                    "Name": "Porsche 992 GT3 Cup"
+                },
+                "PerformanceIndex": 104,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1480.004,
+                "RatingChange": -0.1,
+                "RatingAfter": 1479.904,
+                "ReputationBefore": 81.442,
+                "ReputationChange": 0.825,
+                "ReputationAfter": 82.267,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 11,
+                        "Points": 11
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 136788,
+                        "SectorTimes": [
+                            62287,
+                            101678,
+                            136788
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130875,
+                        "SectorTimes": [
+                            57257,
+                            96171,
+                            130875
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131402,
+                        "SectorTimes": [
+                            57594,
+                            96830,
+                            131402
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 127668,
+                        "SectorTimes": [
+                            55291,
+                            93893,
+                            127668
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 127552,
+                        "SectorTimes": [
+                            55177,
+                            93589,
+                            127552
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 128973,
+                        "SectorTimes": [
+                            56594,
+                            95274,
+                            128973
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 128514,
+                        "SectorTimes": [
+                            55875,
+                            94507,
+                            128514
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129114,
+                        "SectorTimes": [
+                            55609,
+                            94478,
+                            129114
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129065,
+                        "SectorTimes": [
+                            55888,
+                            95645,
+                            129065
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 127934,
+                        "SectorTimes": [
+                            54941,
+                            93696,
+                            127934
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

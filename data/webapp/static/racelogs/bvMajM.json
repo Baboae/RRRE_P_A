@@ -1,0 +1,622 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "bvMajM",
+        "TrackLayoutId": {
+            "Id": 1856,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1855,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 6954181,
+                "Username": "nomad0047",
+                "FullName": "Mohamed Fradj Fadhloun",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 8,
+                        "Points": 8
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111006,
+                        "SectorTimes": [
+                            36629,
+                            78081,
+                            111006
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            36627,
+                            78598,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 6356,
+                    "Name": "#302"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 3,
+                "FinishPosition": 1,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1915.155,
+                "RatingChange": 1.076,
+                "RatingAfter": 1916.231,
+                "ReputationBefore": 89.572,
+                "ReputationChange": -0.003,
+                "ReputationAfter": 89.569,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 8,
+                        "Points": 8
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 114440,
+                        "SectorTimes": [
+                            50745,
+                            85514,
+                            114440
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 96261,
+                        "SectorTimes": [
+                            32987,
+                            67543,
+                            96261
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 96734,
+                        "SectorTimes": [
+                            33317,
+                            67868,
+                            96734
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 95966,
+                        "SectorTimes": [
+                            33052,
+                            67323,
+                            95966
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 95812,
+                        "SectorTimes": [
+                            33048,
+                            67345,
+                            95812
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 103501,
+                        "SectorTimes": [
+                            38569,
+                            74815,
+                            103501
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96703,
+                        "SectorTimes": [
+                            33086,
+                            67512,
+                            96703
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96593,
+                        "SectorTimes": [
+                            33348,
+                            67879,
+                            96593
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 97363,
+                        "SectorTimes": [
+                            33556,
+                            68463,
+                            97363
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96863,
+                        "SectorTimes": [
+                            33393,
+                            67947,
+                            96863
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 6356,
+                    "Name": "#302"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1749.85,
+                "RatingChange": -1.109,
+                "RatingAfter": 1748.741,
+                "ReputationBefore": 89.577,
+                "ReputationChange": 0.128,
+                "ReputationAfter": 89.705,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 114015,
+                        "SectorTimes": [
+                            50231,
+                            85207,
+                            114015
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96425,
+                        "SectorTimes": [
+                            32997,
+                            67702,
+                            96425
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 97580,
+                        "SectorTimes": [
+                            33860,
+                            68678,
+                            97580
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 96283,
+                        "SectorTimes": [
+                            32877,
+                            67335,
+                            96283
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 102608,
+                        "SectorTimes": [
+                            32787,
+                            72858,
+                            102608
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 97133,
+                        "SectorTimes": [
+                            33533,
+                            68289,
+                            97133
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 96566,
+                        "SectorTimes": [
+                            33114,
+                            67601,
+                            96566
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 98928,
+                        "SectorTimes": [
+                            34981,
+                            70336,
+                            98928
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 96518,
+                        "SectorTimes": [
+                            33181,
+                            68135,
+                            96518
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 97906,
+                        "SectorTimes": [
+                            33591,
+                            68648,
+                            97906
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6954181,
+                "Username": "nomad0047",
+                "FullName": "Mohamed Fradj Fadhloun",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 1,
+                "FinishPosition": 3,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1385.74,
+                "RatingChange": -2.087,
+                "RatingAfter": 1383.653,
+                "ReputationBefore": 58.81,
+                "ReputationChange": 4.753,
+                "ReputationAfter": 63.563,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 12,
+                        "Points": 12
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 120076,
+                        "SectorTimes": [
+                            50613,
+                            89274,
+                            120076
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 111856,
+                        "SectorTimes": [
+                            36325,
+                            78243,
+                            111856
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 112576,
+                        "SectorTimes": [
+                            37121,
+                            77394,
+                            112576
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 113661,
+                        "SectorTimes": [
+                            36757,
+                            79635,
+                            113661
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 114357,
+                        "SectorTimes": [
+                            38265,
+                            82422,
+                            114357
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110870,
+                        "SectorTimes": [
+                            36609,
+                            78777,
+                            110870
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110149,
+                        "SectorTimes": [
+                            36729,
+                            77355,
+                            110149
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 108011,
+                        "SectorTimes": [
+                            36228,
+                            75447,
+                            108011
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 108070,
+                        "SectorTimes": [
+                            37307,
+                            75585,
+                            108070
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,686 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "VovO7X",
+        "TrackLayoutId": {
+            "Id": 2556,
+            "Name": "Grand Prix Circuit"
+        },
+        "TrackId": {
+            "Id": 2521,
+            "Name": "Red Bull Ring Spielberg"
+        },
+        "QualiResult": [
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 13176,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5375713,
+                "Username": "SgtBirne",
+                "FullName": "Brian Gademan",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6345740,
+                "Username": "jonasafonso335",
+                "FullName": "jonas afonso",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13166,
+                    "Name": "#84"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8225835,
+                "Username": "ryanbyers",
+                "FullName": "Ryan Byers",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9002329,
+                "Username": "WarMazinger",
+                "FullName": "War Mazinger",
+                "Team": "Alikates Racing Team",
+                "LiveryId": {
+                    "Id": 13143,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 13176,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1786.527,
+                "RatingChange": 4.4,
+                "RatingAfter": 1790.927,
+                "ReputationBefore": 85.466,
+                "ReputationChange": 0.535,
+                "ReputationAfter": 86.001,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 99124,
+                        "SectorTimes": [
+                            27512,
+                            66682,
+                            99124
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 93052,
+                        "SectorTimes": [
+                            21305,
+                            60406,
+                            93052
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 91478,
+                        "SectorTimes": [
+                            20963,
+                            58638,
+                            91478
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 90513,
+                        "SectorTimes": [
+                            20819,
+                            58055,
+                            90513
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91998,
+                        "SectorTimes": [
+                            21385,
+                            59605,
+                            91998
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91555,
+                        "SectorTimes": [
+                            21361,
+                            59264,
+                            91555
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92570,
+                        "SectorTimes": [
+                            21444,
+                            59353,
+                            92570
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90428,
+                        "SectorTimes": [
+                            20598,
+                            57629,
+                            90428
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91028,
+                        "SectorTimes": [
+                            21033,
+                            59041,
+                            91028
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90188,
+                        "SectorTimes": [
+                            20714,
+                            58081,
+                            90188
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6345740,
+                "Username": "jonasafonso335",
+                "FullName": "jonas afonso",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13166,
+                    "Name": "#84"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 3,
+                "FinishPosition": 2,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1656.349,
+                "RatingChange": 3.061,
+                "RatingAfter": 1659.41,
+                "ReputationBefore": 81.025,
+                "ReputationChange": 1.766,
+                "ReputationAfter": 82.791,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 99726,
+                        "SectorTimes": [
+                            27298,
+                            67040,
+                            99726
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 92319,
+                        "SectorTimes": [
+                            21227,
+                            59550,
+                            92319
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91264,
+                        "SectorTimes": [
+                            20981,
+                            58536,
+                            91264
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91328,
+                        "SectorTimes": [
+                            20626,
+                            58084,
+                            91328
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 92123,
+                        "SectorTimes": [
+                            21160,
+                            59481,
+                            92123
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 91774,
+                        "SectorTimes": [
+                            21011,
+                            59265,
+                            91774
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 92039,
+                        "SectorTimes": [
+                            20860,
+                            58867,
+                            92039
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91646,
+                        "SectorTimes": [
+                            20790,
+                            58417,
+                            91646
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90580,
+                        "SectorTimes": [
+                            20729,
+                            58164,
+                            90580
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90926,
+                        "SectorTimes": [
+                            20972,
+                            58430,
+                            90926
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 9002329,
+                "Username": "WarMazinger",
+                "FullName": "War Mazinger",
+                "Team": "Alikates Racing Team",
+                "LiveryId": {
+                    "Id": 13143,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1731.219,
+                "RatingChange": -3.778,
+                "RatingAfter": 1727.441,
+                "ReputationBefore": 83.718,
+                "ReputationChange": 0.972,
+                "ReputationAfter": 84.69,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 98861,
+                        "SectorTimes": [
+                            27618,
+                            66276,
+                            98861
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92587,
+                        "SectorTimes": [
+                            21433,
+                            59912,
+                            92587
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90801,
+                        "SectorTimes": [
+                            21174,
+                            58494,
+                            90801
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91793,
+                        "SectorTimes": [
+                            21150,
+                            58667,
+                            91793
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 92022,
+                        "SectorTimes": [
+                            21376,
+                            59341,
+                            92022
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91514,
+                        "SectorTimes": [
+                            21401,
+                            59081,
+                            91514
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99699,
+                        "SectorTimes": [
+                            21477,
+                            59215,
+                            99699
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 111760,
+                        "SectorTimes": [
+                            41730,
+                            79099,
+                            111760
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 90654,
+                        "SectorTimes": [
+                            21384,
+                            58543,
+                            90654
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 90507,
+                        "SectorTimes": [
+                            21180,
+                            58385,
+                            90507
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 8225835,
+                "Username": "ryanbyers",
+                "FullName": "Ryan Byers",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1311.838,
+                "RatingChange": 2.009,
+                "RatingAfter": 1313.847,
+                "ReputationBefore": 45.725,
+                "ReputationChange": 3.24,
+                "ReputationAfter": 48.965,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 100554,
+                        "SectorTimes": [
+                            27801,
+                            67430,
+                            100554
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 93136,
+                        "SectorTimes": [
+                            21575,
+                            60051,
+                            93136
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 105050,
+                        "SectorTimes": [
+                            21262,
+                            59438,
+                            105050
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 5375713,
+                "Username": "SgtBirne",
+                "FullName": "Brian Gademan",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 5,
+                "FinishPosition": 5,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1442.182,
+                "RatingChange": -5.691,
+                "RatingAfter": 1436.491,
+                "ReputationBefore": 70.322,
+                "ReputationChange": -6.22,
+                "ReputationAfter": 64.102,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 110331,
+                        "SectorTimes": [
+                            29030,
+                            68653,
+                            110331
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

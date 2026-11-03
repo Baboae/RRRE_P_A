@@ -1,0 +1,211 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "bVM22",
+        "TrackLayoutId": {
+            "Id": 1778,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1771,
+            "Name": "Autodromo Internacional do Algarve"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6351,
+                    "Name": "#911"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 8,
+                        "Points": 16
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            26051,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119928,
+                        "SectorTimes": [
+                            28769,
+                            66522,
+                            119928
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6351,
+                    "Name": "#911"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1478.83,
+                "RatingChange": 0,
+                "RatingAfter": 1478.83,
+                "ReputationBefore": 77.88,
+                "ReputationChange": 0,
+                "ReputationAfter": 77.88,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 221144,
+                        "SectorTimes": [
+                            32321,
+                            91069,
+                            221144
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117514,
+                        "SectorTimes": [
+                            34666,
+                            67015,
+                            117514
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 106331,
+                        "SectorTimes": [
+                            25875,
+                            56924,
+                            106331
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 143857,
+                        "SectorTimes": [
+                            25558,
+                            56503,
+                            143857
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 162106,
+                        "SectorTimes": [
+                            65313,
+                            96850,
+                            162106
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 113888,
+                        "SectorTimes": [
+                            32991,
+                            64192,
+                            113888
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 106471,
+                        "SectorTimes": [
+                            25892,
+                            56915,
+                            106471
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

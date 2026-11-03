@@ -1,0 +1,974 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "nWbGlA",
+        "TrackLayoutId": {
+            "Id": 2010,
+            "Name": "Grand Prix Fast Chicane"
+        },
+        "TrackId": {
+            "Id": 1690,
+            "Name": "Grand Prix"
+        },
+        "QualiResult": [
+            {
+                "UserId": 74735,
+                "Username": "skyline59",
+                "FullName": "Gaet Zilla",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12376,
+                    "Name": "#56"
+                },
+                "CarClass": {
+                    "Id": 12196,
+                    "Name": "DTM 2023"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 12145,
+                    "Name": "#020"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5509002,
+                "Username": "privat_1",
+                "FullName": "Pri vat",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12092,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6829176,
+                "Username": "Facey_0",
+                "FullName": "Mat Sharp",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11532,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7925224,
+                "Username": "davisonaidan146",
+                "FullName": "aidan buster",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12844,
+                    "Name": "#69"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8536183,
+                "Username": "mkerefov",
+                "FullName": "Mukhamed Kerefov",
+                "Team": "mamkin racers",
+                "LiveryId": {
+                    "Id": 12910,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8872687,
+                "Username": "Swiftly",
+                "FullName": "Kels Chisholm",
+                "Team": "Swiftly",
+                "LiveryId": {
+                    "Id": 12832,
+                    "Name": "#33"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 12145,
+                    "Name": "#020"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1687.939,
+                "RatingChange": 8.868,
+                "RatingAfter": 1696.807,
+                "ReputationBefore": 79.117,
+                "ReputationChange": 1.81,
+                "ReputationAfter": 80.927,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 121297,
+                        "SectorTimes": [
+                            59872,
+                            103089,
+                            121297
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116881,
+                        "SectorTimes": [
+                            53743,
+                            96750,
+                            116881
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115396,
+                        "SectorTimes": [
+                            53905,
+                            96957,
+                            115396
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115017,
+                        "SectorTimes": [
+                            53760,
+                            96761,
+                            115017
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114926,
+                        "SectorTimes": [
+                            53669,
+                            96515,
+                            114926
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115102,
+                        "SectorTimes": [
+                            53774,
+                            96681,
+                            115102
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114467,
+                        "SectorTimes": [
+                            53566,
+                            96406,
+                            114467
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114713,
+                        "SectorTimes": [
+                            53643,
+                            96527,
+                            114713
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8872687,
+                "Username": "Swiftly",
+                "FullName": "Kels Chisholm",
+                "Team": "Swiftly",
+                "LiveryId": {
+                    "Id": 12832,
+                    "Name": "#33"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 4,
+                "FinishPosition": 2,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1703.649,
+                "RatingChange": 8.322,
+                "RatingAfter": 1711.971,
+                "ReputationBefore": 83.75,
+                "ReputationChange": 1.209,
+                "ReputationAfter": 84.959,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 123419,
+                        "SectorTimes": [
+                            61581,
+                            104961,
+                            123419
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116771,
+                        "SectorTimes": [
+                            54938,
+                            97842,
+                            116771
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 115407,
+                        "SectorTimes": [
+                            53974,
+                            97019,
+                            115407
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115473,
+                        "SectorTimes": [
+                            53880,
+                            97030,
+                            115473
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115034,
+                        "SectorTimes": [
+                            53745,
+                            96677,
+                            115034
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115431,
+                        "SectorTimes": [
+                            53790,
+                            96991,
+                            115431
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115537,
+                        "SectorTimes": [
+                            54064,
+                            97226,
+                            115537
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115523,
+                        "SectorTimes": [
+                            53854,
+                            97016,
+                            115523
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8536183,
+                "Username": "mkerefov",
+                "FullName": "Mukhamed Kerefov",
+                "Team": "mamkin racers",
+                "LiveryId": {
+                    "Id": 12910,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 3,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1834.3,
+                "RatingChange": -3.993,
+                "RatingAfter": 1830.307,
+                "ReputationBefore": 84.851,
+                "ReputationChange": 0.123,
+                "ReputationAfter": 84.974,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 123472,
+                        "SectorTimes": [
+                            61314,
+                            104803,
+                            123472
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 116375,
+                        "SectorTimes": [
+                            54584,
+                            97692,
+                            116375
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116566,
+                        "SectorTimes": [
+                            54821,
+                            98079,
+                            116566
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 114914,
+                        "SectorTimes": [
+                            53771,
+                            96680,
+                            114914
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 115523,
+                        "SectorTimes": [
+                            53922,
+                            97092,
+                            115523
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 115248,
+                        "SectorTimes": [
+                            53896,
+                            97019,
+                            115248
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 115597,
+                        "SectorTimes": [
+                            54013,
+                            96838,
+                            115597
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 115237,
+                        "SectorTimes": [
+                            54030,
+                            97047,
+                            115237
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 6829176,
+                "Username": "Facey_0",
+                "FullName": "Mat Sharp",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11532,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 3,
+                "FinishPosition": 4,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1507.719,
+                "RatingChange": 5.296,
+                "RatingAfter": 1513.015,
+                "ReputationBefore": 74.788,
+                "ReputationChange": 5.042,
+                "ReputationAfter": 79.83,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 124347,
+                        "SectorTimes": [
+                            62247,
+                            105915,
+                            124347
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 116644,
+                        "SectorTimes": [
+                            54540,
+                            98189,
+                            116644
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115929,
+                        "SectorTimes": [
+                            54169,
+                            97654,
+                            115929
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115448,
+                        "SectorTimes": [
+                            54101,
+                            97066,
+                            115448
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115661,
+                        "SectorTimes": [
+                            53915,
+                            97420,
+                            115661
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115087,
+                        "SectorTimes": [
+                            53886,
+                            96955,
+                            115087
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115374,
+                        "SectorTimes": [
+                            54220,
+                            97330,
+                            115374
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 115172,
+                        "SectorTimes": [
+                            53845,
+                            96839,
+                            115172
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 74735,
+                "Username": "skyline59",
+                "FullName": "Gaet Zilla",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12376,
+                    "Name": "#56"
+                },
+                "CarClass": {
+                    "Id": 12196,
+                    "Name": "DTM 2023"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 6,
+                "FinishPosition": 5,
+                "StartPositionInClass": 6,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1539.296,
+                "RatingChange": -5.548,
+                "RatingAfter": 1533.748,
+                "ReputationBefore": 78.153,
+                "ReputationChange": 3.442,
+                "ReputationAfter": 81.595,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 126278,
+                        "SectorTimes": [
+                            63356,
+                            106910,
+                            126278
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 117012,
+                        "SectorTimes": [
+                            54835,
+                            98043,
+                            117012
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 118868,
+                        "SectorTimes": [
+                            54356,
+                            98523,
+                            118868
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 117919,
+                        "SectorTimes": [
+                            54542,
+                            98120,
+                            117919
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 119255,
+                        "SectorTimes": [
+                            54620,
+                            98112,
+                            119255
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 122990,
+                        "SectorTimes": [
+                            54182,
+                            103199,
+                            122990
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 117281,
+                        "SectorTimes": [
+                            54604,
+                            98193,
+                            117281
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 117038,
+                        "SectorTimes": [
+                            54622,
+                            98325,
+                            117038
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            },
+            {
+                "UserId": 7925224,
+                "Username": "davisonaidan146",
+                "FullName": "aidan buster",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12844,
+                    "Name": "#69"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 7,
+                "FinishPosition": 6,
+                "StartPositionInClass": 7,
+                "FinishPositionInClass": 6,
+                "RatingBefore": 1370.607,
+                "RatingChange": -1.345,
+                "RatingAfter": 1369.262,
+                "ReputationBefore": 80.002,
+                "ReputationChange": 1.629,
+                "ReputationAfter": 81.631,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 130924,
+                        "SectorTimes": [
+                            64910,
+                            110862,
+                            130924
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 125085,
+                        "SectorTimes": [
+                            58346,
+                            104257,
+                            125085
+                        ],
+                        "Valid": false,
+                        "Position": 7,
+                        "PositionInClass": 7
+                    },
+                    {
+                        "Time": 123177,
+                        "SectorTimes": [
+                            57083,
+                            103323,
+                            123177
+                        ],
+                        "Valid": true,
+                        "Position": 7,
+                        "PositionInClass": 7
+                    },
+                    {
+                        "Time": 123248,
+                        "SectorTimes": [
+                            57197,
+                            102867,
+                            123248
+                        ],
+                        "Valid": true,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 122802,
+                        "SectorTimes": [
+                            57104,
+                            102166,
+                            122802
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 122421,
+                        "SectorTimes": [
+                            57377,
+                            102100,
+                            122421
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 122457,
+                        "SectorTimes": [
+                            57069,
+                            102088,
+                            122457
+                        ],
+                        "Valid": true,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 124602,
+                        "SectorTimes": [
+                            57570,
+                            104636,
+                            124602
+                        ],
+                        "Valid": true,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    }
+                ]
+            },
+            {
+                "UserId": 5509002,
+                "Username": "privat_1",
+                "FullName": "Pri vat",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12092,
+                    "Name": "#0"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 5,
+                "FinishPosition": 7,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 7,
+                "RatingBefore": 1434.972,
+                "RatingChange": -15.13,
+                "RatingAfter": 1419.842,
+                "ReputationBefore": 73.809,
+                "ReputationChange": 0.29,
+                "ReputationAfter": 74.099,
+                "Incidents": [
+                    {
+                        "Type": "Stationary",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 131580,
+                        "SectorTimes": [
+                            67830,
+                            111743,
+                            131580
+                        ],
+                        "Valid": true,
+                        "Position": 7,
+                        "PositionInClass": 7
+                    },
+                    {
+                        "Time": 120042,
+                        "SectorTimes": [
+                            55839,
+                            100361,
+                            120042
+                        ],
+                        "Valid": true,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 123393,
+                        "SectorTimes": [
+                            54905,
+                            99898,
+                            123393
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    }
+                ]
+            }
+        ]
+    }
+}

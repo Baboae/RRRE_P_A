@@ -1,0 +1,406 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "JKAQ5",
+        "TrackLayoutId": {
+            "Id": 2064,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 2029,
+            "Name": "Automotodróm Slovakia Ring"
+        },
+        "QualiResult": [
+            {
+                "UserId": 4910040,
+                "Username": "lbiddulph",
+                "FullName": "Lloyd Biddulph",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9263,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 9233,
+                    "Name": "WTCR 2020"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130379,
+                        "SectorTimes": [
+                            37046,
+                            100775,
+                            130379
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130007,
+                        "SectorTimes": [
+                            36824,
+                            100394,
+                            130007
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129599,
+                        "SectorTimes": [
+                            36722,
+                            100168,
+                            129599
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9488,
+                    "Name": "#34"
+                },
+                "CarClass": {
+                    "Id": 9233,
+                    "Name": "WTCR 2020"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 132164,
+                        "SectorTimes": [
+                            37388,
+                            102513,
+                            132164
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130111,
+                        "SectorTimes": [
+                            36967,
+                            100501,
+                            130111
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 4910040,
+                "Username": "lbiddulph",
+                "FullName": "Lloyd Biddulph",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9263,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 9233,
+                    "Name": "WTCR 2020"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1903.685,
+                "RatingChange": 2.85,
+                "RatingAfter": 1906.535,
+                "ReputationBefore": 91.662,
+                "ReputationChange": 0.7,
+                "ReputationAfter": 92.362,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 136202,
+                        "SectorTimes": [
+                            43804,
+                            106746,
+                            136202
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129722,
+                        "SectorTimes": [
+                            37032,
+                            100139,
+                            129722
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133282,
+                        "SectorTimes": [
+                            36929,
+                            103803,
+                            133282
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129542,
+                        "SectorTimes": [
+                            36669,
+                            100156,
+                            129542
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129310,
+                        "SectorTimes": [
+                            36786,
+                            99865,
+                            129310
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129210,
+                        "SectorTimes": [
+                            36787,
+                            99838,
+                            129210
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129613,
+                        "SectorTimes": [
+                            36737,
+                            100122,
+                            129613
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 9488,
+                    "Name": "#34"
+                },
+                "CarClass": {
+                    "Id": 9233,
+                    "Name": "WTCR 2020"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1954.701,
+                "RatingChange": -2.85,
+                "RatingAfter": 1951.851,
+                "ReputationBefore": 93.658,
+                "ReputationChange": -0.303,
+                "ReputationAfter": 93.355,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 137052,
+                        "SectorTimes": [
+                            44170,
+                            107613,
+                            137052
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129456,
+                        "SectorTimes": [
+                            36601,
+                            99924,
+                            129456
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129399,
+                        "SectorTimes": [
+                            36575,
+                            99883,
+                            129399
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130626,
+                        "SectorTimes": [
+                            36889,
+                            100704,
+                            130626
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129728,
+                        "SectorTimes": [
+                            36911,
+                            100002,
+                            129728
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129277,
+                        "SectorTimes": [
+                            36713,
+                            99860,
+                            129277
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129627,
+                        "SectorTimes": [
+                            36962,
+                            100158,
+                            129627
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

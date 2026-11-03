@@ -1,0 +1,542 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "MGx3vl",
+        "TrackLayoutId": {
+            "Id": 4039,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 4038,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5741,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7120807,
+                "Username": "FlappyFTW",
+                "FullName": "Flavio Moya",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5763,
+                    "Name": "#23"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7352471,
+                "Username": "VASCO4818",
+                "FullName": "Diego ECHEGORRIA",
+                "Team": "diegoechegorria@gmail.com",
+                "LiveryId": {
+                    "Id": 5766,
+                    "Name": "#26"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8544154,
+                "Username": "fahmyhenry",
+                "FullName": "HENRY FAHMY",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5746,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 5741,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2148.624,
+                "RatingChange": 0.483,
+                "RatingAfter": 2149.107,
+                "ReputationBefore": 92.273,
+                "ReputationChange": 0.391,
+                "ReputationAfter": 92.664,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 122932,
+                        "SectorTimes": [
+                            40486,
+                            88152,
+                            122932
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117344,
+                        "SectorTimes": [
+                            35131,
+                            82219,
+                            117344
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117302,
+                        "SectorTimes": [
+                            35351,
+                            82579,
+                            117302
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117208,
+                        "SectorTimes": [
+                            35474,
+                            82735,
+                            117208
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 118533,
+                        "SectorTimes": [
+                            36231,
+                            84007,
+                            118533
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116419,
+                        "SectorTimes": [
+                            35252,
+                            82230,
+                            116419
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117121,
+                        "SectorTimes": [
+                            35238,
+                            82684,
+                            117121
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117767,
+                        "SectorTimes": [
+                            35115,
+                            83060,
+                            117767
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 7352471,
+                "Username": "VASCO4818",
+                "FullName": "Diego ECHEGORRIA",
+                "Team": "diegoechegorria@gmail.com",
+                "LiveryId": {
+                    "Id": 5766,
+                    "Name": "#26"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1850.73,
+                "RatingChange": 0.107,
+                "RatingAfter": 1850.837,
+                "ReputationBefore": 94.499,
+                "ReputationChange": 0.168,
+                "ReputationAfter": 94.667,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 126380,
+                        "SectorTimes": [
+                            42146,
+                            91411,
+                            126380
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 119185,
+                        "SectorTimes": [
+                            36518,
+                            84428,
+                            119185
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 118334,
+                        "SectorTimes": [
+                            36044,
+                            83571,
+                            118334
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 118266,
+                        "SectorTimes": [
+                            35884,
+                            83862,
+                            118266
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 118605,
+                        "SectorTimes": [
+                            36098,
+                            84000,
+                            118605
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 118225,
+                        "SectorTimes": [
+                            35604,
+                            83374,
+                            118225
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 120814,
+                        "SectorTimes": [
+                            36441,
+                            85253,
+                            120814
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 119273,
+                        "SectorTimes": [
+                            36455,
+                            84436,
+                            119273
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 7120807,
+                "Username": "FlappyFTW",
+                "FullName": "Flavio Moya",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5763,
+                    "Name": "#23"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1497.253,
+                "RatingChange": 0.804,
+                "RatingAfter": 1498.057,
+                "ReputationBefore": 80.26,
+                "ReputationChange": 1.497,
+                "ReputationAfter": 81.757,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 127766,
+                        "SectorTimes": [
+                            42227,
+                            92686,
+                            127766
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118858,
+                        "SectorTimes": [
+                            36101,
+                            84140,
+                            118858
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118918,
+                        "SectorTimes": [
+                            35763,
+                            84144,
+                            118918
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118176,
+                        "SectorTimes": [
+                            35720,
+                            83651,
+                            118176
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 119684,
+                        "SectorTimes": [
+                            35832,
+                            85147,
+                            119684
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118256,
+                        "SectorTimes": [
+                            35797,
+                            83793,
+                            118256
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118431,
+                        "SectorTimes": [
+                            35941,
+                            83732,
+                            118431
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 119868,
+                        "SectorTimes": [
+                            36443,
+                            84542,
+                            119868
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 8544154,
+                "Username": "fahmyhenry",
+                "FullName": "HENRY FAHMY",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5746,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 5652,
+                    "Name": "FR3 Cup"
+                },
+                "PerformanceIndex": 60,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1345.807,
+                "RatingChange": -1.877,
+                "RatingAfter": 1343.93,
+                "ReputationBefore": 34.476,
+                "ReputationChange": 2.733,
+                "ReputationAfter": 37.209,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 138734,
+                        "SectorTimes": [
+                            43772,
+                            103664,
+                            138734
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 119789,
+                        "SectorTimes": [
+                            36034,
+                            84704,
+                            119789
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,560 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "9E9V5b",
+        "TrackLayoutId": {
+            "Id": 1693,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1692,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 10380,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10344,
+                    "Name": "WTCR 2021"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            24835,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10421,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 10344,
+                    "Name": "WTCR 2021"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6780830,
+                "Username": "mitjansmatias",
+                "FullName": "Matías Mitjans",
+                "Team": "TugasRacing Int.",
+                "LiveryId": {
+                    "Id": 7865,
+                    "Name": "#18"
+                },
+                "CarClass": {
+                    "Id": 7844,
+                    "Name": "WTCR 2019"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10421,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 10344,
+                    "Name": "WTCR 2021"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1877.153,
+                "RatingChange": 2.217,
+                "RatingAfter": 1879.37,
+                "ReputationBefore": 90.019,
+                "ReputationChange": 0.306,
+                "ReputationAfter": 90.325,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 117020,
+                        "SectorTimes": [
+                            30195,
+                            81910,
+                            117020
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111586,
+                        "SectorTimes": [
+                            25062,
+                            76254,
+                            111586
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133957,
+                        "SectorTimes": [
+                            31304,
+                            89755,
+                            133957
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116642,
+                        "SectorTimes": [
+                            29975,
+                            81726,
+                            116642
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110399,
+                        "SectorTimes": [
+                            24456,
+                            75529,
+                            110399
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114786,
+                        "SectorTimes": [
+                            24533,
+                            79793,
+                            114786
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110935,
+                        "SectorTimes": [
+                            24440,
+                            75839,
+                            110935
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111165,
+                        "SectorTimes": [
+                            24551,
+                            75998,
+                            111165
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110314,
+                        "SectorTimes": [
+                            24048,
+                            75333,
+                            110314
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 113153,
+                        "SectorTimes": [
+                            24103,
+                            78196,
+                            113153
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 144976,
+                        "SectorTimes": [
+                            24271,
+                            97319,
+                            144976
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 10380,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10344,
+                    "Name": "WTCR 2021"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1685.499,
+                "RatingChange": -0.13,
+                "RatingAfter": 1685.369,
+                "ReputationBefore": 89.929,
+                "ReputationChange": -0.59,
+                "ReputationAfter": 89.339,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 12,
+                        "Points": 12
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 118862,
+                        "SectorTimes": [
+                            29685,
+                            83576,
+                            118862
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 121944,
+                        "SectorTimes": [
+                            24894,
+                            76377,
+                            121944
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136075,
+                        "SectorTimes": [
+                            25285,
+                            78274,
+                            136075
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 327251,
+                        "SectorTimes": [
+                            229750,
+                            292008,
+                            327251
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111529,
+                        "SectorTimes": [
+                            24282,
+                            76320,
+                            111529
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111448,
+                        "SectorTimes": [
+                            25054,
+                            76724,
+                            111448
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111114,
+                        "SectorTimes": [
+                            24645,
+                            76228,
+                            111114
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111358,
+                        "SectorTimes": [
+                            24506,
+                            76344,
+                            111358
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 149051,
+                        "SectorTimes": [
+                            24331,
+                            98157,
+                            149051
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6780830,
+                "Username": "mitjansmatias",
+                "FullName": "Matías Mitjans",
+                "Team": "TugasRacing Int.",
+                "LiveryId": {
+                    "Id": 7865,
+                    "Name": "#18"
+                },
+                "CarClass": {
+                    "Id": 7844,
+                    "Name": "WTCR 2019"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1470.885,
+                "RatingChange": -2.087,
+                "RatingAfter": 1468.798,
+                "ReputationBefore": 91.006,
+                "ReputationChange": -1.976,
+                "ReputationAfter": 89.03,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 12,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 132636,
+                        "SectorTimes": [
+                            37354,
+                            91491,
+                            132636
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 124823,
+                        "SectorTimes": [
+                            33349,
+                            87704,
+                            124823
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 118101,
+                        "SectorTimes": [
+                            25398,
+                            81063,
+                            118101
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116790,
+                        "SectorTimes": [
+                            25397,
+                            80888,
+                            116790
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116893,
+                        "SectorTimes": [
+                            25656,
+                            80501,
+                            116893
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,693 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "xVmxKq",
+        "TrackLayoutId": {
+            "Id": 6578,
+            "Name": "North"
+        },
+        "TrackId": {
+            "Id": 6340,
+            "Name": "Sepang International Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 7449,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 74121,
+                        "SectorTimes": [
+                            25745,
+                            47003,
+                            74121
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 74648,
+                        "SectorTimes": [
+                            25211,
+                            46591,
+                            74648
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 72654,
+                        "SectorTimes": [
+                            24920,
+                            45843,
+                            72654
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 5,
+                        "Points": 10
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 7453,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1860.233,
+                "RatingChange": 5.739,
+                "RatingAfter": 1865.972,
+                "ReputationBefore": 84.822,
+                "ReputationChange": 1.347,
+                "ReputationAfter": 86.169,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 82257,
+                        "SectorTimes": [
+                            32706,
+                            54955,
+                            82257
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 73542,
+                        "SectorTimes": [
+                            24967,
+                            46614,
+                            73542
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 75808,
+                        "SectorTimes": [
+                            25329,
+                            46962,
+                            75808
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 88938,
+                        "SectorTimes": [
+                            25077,
+                            46764,
+                            88938
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 77465,
+                        "SectorTimes": [
+                            29420,
+                            50769,
+                            77465
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 73003,
+                        "SectorTimes": [
+                            25204,
+                            46291,
+                            73003
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 72836,
+                        "SectorTimes": [
+                            24891,
+                            46108,
+                            72836
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 72767,
+                        "SectorTimes": [
+                            24925,
+                            46054,
+                            72767
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 73125,
+                        "SectorTimes": [
+                            24959,
+                            46228,
+                            73125
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 73618,
+                        "SectorTimes": [
+                            24830,
+                            46484,
+                            73618
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 72950,
+                        "SectorTimes": [
+                            24806,
+                            45976,
+                            72950
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 73636,
+                        "SectorTimes": [
+                            25316,
+                            46436,
+                            73636
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 7449,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1841.727,
+                "RatingChange": -0.196,
+                "RatingAfter": 1841.531,
+                "ReputationBefore": 81.804,
+                "ReputationChange": -0.063,
+                "ReputationAfter": 81.741,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 9,
+                        "Points": 9
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 88174,
+                        "SectorTimes": [
+                            33481,
+                            55307,
+                            88174
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 74319,
+                        "SectorTimes": [
+                            25229,
+                            47472,
+                            74319
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 73219,
+                        "SectorTimes": [
+                            25113,
+                            46655,
+                            73219
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85156,
+                        "SectorTimes": [
+                            24974,
+                            46197,
+                            85156
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 77342,
+                        "SectorTimes": [
+                            29509,
+                            50636,
+                            77342
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 74924,
+                        "SectorTimes": [
+                            25575,
+                            48162,
+                            74924
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 72252,
+                        "SectorTimes": [
+                            24895,
+                            45881,
+                            72252
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 72457,
+                        "SectorTimes": [
+                            24979,
+                            45932,
+                            72457
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 73075,
+                        "SectorTimes": [
+                            25150,
+                            46305,
+                            73075
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 72999,
+                        "SectorTimes": [
+                            25113,
+                            46188,
+                            72999
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 82714,
+                        "SectorTimes": [
+                            24961,
+                            45855,
+                            82714
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 77089,
+                        "SectorTimes": [
+                            25018,
+                            46140,
+                            77089
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 7453,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 205,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1799.919,
+                "RatingChange": -5.543,
+                "RatingAfter": 1794.376,
+                "ReputationBefore": 87.332,
+                "ReputationChange": -1.642,
+                "ReputationAfter": 85.69,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 4,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 9,
+                        "Points": 9
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 85734,
+                        "SectorTimes": [
+                            34467,
+                            56675,
+                            85734
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 78745,
+                        "SectorTimes": [
+                            27172,
+                            49408,
+                            78745
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 75250,
+                        "SectorTimes": [
+                            25821,
+                            47398,
+                            75250
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 81637,
+                        "SectorTimes": [
+                            25372,
+                            47153,
+                            81637
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 79443,
+                        "SectorTimes": [
+                            29899,
+                            51205,
+                            79443
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 74365,
+                        "SectorTimes": [
+                            25520,
+                            47118,
+                            74365
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 73978,
+                        "SectorTimes": [
+                            25763,
+                            47070,
+                            73978
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 83851,
+                        "SectorTimes": [
+                            25761,
+                            56371,
+                            83851
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 73823,
+                        "SectorTimes": [
+                            25268,
+                            46919,
+                            73823
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 85835,
+                        "SectorTimes": [
+                            25007,
+                            46132,
+                            85835
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 72867,
+                        "SectorTimes": [
+                            24811,
+                            46064,
+                            72867
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 90685,
+                        "SectorTimes": [
+                            40608,
+                            63611,
+                            90685
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

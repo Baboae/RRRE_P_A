@@ -1,0 +1,738 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "nWM3J4",
+        "TrackLayoutId": {
+            "Id": 5298,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 5297,
+            "Name": "CREDITAS Autodrom Brno"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 130079,
+                        "SectorTimes": [
+                            43095,
+                            96300,
+                            130079
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6386065,
+                "Username": "jarek81PL",
+                "FullName": "Jarek PL",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3560,
+                    "Name": "#14"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136857,
+                        "SectorTimes": [
+                            44423,
+                            101062,
+                            136857
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 4860999,
+                "Username": "weblauser",
+                "FullName": "andy weblauser",
+                "Team": "duke",
+                "LiveryId": {
+                    "Id": 3544,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5358469,
+                "Username": "M_51352",
+                "FullName": "Michael Mesick",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3566,
+                    "Name": "#38"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 3664,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1985.667,
+                "RatingChange": 0.643,
+                "RatingAfter": 1986.31,
+                "ReputationBefore": 92.966,
+                "ReputationChange": 0.703,
+                "ReputationAfter": 93.669,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 137456,
+                        "SectorTimes": [
+                            48872,
+                            103191,
+                            137456
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131176,
+                        "SectorTimes": [
+                            43245,
+                            96886,
+                            131176
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131090,
+                        "SectorTimes": [
+                            42990,
+                            96744,
+                            131090
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135647,
+                        "SectorTimes": [
+                            44507,
+                            98672,
+                            135647
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 133511,
+                        "SectorTimes": [
+                            44900,
+                            99105,
+                            133511
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131522,
+                        "SectorTimes": [
+                            43075,
+                            97284,
+                            131522
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 131983,
+                        "SectorTimes": [
+                            43529,
+                            97568,
+                            131983
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132820,
+                        "SectorTimes": [
+                            43565,
+                            98311,
+                            132820
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 138982,
+                        "SectorTimes": [
+                            43388,
+                            98607,
+                            138982
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6386065,
+                "Username": "jarek81PL",
+                "FullName": "Jarek PL",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3560,
+                    "Name": "#14"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1497.37,
+                "RatingChange": 6.22,
+                "RatingAfter": 1503.59,
+                "ReputationBefore": 89.646,
+                "ReputationChange": 1.035,
+                "ReputationAfter": 90.681,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 142313,
+                        "SectorTimes": [
+                            51288,
+                            107157,
+                            142313
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136484,
+                        "SectorTimes": [
+                            44699,
+                            101227,
+                            136484
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 133362,
+                        "SectorTimes": [
+                            44186,
+                            98573,
+                            133362
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 134873,
+                        "SectorTimes": [
+                            43611,
+                            99168,
+                            134873
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135058,
+                        "SectorTimes": [
+                            44113,
+                            99836,
+                            135058
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135093,
+                        "SectorTimes": [
+                            43888,
+                            99583,
+                            135093
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 134732,
+                        "SectorTimes": [
+                            44569,
+                            99707,
+                            134732
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 136413,
+                        "SectorTimes": [
+                            44214,
+                            100135,
+                            136413
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 135490,
+                        "SectorTimes": [
+                            45152,
+                            100255,
+                            135490
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 4860999,
+                "Username": "weblauser",
+                "FullName": "andy weblauser",
+                "Team": "duke",
+                "LiveryId": {
+                    "Id": 3544,
+                    "Name": "#6"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1528.822,
+                "RatingChange": 0,
+                "RatingAfter": 1528.822,
+                "ReputationBefore": 83.147,
+                "ReputationChange": 1.176,
+                "ReputationAfter": 84.323,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 143318,
+                        "SectorTimes": [
+                            51540,
+                            108092,
+                            143318
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 134650,
+                        "SectorTimes": [
+                            43808,
+                            99435,
+                            134650
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 132853,
+                        "SectorTimes": [
+                            43463,
+                            98230,
+                            132853
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 154553,
+                        "SectorTimes": [
+                            43899,
+                            119500,
+                            154553
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 134720,
+                        "SectorTimes": [
+                            43475,
+                            99615,
+                            134720
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 135619,
+                        "SectorTimes": [
+                            43694,
+                            100273,
+                            135619
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 133609,
+                        "SectorTimes": [
+                            43747,
+                            98800,
+                            133609
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 133297,
+                        "SectorTimes": [
+                            43684,
+                            98347,
+                            133297
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 133741,
+                        "SectorTimes": [
+                            43890,
+                            98724,
+                            133741
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5358469,
+                "Username": "M_51352",
+                "FullName": "Michael Mesick",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 3566,
+                    "Name": "#38"
+                },
+                "CarClass": {
+                    "Id": 3499,
+                    "Name": "DTM 1992"
+                },
+                "PerformanceIndex": 155,
+                "StartPosition": 4,
+                "FinishPosition": 4,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1616.996,
+                "RatingChange": -7.507,
+                "RatingAfter": 1609.489,
+                "ReputationBefore": 87.532,
+                "ReputationChange": -0.758,
+                "ReputationAfter": 86.774,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 2,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 153487,
+                        "SectorTimes": [
+                            50032,
+                            117543,
+                            153487
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 134914,
+                        "SectorTimes": [
+                            44421,
+                            99563,
+                            134914
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 133814,
+                        "SectorTimes": [
+                            44055,
+                            98988,
+                            133814
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 142642,
+                        "SectorTimes": [
+                            45468,
+                            107411,
+                            142642
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 135641,
+                        "SectorTimes": [
+                            44298,
+                            99529,
+                            135641
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 133834,
+                        "SectorTimes": [
+                            44000,
+                            98790,
+                            133834
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 149625,
+                        "SectorTimes": [
+                            43517,
+                            113593,
+                            149625
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 133976,
+                        "SectorTimes": [
+                            43652,
+                            98904,
+                            133976
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

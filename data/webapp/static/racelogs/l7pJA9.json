@@ -1,0 +1,457 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "l7pJA9",
+        "TrackLayoutId": {
+            "Id": 1693,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1692,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 7638639,
+                "Username": "FrancoisCevert_0",
+                "FullName": "Frank Richter",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116383,
+                        "SectorTimes": [
+                            25516,
+                            78736,
+                            116383
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6839039,
+                "Username": "normanbates_1",
+                "FullName": "Norman Bates",
+                "Team": "RaTB",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2073.868,
+                "RatingChange": 0.13,
+                "RatingAfter": 2073.998,
+                "ReputationBefore": 95.438,
+                "ReputationChange": 0.139,
+                "ReputationAfter": 95.577,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 115710,
+                        "SectorTimes": [
+                            29764,
+                            80048,
+                            115710
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109588,
+                        "SectorTimes": [
+                            24174,
+                            74227,
+                            109588
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109629,
+                        "SectorTimes": [
+                            24198,
+                            74293,
+                            109629
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109702,
+                        "SectorTimes": [
+                            24279,
+                            74214,
+                            109702
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109789,
+                        "SectorTimes": [
+                            24316,
+                            74452,
+                            109789
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110123,
+                        "SectorTimes": [
+                            24541,
+                            74811,
+                            110123
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 109381,
+                        "SectorTimes": [
+                            24112,
+                            74070,
+                            109381
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 128712,
+                        "SectorTimes": [
+                            24314,
+                            75167,
+                            128712
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 7638639,
+                "Username": "FrancoisCevert_0",
+                "FullName": "Frank Richter",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1462.559,
+                "RatingChange": 3.391,
+                "RatingAfter": 1465.95,
+                "ReputationBefore": 85.838,
+                "ReputationChange": 1.775,
+                "ReputationAfter": 87.613,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 120862,
+                        "SectorTimes": [
+                            32041,
+                            83770,
+                            120862
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113716,
+                        "SectorTimes": [
+                            25662,
+                            77035,
+                            113716
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 114714,
+                        "SectorTimes": [
+                            25488,
+                            77478,
+                            114714
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113682,
+                        "SectorTimes": [
+                            25232,
+                            76920,
+                            113682
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113953,
+                        "SectorTimes": [
+                            25475,
+                            77096,
+                            113953
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113460,
+                        "SectorTimes": [
+                            25023,
+                            76391,
+                            113460
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112785,
+                        "SectorTimes": [
+                            24857,
+                            76097,
+                            112785
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 114242,
+                        "SectorTimes": [
+                            25318,
+                            77212,
+                            114242
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 6839039,
+                "Username": "normanbates_1",
+                "FullName": "Norman Bates",
+                "Team": "RaTB",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1304.332,
+                "RatingChange": -1.957,
+                "RatingAfter": 1302.375,
+                "ReputationBefore": 80.349,
+                "ReputationChange": -7.935,
+                "ReputationAfter": 72.414,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "bvm1QW",
+        "TrackLayoutId": {
+            "Id": 4975,
+            "Name": "NLS"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 1007060,
+                "Username": "sit79",
+                "FullName": "Stefan Wien",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12048,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 1093977,
+                "Username": "VV1",
+                "FullName": "V.V Gonzales",
+                "Team": "U.R.C.",
+                "LiveryId": {
+                    "Id": 8231,
+                    "Name": "#44c"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 8293,
+                    "Name": "#979"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6553636,
+                "Username": "JToezinho",
+                "FullName": "Jordi Toes",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9481,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7285835,
+                "Username": "UglyMoufaggavonOrschleggn",
+                "FullName": "William Murderface",
+                "Team": "Alpha Mike Foxtrott",
+                "LiveryId": {
+                    "Id": 11058,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7671326,
+                "Username": "pcFiNCH85",
+                "FullName": "Ansgar Michalik (pcFiNCH85)",
+                "Team": "F F F B",
+                "LiveryId": {
+                    "Id": 6148,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8913719,
+                "Username": "Pumuckl75VR",
+                "FullName": "Jan Meewes",
+                "Team": "Nordsee Racing",
+                "LiveryId": {
+                    "Id": 8204,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 8293,
+                    "Name": "#979"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2306.263,
+                "RatingChange": 0.441,
+                "RatingAfter": 2306.704,
+                "ReputationBefore": 96.539,
+                "ReputationChange": 0.278,
+                "ReputationAfter": 96.817,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 518463,
+                        "SectorTimes": [
+                            179207,
+                            287640,
+                            518463
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 510385,
+                        "SectorTimes": [
+                            171090,
+                            279188,
+                            510385
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 7285835,
+                "Username": "UglyMoufaggavonOrschleggn",
+                "FullName": "William Murderface",
+                "Team": "Alpha Mike Foxtrott",
+                "LiveryId": {
+                    "Id": 11058,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1914.993,
+                "RatingChange": 1.576,
+                "RatingAfter": 1916.569,
+                "ReputationBefore": 91.694,
+                "ReputationChange": 0.694,
+                "ReputationAfter": 92.388,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 520855,
+                        "SectorTimes": [
+                            179785,
+                            288250,
+                            520855
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 513913,
+                        "SectorTimes": [
+                            172855,
+                            280902,
+                            513913
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8913719,
+                "Username": "Pumuckl75VR",
+                "FullName": "Jan Meewes",
+                "Team": "Nordsee Racing",
+                "LiveryId": {
+                    "Id": 8204,
+                    "Name": "#4"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1751.075,
+                "RatingChange": 3.614,
+                "RatingAfter": 1754.689,
+                "ReputationBefore": 95.091,
+                "ReputationChange": 0.354,
+                "ReputationAfter": 95.445,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 530213,
+                        "SectorTimes": [
+                            184371,
+                            295355,
+                            530213
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 529586,
+                        "SectorTimes": [
+                            181663,
+                            293492,
+                            529587
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 1007060,
+                "Username": "sit79",
+                "FullName": "Stefan Wien",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 12048,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 7,
+                "FinishPosition": 4,
+                "StartPositionInClass": 7,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1541.131,
+                "RatingChange": 11.936,
+                "RatingAfter": 1553.067,
+                "ReputationBefore": 67.043,
+                "ReputationChange": 6.455,
+                "ReputationAfter": 73.498,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 538530,
+                        "SectorTimes": [
+                            187173,
+                            298384,
+                            538530
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 524420,
+                        "SectorTimes": [
+                            176123,
+                            286715,
+                            524420
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 7671326,
+                "Username": "pcFiNCH85",
+                "FullName": "Ansgar Michalik (pcFiNCH85)",
+                "Team": "F F F B",
+                "LiveryId": {
+                    "Id": 6148,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 5,
+                "FinishPosition": 5,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1715.034,
+                "RatingChange": -3.657,
+                "RatingAfter": 1711.377,
+                "ReputationBefore": 94.943,
+                "ReputationChange": 0.437,
+                "ReputationAfter": 95.38,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 542519,
+                        "SectorTimes": [
+                            189163,
+                            300836,
+                            542519
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 523853,
+                        "SectorTimes": [
+                            176525,
+                            287426,
+                            523853
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            },
+            {
+                "UserId": 1093977,
+                "Username": "VV1",
+                "FullName": "V.V Gonzales",
+                "Team": "U.R.C.",
+                "LiveryId": {
+                    "Id": 8231,
+                    "Name": "#44c"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 4,
+                "FinishPosition": 6,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 6,
+                "RatingBefore": 1614.904,
+                "RatingChange": -4.665,
+                "RatingAfter": 1610.239,
+                "ReputationBefore": 82.826,
+                "ReputationChange": 0.489,
+                "ReputationAfter": 83.315,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 3,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 539759,
+                        "SectorTimes": [
+                            188811,
+                            300595,
+                            539759
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 566064,
+                        "SectorTimes": [
+                            202728,
+                            315162,
+                            566064
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    }
+                ]
+            },
+            {
+                "UserId": 6553636,
+                "Username": "JToezinho",
+                "FullName": "Jordi Toes",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 9481,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 5825,
+                    "Name": "GTR 4"
+                },
+                "PerformanceIndex": 165,
+                "StartPosition": 6,
+                "FinishPosition": 7,
+                "StartPositionInClass": 6,
+                "FinishPositionInClass": 7,
+                "RatingBefore": 1493.675,
+                "RatingChange": -10.591,
+                "RatingAfter": 1483.084,
+                "ReputationBefore": 67.654,
+                "ReputationChange": -13.331,
+                "ReputationAfter": 54.323,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 7,
+                        "PositionInClass": 7
+                    }
+                ]
+            }
+        ]
+    }
+}

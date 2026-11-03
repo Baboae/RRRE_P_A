@@ -1,0 +1,101 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "zd5lLo",
+        "TrackLayoutId": {
+            "Id": 1693,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1692,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10601,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2108.249,
+                "RatingChange": 0,
+                "RatingAfter": 2108.249,
+                "ReputationBefore": 96.342,
+                "ReputationChange": 0,
+                "ReputationAfter": 96.342,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 3,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 143044,
+                        "SectorTimes": [
+                            30547,
+                            101215,
+                            143044
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

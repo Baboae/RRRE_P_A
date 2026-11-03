@@ -1,0 +1,443 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "3rGmpL",
+        "TrackLayoutId": {
+            "Id": 2064,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 2029,
+            "Name": "Automotodróm Slovakia Ring"
+        },
+        "QualiResult": [
+            {
+                "UserId": 681720,
+                "Username": "krenzo1",
+                "FullName": "Lorenzo Colafrancesco",
+                "Team": "Racing Team italia",
+                "LiveryId": {
+                    "Id": 4818,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4517,
+                    "Name": "WTCC 2015"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5034837,
+                "Username": "FrankvanRoon",
+                "FullName": "Frank van Roon",
+                "Team": "Zeroforce Racing",
+                "LiveryId": {
+                    "Id": 6023,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 6036,
+                    "Name": "WTCC 2016"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 6333,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 6309,
+                    "Name": "WTCC 2017"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5034837,
+                "Username": "FrankvanRoon",
+                "FullName": "Frank van Roon",
+                "Team": "Zeroforce Racing",
+                "LiveryId": {
+                    "Id": 6023,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 6036,
+                    "Name": "WTCC 2016"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2100.438,
+                "RatingChange": 3,
+                "RatingAfter": 2103.438,
+                "ReputationBefore": 97.368,
+                "ReputationChange": 0.263,
+                "ReputationAfter": 97.631,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 131717,
+                        "SectorTimes": [
+                            42220,
+                            103618,
+                            131717
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124369,
+                        "SectorTimes": [
+                            35121,
+                            96201,
+                            124369
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124779,
+                        "SectorTimes": [
+                            35228,
+                            96662,
+                            124779
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124851,
+                        "SectorTimes": [
+                            35140,
+                            96497,
+                            124851
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124409,
+                        "SectorTimes": [
+                            35040,
+                            96283,
+                            124409
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124570,
+                        "SectorTimes": [
+                            35199,
+                            96440,
+                            124570
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124674,
+                        "SectorTimes": [
+                            35132,
+                            96490,
+                            124674
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 124528,
+                        "SectorTimes": [
+                            35129,
+                            96456,
+                            124528
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 6333,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 6309,
+                    "Name": "WTCC 2017"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 2307.209,
+                "RatingChange": -2.348,
+                "RatingAfter": 2304.861,
+                "ReputationBefore": 98.549,
+                "ReputationChange": -0.866,
+                "ReputationAfter": 97.683,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 9,
+                        "Points": 9
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 132386,
+                        "SectorTimes": [
+                            42495,
+                            104025,
+                            132386
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 123868,
+                        "SectorTimes": [
+                            34918,
+                            95890,
+                            123868
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124866,
+                        "SectorTimes": [
+                            35272,
+                            96748,
+                            124866
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 125567,
+                        "SectorTimes": [
+                            34924,
+                            97340,
+                            125567
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124221,
+                        "SectorTimes": [
+                            35057,
+                            96107,
+                            124221
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124024,
+                        "SectorTimes": [
+                            34982,
+                            96043,
+                            124024
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124662,
+                        "SectorTimes": [
+                            35045,
+                            96588,
+                            124662
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124805,
+                        "SectorTimes": [
+                            35107,
+                            96508,
+                            124805
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 681720,
+                "Username": "krenzo1",
+                "FullName": "Lorenzo Colafrancesco",
+                "Team": "Racing Team italia",
+                "LiveryId": {
+                    "Id": 4818,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4517,
+                    "Name": "WTCC 2015"
+                },
+                "PerformanceIndex": 120,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1805.293,
+                "RatingChange": -1.304,
+                "RatingAfter": 1803.989,
+                "ReputationBefore": 91.858,
+                "ReputationChange": 0.702,
+                "ReputationAfter": 92.56,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 133784,
+                        "SectorTimes": [
+                            42904,
+                            105453,
+                            133784
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 127031,
+                        "SectorTimes": [
+                            35497,
+                            98296,
+                            127031
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 127322,
+                        "SectorTimes": [
+                            35661,
+                            98275,
+                            127322
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126907,
+                        "SectorTimes": [
+                            35618,
+                            98296,
+                            126907
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126786,
+                        "SectorTimes": [
+                            35439,
+                            97925,
+                            126786
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126769,
+                        "SectorTimes": [
+                            35312,
+                            98142,
+                            126769
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126470,
+                        "SectorTimes": [
+                            35473,
+                            97973,
+                            126470
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 126801,
+                        "SectorTimes": [
+                            35388,
+                            98324,
+                            126801
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

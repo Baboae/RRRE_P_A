@@ -1,0 +1,625 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "oZmobO",
+        "TrackLayoutId": {
+            "Id": 4975,
+            "Name": "NLS"
+        },
+        "TrackId": {
+            "Id": 2812,
+            "Name": "Nordschleife"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5925355,
+                "Username": "Dremmelking",
+                "FullName": "Dremmel King",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6360,
+                    "Name": "#308"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9015078,
+                "Username": "CarstenBarczewski",
+                "FullName": "Carsten Barczewski",
+                "Team": "Team RRX Unna",
+                "LiveryId": {
+                    "Id": 6371,
+                    "Name": "#696"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9025187,
+                "Username": "_248383",
+                "FullName": "Ken Van Voorn",
+                "Team": "Kitagawa Racing",
+                "LiveryId": {
+                    "Id": 6358,
+                    "Name": "#305"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9112081,
+                "Username": "jakobbritz2010",
+                "FullName": "Jakob Britz",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6356,
+                    "Name": "#302"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9259275,
+                "Username": "Hiszpanski",
+                "FullName": "Kamil Hiszpanski",
+                "Team": "HiPOL88 SIM Racing Team",
+                "LiveryId": {
+                    "Id": 6360,
+                    "Name": "#308"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 9112081,
+                "Username": "jakobbritz2010",
+                "FullName": "Jakob Britz",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6356,
+                    "Name": "#302"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2014.069,
+                "RatingChange": 2.86,
+                "RatingAfter": 2016.929,
+                "ReputationBefore": 92.94,
+                "ReputationChange": 0.562,
+                "ReputationAfter": 93.502,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 547724,
+                        "SectorTimes": [
+                            188788,
+                            303101,
+                            547724
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 535895,
+                        "SectorTimes": [
+                            178890,
+                            292412,
+                            535895
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 534160,
+                        "SectorTimes": [
+                            178900,
+                            292061,
+                            534160
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 535739,
+                        "SectorTimes": [
+                            178912,
+                            293696,
+                            535739
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 9015078,
+                "Username": "CarstenBarczewski",
+                "FullName": "Carsten Barczewski",
+                "Team": "Team RRX Unna",
+                "LiveryId": {
+                    "Id": 6371,
+                    "Name": "#696"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 4,
+                "FinishPosition": 2,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1790.21,
+                "RatingChange": 8.116,
+                "RatingAfter": 1798.326,
+                "ReputationBefore": 82.529,
+                "ReputationChange": 1.747,
+                "ReputationAfter": 84.276,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 552557,
+                        "SectorTimes": [
+                            189787,
+                            305209,
+                            552557
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 543700,
+                        "SectorTimes": [
+                            183974,
+                            298229,
+                            543700
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 541624,
+                        "SectorTimes": [
+                            181429,
+                            295601,
+                            541624
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 542832,
+                        "SectorTimes": [
+                            182273,
+                            296832,
+                            542832
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 9025187,
+                "Username": "_248383",
+                "FullName": "Ken Van Voorn",
+                "Team": "Kitagawa Racing",
+                "LiveryId": {
+                    "Id": 6358,
+                    "Name": "#305"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1930.991,
+                "RatingChange": -0.333,
+                "RatingAfter": 1930.658,
+                "ReputationBefore": 89.748,
+                "ReputationChange": 0.415,
+                "ReputationAfter": 90.163,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 551592,
+                        "SectorTimes": [
+                            188539,
+                            304025,
+                            551592
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 540242,
+                        "SectorTimes": [
+                            180713,
+                            295406,
+                            540242
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 540094,
+                        "SectorTimes": [
+                            180994,
+                            295337,
+                            540094
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 557023,
+                        "SectorTimes": [
+                            181295,
+                            295856,
+                            557023
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 5925355,
+                "Username": "Dremmelking",
+                "FullName": "Dremmel King",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 6360,
+                    "Name": "#308"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 3,
+                "FinishPosition": 4,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1783.214,
+                "RatingChange": -1.064,
+                "RatingAfter": 1782.15,
+                "ReputationBefore": 92.333,
+                "ReputationChange": 0.599,
+                "ReputationAfter": 92.932,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 552103,
+                        "SectorTimes": [
+                            190019,
+                            304800,
+                            552103
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 540074,
+                        "SectorTimes": [
+                            181529,
+                            295879,
+                            540074
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 540055,
+                        "SectorTimes": [
+                            181398,
+                            295449,
+                            540055
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 557427,
+                        "SectorTimes": [
+                            181088,
+                            295549,
+                            557428
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 6503,
+                    "Name": "#235"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 5,
+                "FinishPosition": 5,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1969.503,
+                "RatingChange": -5.41,
+                "RatingAfter": 1964.093,
+                "ReputationBefore": 91.314,
+                "ReputationChange": 0.545,
+                "ReputationAfter": 91.859,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 553546,
+                        "SectorTimes": [
+                            192130,
+                            306338,
+                            553546
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 539859,
+                        "SectorTimes": [
+                            181457,
+                            295648,
+                            539859
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 563981,
+                        "SectorTimes": [
+                            180676,
+                            294830,
+                            563981
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 565156,
+                        "SectorTimes": [
+                            200958,
+                            315561,
+                            565156
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            },
+            {
+                "UserId": 9259275,
+                "Username": "Hiszpanski",
+                "FullName": "Kamil Hiszpanski",
+                "Team": "HiPOL88 SIM Racing Team",
+                "LiveryId": {
+                    "Id": 6360,
+                    "Name": "#308"
+                },
+                "CarClass": {
+                    "Id": 6344,
+                    "Name": "BMW M235i Racing Cup"
+                },
+                "PerformanceIndex": 201,
+                "StartPosition": 6,
+                "FinishPosition": 6,
+                "StartPositionInClass": 6,
+                "FinishPositionInClass": 6,
+                "RatingBefore": 1452.31,
+                "RatingChange": -1.818,
+                "RatingAfter": 1450.492,
+                "ReputationBefore": 65.177,
+                "ReputationChange": 2.62,
+                "ReputationAfter": 67.797,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 3,
+                        "Points": 5
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 568008,
+                        "SectorTimes": [
+                            195300,
+                            313332,
+                            568008
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 566878,
+                        "SectorTimes": [
+                            190829,
+                            309039,
+                            566878
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    },
+                    {
+                        "Time": 573706,
+                        "SectorTimes": [
+                            188977,
+                            314249,
+                            573706
+                        ],
+                        "Valid": false,
+                        "Position": 6,
+                        "PositionInClass": 6
+                    }
+                ]
+            }
+        ]
+    }
+}

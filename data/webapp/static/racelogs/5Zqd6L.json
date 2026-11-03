@@ -1,0 +1,718 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "5Zqd6L",
+        "TrackLayoutId": {
+            "Id": 3377,
+            "Name": "Sprint"
+        },
+        "TrackId": {
+            "Id": 1690,
+            "Name": "Grand Prix"
+        },
+        "QualiResult": [
+            {
+                "UserId": 1025294,
+                "Username": "Philipppowitsch",
+                "FullName": "Philipp Baur",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13319,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 13309,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7797106,
+                "Username": "pro1d",
+                "FullName": "Joe Gold",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13267,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8846905,
+                "Username": "mail_272873",
+                "FullName": "Juerg Graf",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13320,
+                    "Name": "#9"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 13309,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2324.385,
+                "RatingChange": 0.59,
+                "RatingAfter": 2324.975,
+                "ReputationBefore": 97.264,
+                "ReputationChange": 0.169,
+                "ReputationAfter": 97.433,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 89581,
+                        "SectorTimes": [
+                            40516,
+                            69202,
+                            89581
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 85387,
+                        "SectorTimes": [
+                            35775,
+                            64322,
+                            85387
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 85123,
+                        "SectorTimes": [
+                            35835,
+                            64564,
+                            85123
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84561,
+                        "SectorTimes": [
+                            35519,
+                            64001,
+                            84561
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84536,
+                        "SectorTimes": [
+                            35558,
+                            64104,
+                            84536
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84820,
+                        "SectorTimes": [
+                            35879,
+                            64346,
+                            84820
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84760,
+                        "SectorTimes": [
+                            35675,
+                            64262,
+                            84760
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84515,
+                        "SectorTimes": [
+                            35480,
+                            63998,
+                            84515
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84990,
+                        "SectorTimes": [
+                            35955,
+                            64537,
+                            84990
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84777,
+                        "SectorTimes": [
+                            35604,
+                            64219,
+                            84777
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 84188,
+                        "SectorTimes": [
+                            35440,
+                            63900,
+                            84188
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 1025294,
+                "Username": "Philipppowitsch",
+                "FullName": "Philipp Baur",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13319,
+                    "Name": "#3"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1947.13,
+                "RatingChange": 1.394,
+                "RatingAfter": 1948.524,
+                "ReputationBefore": 93.556,
+                "ReputationChange": 0.644,
+                "ReputationAfter": 94.2,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 91030,
+                        "SectorTimes": [
+                            41538,
+                            70427,
+                            91030
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85287,
+                        "SectorTimes": [
+                            35960,
+                            64739,
+                            85287
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 84927,
+                        "SectorTimes": [
+                            35635,
+                            64471,
+                            84927
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85041,
+                        "SectorTimes": [
+                            35705,
+                            64488,
+                            85041
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85244,
+                        "SectorTimes": [
+                            35809,
+                            64511,
+                            85244
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85277,
+                        "SectorTimes": [
+                            35917,
+                            64756,
+                            85277
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85728,
+                        "SectorTimes": [
+                            35698,
+                            65033,
+                            85728
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85571,
+                        "SectorTimes": [
+                            35946,
+                            64989,
+                            85571
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85557,
+                        "SectorTimes": [
+                            36048,
+                            64994,
+                            85557
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85808,
+                        "SectorTimes": [
+                            36094,
+                            65008,
+                            85808
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 85764,
+                        "SectorTimes": [
+                            35989,
+                            64813,
+                            85764
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 7797106,
+                "Username": "pro1d",
+                "FullName": "Joe Gold",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13267,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 4,
+                "FinishPosition": 3,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1938.639,
+                "RatingChange": -1.233,
+                "RatingAfter": 1937.406,
+                "ReputationBefore": 92.477,
+                "ReputationChange": 0.752,
+                "ReputationAfter": 93.229,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 92087,
+                        "SectorTimes": [
+                            42114,
+                            71318,
+                            92087
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86185,
+                        "SectorTimes": [
+                            35929,
+                            65324,
+                            86185
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86156,
+                        "SectorTimes": [
+                            36135,
+                            65499,
+                            86156
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86273,
+                        "SectorTimes": [
+                            36163,
+                            65401,
+                            86273
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86427,
+                        "SectorTimes": [
+                            36434,
+                            65480,
+                            86427
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86280,
+                        "SectorTimes": [
+                            36208,
+                            65467,
+                            86280
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86359,
+                        "SectorTimes": [
+                            36064,
+                            65223,
+                            86359
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 85930,
+                        "SectorTimes": [
+                            35918,
+                            64959,
+                            85930
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86002,
+                        "SectorTimes": [
+                            36109,
+                            65173,
+                            86002
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 86032,
+                        "SectorTimes": [
+                            36117,
+                            65336,
+                            86032
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 85629,
+                        "SectorTimes": [
+                            35990,
+                            64876,
+                            85629
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 8846905,
+                "Username": "mail_272873",
+                "FullName": "Juerg Graf",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 13320,
+                    "Name": "#9"
+                },
+                "CarClass": {
+                    "Id": 13264,
+                    "Name": "DTM 2002"
+                },
+                "PerformanceIndex": 51,
+                "StartPosition": 3,
+                "FinishPosition": 4,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1615.03,
+                "RatingChange": -1.555,
+                "RatingAfter": 1613.475,
+                "ReputationBefore": 88.064,
+                "ReputationChange": 0.673,
+                "ReputationAfter": 88.737,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 101980,
+                        "SectorTimes": [
+                            51093,
+                            80914,
+                            101980
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 87222,
+                        "SectorTimes": [
+                            36890,
+                            66014,
+                            87222
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 87112,
+                        "SectorTimes": [
+                            36771,
+                            66172,
+                            87112
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 87278,
+                        "SectorTimes": [
+                            36886,
+                            66286,
+                            87278
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 87134,
+                        "SectorTimes": [
+                            36785,
+                            66040,
+                            87134
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 87105,
+                        "SectorTimes": [
+                            36920,
+                            66362,
+                            87105
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 86656,
+                        "SectorTimes": [
+                            36290,
+                            65698,
+                            86656
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 86737,
+                        "SectorTimes": [
+                            36444,
+                            65677,
+                            86737
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 86459,
+                        "SectorTimes": [
+                            36356,
+                            65659,
+                            86459
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 86696,
+                        "SectorTimes": [
+                            36482,
+                            65793,
+                            86696
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 97967,
+                        "SectorTimes": [
+                            37231,
+                            76195,
+                            97967
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,652 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "KVqPq0",
+        "TrackLayoutId": {
+            "Id": 3464,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 3463,
+            "Name": "Zhuhai International Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10634,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5433051,
+                "Username": "Droohcifer",
+                "FullName": "Andy Taylor",
+                "Team": "Hash4Cash",
+                "LiveryId": {
+                    "Id": 5097,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6603225,
+                "Username": "Borrisdabulletdodger",
+                "FullName": "Eddie Babos",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10617,
+                    "Name": "#01"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8331248,
+                "Username": "CivilAce",
+                "FullName": "Serge Poirier",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5114,
+                    "Name": "#42"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 8331248,
+                "Username": "CivilAce",
+                "FullName": "Serge Poirier",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5114,
+                    "Name": "#42"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2016.061,
+                "RatingChange": 2.011,
+                "RatingAfter": 2018.072,
+                "ReputationBefore": 94.475,
+                "ReputationChange": -0.211,
+                "ReputationAfter": 94.264,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 106583,
+                        "SectorTimes": [
+                            36599,
+                            88005,
+                            106583
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99436,
+                        "SectorTimes": [
+                            29971,
+                            80864,
+                            99436
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99223,
+                        "SectorTimes": [
+                            29857,
+                            80614,
+                            99223
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 98902,
+                        "SectorTimes": [
+                            29914,
+                            80381,
+                            98902
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99321,
+                        "SectorTimes": [
+                            30021,
+                            80796,
+                            99321
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99128,
+                        "SectorTimes": [
+                            29927,
+                            80528,
+                            99128
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 98975,
+                        "SectorTimes": [
+                            29928,
+                            80475,
+                            98975
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99450,
+                        "SectorTimes": [
+                            30147,
+                            80831,
+                            99450
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 99322,
+                        "SectorTimes": [
+                            30058,
+                            80625,
+                            99322
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10634,
+                    "Name": "#17"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 2072.837,
+                "RatingChange": -1.233,
+                "RatingAfter": 2071.604,
+                "ReputationBefore": 92.544,
+                "ReputationChange": 0.309,
+                "ReputationAfter": 92.853,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 107402,
+                        "SectorTimes": [
+                            36515,
+                            88706,
+                            107402
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99205,
+                        "SectorTimes": [
+                            29918,
+                            80561,
+                            99205
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 98940,
+                        "SectorTimes": [
+                            29838,
+                            80442,
+                            98940
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99480,
+                        "SectorTimes": [
+                            30223,
+                            80740,
+                            99480
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99098,
+                        "SectorTimes": [
+                            29913,
+                            80534,
+                            99098
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99669,
+                        "SectorTimes": [
+                            29870,
+                            80841,
+                            99669
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99433,
+                        "SectorTimes": [
+                            29971,
+                            80783,
+                            99433
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99302,
+                        "SectorTimes": [
+                            29887,
+                            80684,
+                            99302
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 99525,
+                        "SectorTimes": [
+                            29907,
+                            80839,
+                            99525
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 5433051,
+                "Username": "Droohcifer",
+                "FullName": "Andy Taylor",
+                "Team": "Hash4Cash",
+                "LiveryId": {
+                    "Id": 5097,
+                    "Name": "#5"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 4,
+                "FinishPosition": 3,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1681.03,
+                "RatingChange": -0.161,
+                "RatingAfter": 1680.869,
+                "ReputationBefore": 93.644,
+                "ReputationChange": 0.09,
+                "ReputationAfter": 93.734,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 108721,
+                        "SectorTimes": [
+                            37187,
+                            89890,
+                            108721
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 100778,
+                        "SectorTimes": [
+                            30557,
+                            81792,
+                            100778
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 100605,
+                        "SectorTimes": [
+                            30330,
+                            81686,
+                            100605
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101513,
+                        "SectorTimes": [
+                            30881,
+                            82870,
+                            101513
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 100354,
+                        "SectorTimes": [
+                            30236,
+                            81455,
+                            100354
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 100895,
+                        "SectorTimes": [
+                            30379,
+                            82193,
+                            100895
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 102247,
+                        "SectorTimes": [
+                            31886,
+                            83373,
+                            102247
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 100968,
+                        "SectorTimes": [
+                            30707,
+                            82196,
+                            100968
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 101348,
+                        "SectorTimes": [
+                            30844,
+                            82364,
+                            101348
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 6603225,
+                "Username": "Borrisdabulletdodger",
+                "FullName": "Eddie Babos",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10617,
+                    "Name": "#01"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 3,
+                "FinishPosition": 4,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1445.458,
+                "RatingChange": -1.501,
+                "RatingAfter": 1443.957,
+                "ReputationBefore": 87.918,
+                "ReputationChange": -0.647,
+                "ReputationAfter": 87.271,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 3,
+                        "Points": 6
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 11,
+                        "Points": 11
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 111445,
+                        "SectorTimes": [
+                            37494,
+                            92159,
+                            111445
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 108077,
+                        "SectorTimes": [
+                            31114,
+                            89000,
+                            108077
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 102494,
+                        "SectorTimes": [
+                            31015,
+                            83549,
+                            102494
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 113512,
+                        "SectorTimes": [
+                            41261,
+                            94516,
+                            113512
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 101669,
+                        "SectorTimes": [
+                            30576,
+                            82839,
+                            101669
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 108806,
+                        "SectorTimes": [
+                            31070,
+                            89402,
+                            108806
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 104495,
+                        "SectorTimes": [
+                            31409,
+                            84995,
+                            104495
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 106151,
+                        "SectorTimes": [
+                            31900,
+                            86723,
+                            106151
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 102422,
+                        "SectorTimes": [
+                            31125,
+                            83276,
+                            102422
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

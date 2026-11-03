@@ -1,0 +1,322 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "MGnMny",
+        "TrackLayoutId": {
+            "Id": 6341,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 6340,
+            "Name": "Sepang International Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12707,
+                    "Name": "#73"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 139202,
+                        "SectorTimes": [
+                            32453,
+                            82699,
+                            139202
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 12749,
+                    "Name": "#104"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 12707,
+                    "Name": "#73"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2036.22,
+                "RatingChange": 0.8,
+                "RatingAfter": 2037.02,
+                "ReputationBefore": 92.706,
+                "ReputationChange": -2.271,
+                "ReputationAfter": 90.435,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "Stationary",
+                        "Count": 2,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 147245,
+                        "SectorTimes": [
+                            39154,
+                            88800,
+                            147245
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 141089,
+                        "SectorTimes": [
+                            32804,
+                            82008,
+                            141089
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 138453,
+                        "SectorTimes": [
+                            32495,
+                            81667,
+                            138453
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 137417,
+                        "SectorTimes": [
+                            32551,
+                            81953,
+                            137417
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151625,
+                        "SectorTimes": [
+                            39621,
+                            89655,
+                            151625
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 249377,
+                        "SectorTimes": [
+                            50222,
+                            132663,
+                            249377
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6385189,
+                "Username": "DjMedici",
+                "FullName": "Fast Medici",
+                "Team": "RCL25",
+                "LiveryId": {
+                    "Id": 12749,
+                    "Name": "#104"
+                },
+                "CarClass": {
+                    "Id": 10909,
+                    "Name": "BMW M2 Cup"
+                },
+                "PerformanceIndex": 189,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1744.264,
+                "RatingChange": -1.6,
+                "RatingAfter": 1742.664,
+                "ReputationBefore": 91.895,
+                "ReputationChange": -2.189,
+                "ReputationAfter": 89.706,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 146691,
+                        "SectorTimes": [
+                            39803,
+                            89915,
+                            146691
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142191,
+                        "SectorTimes": [
+                            32386,
+                            81946,
+                            142191
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 139368,
+                        "SectorTimes": [
+                            32169,
+                            82078,
+                            139368
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 142372,
+                        "SectorTimes": [
+                            33605,
+                            84554,
+                            142372
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 143887,
+                        "SectorTimes": [
+                            32103,
+                            81932,
+                            143887
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 253630,
+                        "SectorTimes": [
+                            47014,
+                            131882,
+                            253630
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

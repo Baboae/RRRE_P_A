@@ -1,0 +1,90 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "a1l0LY",
+        "TrackLayoutId": {
+            "Id": 1684,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1683,
+            "Name": "Circuit Zolder"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 8728,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 8660,
+                    "Name": "Touring Cars Cup"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 8728,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 8660,
+                    "Name": "Touring Cars Cup"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1988.085,
+                "RatingChange": 0,
+                "RatingAfter": 1988.085,
+                "ReputationBefore": 94.598,
+                "ReputationChange": 0,
+                "ReputationAfter": 94.598,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 107695,
+                        "SectorTimes": [
+                            36474,
+                            71665,
+                            107695
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

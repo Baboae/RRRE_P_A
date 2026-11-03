@@ -1,0 +1,382 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "6jwmq",
+        "TrackLayoutId": {
+            "Id": 6055,
+            "Name": "Long"
+        },
+        "TrackId": {
+            "Id": 6053,
+            "Name": "Stowe Circuit"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5751913,
+                "Username": "Enzo_Philippau",
+                "FullName": "Enzo Philippau",
+                "Team": "Absolute Motorsport Acelith",
+                "LiveryId": {
+                    "Id": 5114,
+                    "Name": "#42"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48925,
+                        "SectorTimes": [
+                            17272,
+                            32214,
+                            48925
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48459,
+                        "SectorTimes": [
+                            17170,
+                            31882,
+                            48459
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5751913,
+                "Username": "Enzo_Philippau",
+                "FullName": "Enzo Philippau",
+                "Team": "Absolute Motorsport Acelith",
+                "LiveryId": {
+                    "Id": 5114,
+                    "Name": "#42"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1657.471,
+                "RatingChange": 0,
+                "RatingAfter": 1657.471,
+                "ReputationBefore": 83.197,
+                "ReputationChange": 0,
+                "ReputationAfter": 83.197,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 54653,
+                        "SectorTimes": [
+                            22211,
+                            37257,
+                            54653
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48802,
+                        "SectorTimes": [
+                            17258,
+                            32096,
+                            48802
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48611,
+                        "SectorTimes": [
+                            17155,
+                            31998,
+                            48611
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 49268,
+                        "SectorTimes": [
+                            17557,
+                            32654,
+                            49268
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48612,
+                        "SectorTimes": [
+                            17186,
+                            32039,
+                            48612
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48670,
+                        "SectorTimes": [
+                            17231,
+                            32122,
+                            48670
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48873,
+                        "SectorTimes": [
+                            17265,
+                            32150,
+                            48873
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48680,
+                        "SectorTimes": [
+                            17113,
+                            32086,
+                            48680
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48802,
+                        "SectorTimes": [
+                            17463,
+                            32169,
+                            48802
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48393,
+                        "SectorTimes": [
+                            17040,
+                            31889,
+                            48393
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48606,
+                        "SectorTimes": [
+                            17105,
+                            31892,
+                            48606
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48853,
+                        "SectorTimes": [
+                            17089,
+                            32029,
+                            48853
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48580,
+                        "SectorTimes": [
+                            17157,
+                            32011,
+                            48580
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48621,
+                        "SectorTimes": [
+                            17221,
+                            32100,
+                            48621
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48477,
+                        "SectorTimes": [
+                            17111,
+                            31915,
+                            48477
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 48602,
+                        "SectorTimes": [
+                            17033,
+                            32035,
+                            48602
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 50824,
+                        "SectorTimes": [
+                            19105,
+                            34169,
+                            50824
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 49417,
+                        "SectorTimes": [
+                            17487,
+                            32647,
+                            49417
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 49064,
+                        "SectorTimes": [
+                            17522,
+                            32333,
+                            49064
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}

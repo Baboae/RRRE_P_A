@@ -1,0 +1,497 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "a1vo42",
+        "TrackLayoutId": {
+            "Id": 10463,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 10462,
+            "Name": "Autódromo José Carlos Pace"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6571047,
+                "Username": "jackCRATERS",
+                "FullName": "Jack Chambers",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11242,
+                    "Name": "#13"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8126793,
+                "Username": "berniemarkstanton",
+                "FullName": "Lucas wingnut",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11248,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8262880,
+                "Username": "RigPIG_16",
+                "FullName": "Matt MacDonald",
+                "Team": "NameLess Racing",
+                "LiveryId": {
+                    "Id": 11256,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11250,
+                    "Name": "#31"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1968.918,
+                "RatingChange": 0.349,
+                "RatingAfter": 1969.267,
+                "ReputationBefore": 81.467,
+                "ReputationChange": 1.624,
+                "ReputationAfter": 83.091,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 118740,
+                        "SectorTimes": [
+                            34911,
+                            82101,
+                            118740
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110142,
+                        "SectorTimes": [
+                            27531,
+                            74242,
+                            110142
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110222,
+                        "SectorTimes": [
+                            27558,
+                            74273,
+                            110222
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110562,
+                        "SectorTimes": [
+                            27367,
+                            74293,
+                            110562
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110936,
+                        "SectorTimes": [
+                            28041,
+                            74807,
+                            110936
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110059,
+                        "SectorTimes": [
+                            27497,
+                            74062,
+                            110059
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110086,
+                        "SectorTimes": [
+                            27715,
+                            74128,
+                            110086
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 121079,
+                        "SectorTimes": [
+                            28031,
+                            74772,
+                            121079
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8262880,
+                "Username": "RigPIG_16",
+                "FullName": "Matt MacDonald",
+                "Team": "NameLess Racing",
+                "LiveryId": {
+                    "Id": 11256,
+                    "Name": "#55"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 3,
+                "FinishPosition": 2,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1460.585,
+                "RatingChange": 8.472,
+                "RatingAfter": 1469.057,
+                "ReputationBefore": 61.362,
+                "ReputationChange": 6.353,
+                "ReputationAfter": 67.715,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 122371,
+                        "SectorTimes": [
+                            37721,
+                            85544,
+                            122371
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 111985,
+                        "SectorTimes": [
+                            28093,
+                            75716,
+                            111985
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 113151,
+                        "SectorTimes": [
+                            28366,
+                            76568,
+                            113151
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113575,
+                        "SectorTimes": [
+                            29108,
+                            76575,
+                            113575
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113474,
+                        "SectorTimes": [
+                            28389,
+                            76324,
+                            113474
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113266,
+                        "SectorTimes": [
+                            28948,
+                            76682,
+                            113266
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112343,
+                        "SectorTimes": [
+                            28048,
+                            75894,
+                            112343
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112683,
+                        "SectorTimes": [
+                            27928,
+                            76361,
+                            112683
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8126793,
+                "Username": "berniemarkstanton",
+                "FullName": "Lucas wingnut",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11248,
+                    "Name": "#27"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 4,
+                "FinishPosition": 3,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1345.315,
+                "RatingChange": 1.555,
+                "RatingAfter": 1346.87,
+                "ReputationBefore": 58.766,
+                "ReputationChange": -0.918,
+                "ReputationAfter": 57.848,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 140030,
+                        "SectorTimes": [
+                            37277,
+                            101831,
+                            140030
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 120904,
+                        "SectorTimes": [
+                            29821,
+                            81607,
+                            120904
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 6571047,
+                "Username": "jackCRATERS",
+                "FullName": "Jack Chambers",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11242,
+                    "Name": "#13"
+                },
+                "CarClass": {
+                    "Id": 10977,
+                    "Name": "Mazda MX-5 Cup"
+                },
+                "PerformanceIndex": 203,
+                "StartPosition": 2,
+                "FinishPosition": 4,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1462.633,
+                "RatingChange": -12.977,
+                "RatingAfter": 1449.656,
+                "ReputationBefore": 87.597,
+                "ReputationChange": -3.019,
+                "ReputationAfter": 84.578,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "NonServedPenalty",
+                        "Count": 1,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 121773,
+                        "SectorTimes": [
+                            36046,
+                            84455,
+                            121773
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111708,
+                        "SectorTimes": [
+                            27851,
+                            75263,
+                            111708
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 123228,
+                        "SectorTimes": [
+                            39355,
+                            86958,
+                            123228
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,20 +1,16 @@
 {% extends 'base.html' %}
 {% block NAVBAR %}
-<a href="local.html">LOCAL FILES</a>
+<li class="item">
+    <a href="#locals">LOCAL USERS</a>
+</li>
 {% endblock %}
 
 {% block body %}
 
-<div class="wide srcbar container blurred_background rounded_border">
-    <form class="">
-        <input class="" type="text" id="user_input">
-        <input class="" type="submit" value="Search!" id="srcbtn">
-    </form>
-</div>
-
-<div class="wide container blurred_background rounded_border">
-    <section>
+<div class="content">
+    <section name="about">
     <h1>About</h1>
+        <br>
             <p> Explore your Raceroom ranked career history through detailed statistical insights provided by this tool.
                 The official website features a dashboard displaying your finishing positions, ELO, and other statistics
                 for your last 100 races, along with a career page to review your complete racing history.<br><br>
@@ -25,4 +21,49 @@
     </section>
 </div>
 
+<div class="content table" id="locals">
+    <h1>Local users</h1>
+    <br>
+    <table>
+        <!-- region fejléc -->
+        <tr>
+            <th>
+                USER
+            </th>
+            <th>
+                COUNTRY
+            </th>
+            <th>
+                ENTRIES
+            </th>
+        </tr>
+        <!--endregion-->
+        {%for user in users%}
+        <tr onclick="window.location='/user/{{user}}'" class="record">
+            {%for info in user_infos%}
+                {%if info['username'] == user%}
+                <td>
+                    <img src="../static/users/{{user}}/avatar.webp"/>
+                    <br>
+                    {{info['name']}}
+                    <br>
+                    @{{info['username']}}
+                </td>
+                <td>
+                    {{info['country']['name']}}
+                </td>
+                {% endif %}
+            {%endfor%}
+
+            {%for rating in multiplayer_ratings%}
+                {%if rating['Username'] == user%}
+                <td>
+                    {{rating['RacesCompleted']}}
+                </td>
+                {%endif%}
+            {%endfor%}
+        </tr>
+        {%endfor%}
+    </table>
+</div>
 {% endblock %}

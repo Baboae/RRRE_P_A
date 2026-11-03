@@ -1,0 +1,339 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "x4eVb",
+        "TrackLayoutId": {
+            "Id": 1678,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1677,
+            "Name": "2019"
+        },
+        "QualiResult": [
+            {
+                "UserId": 1164468,
+                "Username": "Ranox97",
+                "FullName": "Hassan Gellert",
+                "Team": "Rugia Racing",
+                "LiveryId": {
+                    "Id": 7441,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116090,
+                        "SectorTimes": [
+                            51637,
+                            81404,
+                            116090
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 119303,
+                        "SectorTimes": [
+                            52977,
+                            83832,
+                            119303
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 118508,
+                        "SectorTimes": [
+                            52755,
+                            83567,
+                            118508
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 1164468,
+                "Username": "Ranox97",
+                "FullName": "Hassan Gellert",
+                "Team": "Rugia Racing",
+                "LiveryId": {
+                    "Id": 7441,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1715.405,
+                "RatingChange": 4.8,
+                "RatingAfter": 1720.205,
+                "ReputationBefore": 87.71,
+                "ReputationChange": -0.179,
+                "ReputationAfter": 87.531,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 1
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 124697,
+                        "SectorTimes": [
+                            59636,
+                            90149,
+                            124697
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115334,
+                        "SectorTimes": [
+                            51662,
+                            81491,
+                            115334
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114814,
+                        "SectorTimes": [
+                            51210,
+                            81103,
+                            114814
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123042,
+                        "SectorTimes": [
+                            50499,
+                            80126,
+                            123042
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 117168,
+                        "SectorTimes": [
+                            51973,
+                            82502,
+                            117168
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 129929,
+                        "SectorTimes": [
+                            50970,
+                            84990,
+                            129929
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 215661,
+                        "SectorTimes": [
+                            148234,
+                            179532,
+                            215661
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 7440,
+                    "Name": "#1"
+                },
+                "CarClass": {
+                    "Id": 7287,
+                    "Name": "Porsche 964 Cup"
+                },
+                "PerformanceIndex": 210,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1518.2,
+                "RatingChange": -2.4,
+                "RatingAfter": 1515.8,
+                "ReputationBefore": 71.067,
+                "ReputationChange": -7.007,
+                "ReputationAfter": 64.06,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 2,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 165273,
+                        "SectorTimes": [
+                            60072,
+                            90712,
+                            165273
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

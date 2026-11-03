@@ -1,0 +1,762 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "5Z16Pq",
+        "TrackLayoutId": {
+            "Id": 5276,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 5275,
+            "Name": "Road America"
+        },
+        "QualiResult": [
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 13176,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 6226448,
+                "Username": "Raazen84",
+                "FullName": "René Rasenberger",
+                "Team": "Vivid Global Racing",
+                "LiveryId": {
+                    "Id": 12801,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7856965,
+                "Username": "GTracer1015",
+                "FullName": "Abdul Ahad",
+                "Team": "A2 Racing ",
+                "LiveryId": {
+                    "Id": 12481,
+                    "Name": "#30"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8155772,
+                "Username": "urielcordova555",
+                "FullName": "uriel cordova",
+                "Team": "Team Redline",
+                "LiveryId": {
+                    "Id": 13152,
+                    "Name": "#90"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8829272,
+                "Username": "Chris_Zonks",
+                "FullName": "Christover Gonza",
+                "Team": "Pina Sim Racing ",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 6226448,
+                "Username": "Raazen84",
+                "FullName": "René Rasenberger",
+                "Team": "Vivid Global Racing",
+                "LiveryId": {
+                    "Id": 12801,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 12770,
+                    "Name": "DTM 2024"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1682.241,
+                "RatingChange": 5.787,
+                "RatingAfter": 1688.028,
+                "ReputationBefore": 84.846,
+                "ReputationChange": 1.164,
+                "ReputationAfter": 86.01,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 133690,
+                        "SectorTimes": [
+                            44378,
+                            96235,
+                            133690
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 127538,
+                        "SectorTimes": [
+                            37408,
+                            89827,
+                            127538
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 126394,
+                        "SectorTimes": [
+                            37463,
+                            89078,
+                            126394
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 132994,
+                        "SectorTimes": [
+                            37324,
+                            95577,
+                            132994
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 125839,
+                        "SectorTimes": [
+                            37063,
+                            88487,
+                            125839
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 125718,
+                        "SectorTimes": [
+                            37179,
+                            88446,
+                            125718
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 125967,
+                        "SectorTimes": [
+                            37254,
+                            88694,
+                            125967
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 126530,
+                        "SectorTimes": [
+                            37338,
+                            88852,
+                            126530
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8155772,
+                "Username": "urielcordova555",
+                "FullName": "uriel cordova",
+                "Team": "Team Redline",
+                "LiveryId": {
+                    "Id": 13152,
+                    "Name": "#90"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 4,
+                "FinishPosition": 2,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1362.732,
+                "RatingChange": 19.322,
+                "RatingAfter": 1382.054,
+                "ReputationBefore": 54.949,
+                "ReputationChange": 6.666,
+                "ReputationAfter": 61.615,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 135650,
+                        "SectorTimes": [
+                            45154,
+                            97393,
+                            135650
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129614,
+                        "SectorTimes": [
+                            37608,
+                            91049,
+                            129614
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130993,
+                        "SectorTimes": [
+                            39196,
+                            91323,
+                            130993
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129399,
+                        "SectorTimes": [
+                            38399,
+                            91175,
+                            129399
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 128764,
+                        "SectorTimes": [
+                            37915,
+                            90532,
+                            128764
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 131329,
+                        "SectorTimes": [
+                            38522,
+                            93249,
+                            131329
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 128330,
+                        "SectorTimes": [
+                            37765,
+                            90404,
+                            128330
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 127992,
+                        "SectorTimes": [
+                            38109,
+                            90505,
+                            127992
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 8829272,
+                "Username": "Chris_Zonks",
+                "FullName": "Christover Gonza",
+                "Team": "Pina Sim Racing ",
+                "LiveryId": {
+                    "Id": 13153,
+                    "Name": "#91"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 3,
+                "FinishPosition": 3,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1548.448,
+                "RatingChange": -0.287,
+                "RatingAfter": 1548.161,
+                "ReputationBefore": 67.918,
+                "ReputationChange": 3.838,
+                "ReputationAfter": 71.756,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 138478,
+                        "SectorTimes": [
+                            46556,
+                            100133,
+                            138478
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 130619,
+                        "SectorTimes": [
+                            39258,
+                            92139,
+                            130619
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 129168,
+                        "SectorTimes": [
+                            37992,
+                            90783,
+                            129168
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 128826,
+                        "SectorTimes": [
+                            37687,
+                            90660,
+                            128826
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 129565,
+                        "SectorTimes": [
+                            38056,
+                            91436,
+                            129565
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 128709,
+                        "SectorTimes": [
+                            37856,
+                            90664,
+                            128709
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 129489,
+                        "SectorTimes": [
+                            38090,
+                            91054,
+                            129489
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 128678,
+                        "SectorTimes": [
+                            37878,
+                            90621,
+                            128678
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 13176,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 13136,
+                    "Name": "DTM 2025"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 5,
+                "FinishPosition": 4,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1751.013,
+                "RatingChange": -10.283,
+                "RatingAfter": 1740.73,
+                "ReputationBefore": 84.056,
+                "ReputationChange": 0.305,
+                "ReputationAfter": 84.361,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 151900,
+                        "SectorTimes": [
+                            45887,
+                            114022,
+                            151900
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 128538,
+                        "SectorTimes": [
+                            37797,
+                            90204,
+                            128538
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 127547,
+                        "SectorTimes": [
+                            37836,
+                            89804,
+                            127547
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 127470,
+                        "SectorTimes": [
+                            37799,
+                            89657,
+                            127470
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 127513,
+                        "SectorTimes": [
+                            37955,
+                            89916,
+                            127513
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 127708,
+                        "SectorTimes": [
+                            37365,
+                            90113,
+                            127708
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 126874,
+                        "SectorTimes": [
+                            37599,
+                            89187,
+                            126874
+                        ],
+                        "Valid": true,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 130908,
+                        "SectorTimes": [
+                            37593,
+                            89867,
+                            130908
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    }
+                ]
+            },
+            {
+                "UserId": 7856965,
+                "Username": "GTracer1015",
+                "FullName": "Abdul Ahad",
+                "Team": "A2 Racing ",
+                "LiveryId": {
+                    "Id": 12481,
+                    "Name": "#30"
+                },
+                "CarClass": {
+                    "Id": 1703,
+                    "Name": "GTR 3"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 2,
+                "FinishPosition": 5,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1379.455,
+                "RatingChange": -10.043,
+                "RatingAfter": 1369.412,
+                "ReputationBefore": 44.082,
+                "ReputationChange": 7.434,
+                "ReputationAfter": 51.516,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 137555,
+                        "SectorTimes": [
+                            45964,
+                            99428,
+                            137555
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 129069,
+                        "SectorTimes": [
+                            37709,
+                            91082,
+                            129069
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 129953,
+                        "SectorTimes": [
+                            37911,
+                            91649,
+                            129953
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 133665,
+                        "SectorTimes": [
+                            38480,
+                            95595,
+                            133665
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 131887,
+                        "SectorTimes": [
+                            37913,
+                            90674,
+                            131887
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 139144,
+                        "SectorTimes": [
+                            37888,
+                            98880,
+                            139144
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 128495,
+                        "SectorTimes": [
+                            37752,
+                            90537,
+                            128495
+                        ],
+                        "Valid": true,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    },
+                    {
+                        "Time": 128584,
+                        "SectorTimes": [
+                            37855,
+                            90780,
+                            128584
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

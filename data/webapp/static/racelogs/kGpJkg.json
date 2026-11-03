@@ -1,0 +1,455 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "kGpJkg",
+        "TrackLayoutId": {
+            "Id": 3870,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 3869,
+            "Name": "2015"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10569,
+                    "Name": "#30"
+                },
+                "CarClass": {
+                    "Id": 10396,
+                    "Name": "DTM 2021"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 143636,
+                        "SectorTimes": [
+                            38344,
+                            107594,
+                            143636
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142502,
+                        "SectorTimes": [
+                            38217,
+                            106580,
+                            142502
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5298017,
+                "Username": "AlexSalazar",
+                "FullName": "Alex Salazar",
+                "Team": "reynardec",
+                "LiveryId": {
+                    "Id": 9567,
+                    "Name": "#72"
+                },
+                "CarClass": {
+                    "Id": 7767,
+                    "Name": "ADAC GT Masters 2020"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5298017,
+                "Username": "AlexSalazar",
+                "FullName": "Alex Salazar",
+                "Team": "reynardec",
+                "LiveryId": {
+                    "Id": 9567,
+                    "Name": "#72"
+                },
+                "CarClass": {
+                    "Id": 7767,
+                    "Name": "ADAC GT Masters 2020"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1651.649,
+                "RatingChange": 8.3,
+                "RatingAfter": 1659.949,
+                "ReputationBefore": 84.292,
+                "ReputationChange": 0.781,
+                "ReputationAfter": 85.073,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 9,
+                        "Points": 9
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 148184,
+                        "SectorTimes": [
+                            43784,
+                            111893,
+                            148184
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 151188,
+                        "SectorTimes": [
+                            40458,
+                            113775,
+                            151188
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142920,
+                        "SectorTimes": [
+                            38588,
+                            106270,
+                            142920
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142951,
+                        "SectorTimes": [
+                            38472,
+                            106527,
+                            142951
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142615,
+                        "SectorTimes": [
+                            38856,
+                            106468,
+                            142615
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142455,
+                        "SectorTimes": [
+                            38808,
+                            106519,
+                            142455
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 141880,
+                        "SectorTimes": [
+                            38568,
+                            105745,
+                            141880
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142465,
+                        "SectorTimes": [
+                            38391,
+                            106426,
+                            142465
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 142028,
+                        "SectorTimes": [
+                            38533,
+                            106076,
+                            142028
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10569,
+                    "Name": "#30"
+                },
+                "CarClass": {
+                    "Id": 10396,
+                    "Name": "DTM 2021"
+                },
+                "PerformanceIndex": 80,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1927.578,
+                "RatingChange": -4.15,
+                "RatingAfter": 1923.428,
+                "ReputationBefore": 82.974,
+                "ReputationChange": -0.14,
+                "ReputationAfter": 82.834,
+                "Incidents": [
+                    {
+                        "Type": "Track",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 17,
+                        "Points": 17
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 148430,
+                        "SectorTimes": [
+                            43844,
+                            112492,
+                            148430
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 152408,
+                        "SectorTimes": [
+                            47223,
+                            116110,
+                            152408
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 143020,
+                        "SectorTimes": [
+                            38739,
+                            106748,
+                            143020
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 142923,
+                        "SectorTimes": [
+                            38846,
+                            106931,
+                            142923
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 142125,
+                        "SectorTimes": [
+                            38373,
+                            106336,
+                            142125
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 141834,
+                        "SectorTimes": [
+                            37965,
+                            106012,
+                            141834
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 143372,
+                        "SectorTimes": [
+                            38884,
+                            107190,
+                            143372
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 142667,
+                        "SectorTimes": [
+                            38621,
+                            106387,
+                            142667
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 151803,
+                        "SectorTimes": [
+                            38462,
+                            107003,
+                            151803
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

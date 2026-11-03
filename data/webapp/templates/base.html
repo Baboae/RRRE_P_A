@@ -9,16 +9,28 @@
     {% block head %}{% endblock %}
 </head>
     <body>
-    <div class="navbar">
-        <div class="navbar-banner">
-            <a href="https://game.raceroom.com/">RACEROOM RACING EXPERIENCE:</a>
-            <a href="/">PERFORMANCE ANALYZER</a>
-        </div>
-        <div class="navbar-items">
-            <a href="/">HOME</a>
+        <ul class="navbar">
+            <li class="banner">
+                <a href="https://game.raceroomracing.com/news">
+                RACEROOM RACING EXPERIENCE:
+                </a>
+                <br>
+                <a href="index.html">
+                PERFORMANCE ANALYZER
+                </a>
+            </li>
+            <li class="item srcbar">
+                <form>
+                    <input type="text">
+                    <input type="button" value="SEARCH!">
+                </form>
+            </li>
+            <li class="item">
+                <a href="/">HOME</a>
+            </li>
             {% block NAVBAR %}{% endblock %}
-        </div>
-    </div>
-        {% block body %}{% endblock %}
+        </ul>
+    {% block body %}{% endblock %}
+
     </body>
 </html>

@@ -1,0 +1,296 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "rE5Q61",
+        "TrackLayoutId": {
+            "Id": 3870,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 3869,
+            "Name": "2015"
+        },
+        "QualiResult": [
+            {
+                "UserId": 6063961,
+                "Username": "6063961deletedaccount",
+                "FullName": "Racer Racer1234 S",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11336,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 11317,
+                    "Name": "WTCR 2022"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11332,
+                    "Name": "#96"
+                },
+                "CarClass": {
+                    "Id": 11317,
+                    "Name": "WTCR 2022"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 6063961,
+                "Username": "6063961deletedaccount",
+                "FullName": "Racer Racer1234 S",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11336,
+                    "Name": "#68"
+                },
+                "CarClass": {
+                    "Id": 11317,
+                    "Name": "WTCR 2022"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1731.229,
+                "RatingChange": 7.3,
+                "RatingAfter": 1738.529,
+                "ReputationBefore": 88.888,
+                "ReputationChange": 0.795,
+                "ReputationAfter": 89.683,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 160005,
+                        "SectorTimes": [
+                            47914,
+                            120769,
+                            160005
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 154478,
+                        "SectorTimes": [
+                            42524,
+                            115221,
+                            154478
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153825,
+                        "SectorTimes": [
+                            41885,
+                            114586,
+                            153825
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153781,
+                        "SectorTimes": [
+                            42068,
+                            114621,
+                            153781
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153738,
+                        "SectorTimes": [
+                            41829,
+                            114213,
+                            153738
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153864,
+                        "SectorTimes": [
+                            42007,
+                            114513,
+                            153864
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153249,
+                        "SectorTimes": [
+                            41719,
+                            114019,
+                            153249
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 154700,
+                        "SectorTimes": [
+                            41865,
+                            114476,
+                            154700
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 153823,
+                        "SectorTimes": [
+                            41934,
+                            114670,
+                            153823
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 155847,
+                        "SectorTimes": [
+                            42933,
+                            116389,
+                            155847
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11332,
+                    "Name": "#96"
+                },
+                "CarClass": {
+                    "Id": 11317,
+                    "Name": "WTCR 2022"
+                },
+                "PerformanceIndex": 160,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1904.184,
+                "RatingChange": -3.65,
+                "RatingAfter": 1900.534,
+                "ReputationBefore": 80.388,
+                "ReputationChange": -4.355,
+                "ReputationAfter": 76.033,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 162012,
+                        "SectorTimes": [
+                            48455,
+                            121576,
+                            162012
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,555 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "gqeXq7",
+        "TrackLayoutId": {
+            "Id": 2556,
+            "Name": "Grand Prix Circuit"
+        },
+        "TrackId": {
+            "Id": 2521,
+            "Name": "Red Bull Ring Spielberg"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5943462,
+                "Username": "John Harding",
+                "FullName": "John Harding",
+                "Team": "MAH Racing",
+                "LiveryId": {
+                    "Id": 5545,
+                    "Name": "#18"
+                },
+                "CarClass": {
+                    "Id": 5262,
+                    "Name": "DTM 2016"
+                },
+                "PerformanceIndex": 40,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89777,
+                        "SectorTimes": [
+                            21357,
+                            58770,
+                            89777
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            21282,
+                            58665,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 5548,
+                    "Name": "#100"
+                },
+                "CarClass": {
+                    "Id": 5262,
+                    "Name": "DTM 2016"
+                },
+                "PerformanceIndex": 40,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 95626,
+                        "SectorTimes": [
+                            21982,
+                            62536,
+                            95626
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 95080,
+                        "SectorTimes": [
+                            21104,
+                            62544,
+                            95080
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 92213,
+                        "SectorTimes": [
+                            21015,
+                            58985,
+                            92213
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            21171,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5943462,
+                "Username": "John Harding",
+                "FullName": "John Harding",
+                "Team": "MAH Racing",
+                "LiveryId": {
+                    "Id": 5545,
+                    "Name": "#18"
+                },
+                "CarClass": {
+                    "Id": 5262,
+                    "Name": "DTM 2016"
+                },
+                "PerformanceIndex": 40,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1677.645,
+                "RatingChange": 6.2,
+                "RatingAfter": 1683.845,
+                "ReputationBefore": 93.542,
+                "ReputationChange": 0.646,
+                "ReputationAfter": 94.188,
+                "Incidents": [],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 96394,
+                        "SectorTimes": [
+                            27357,
+                            64742,
+                            96394
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89340,
+                        "SectorTimes": [
+                            21154,
+                            58235,
+                            89340
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89338,
+                        "SectorTimes": [
+                            20951,
+                            57926,
+                            89338
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 98396,
+                        "SectorTimes": [
+                            25464,
+                            66352,
+                            98396
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89372,
+                        "SectorTimes": [
+                            21016,
+                            58158,
+                            89372
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90391,
+                        "SectorTimes": [
+                            21045,
+                            58342,
+                            90391
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89630,
+                        "SectorTimes": [
+                            21106,
+                            58255,
+                            89630
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89290,
+                        "SectorTimes": [
+                            21071,
+                            57908,
+                            89290
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 90038,
+                        "SectorTimes": [
+                            21499,
+                            58619,
+                            90038
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 88704,
+                        "SectorTimes": [
+                            20906,
+                            57889,
+                            88704
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 96390,
+                        "SectorTimes": [
+                            20963,
+                            64957,
+                            96390
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89752,
+                        "SectorTimes": [
+                            21229,
+                            58365,
+                            89752
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 89916,
+                        "SectorTimes": [
+                            20928,
+                            58273,
+                            89916
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 91030,
+                        "SectorTimes": [
+                            21105,
+                            58783,
+                            91030
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 588403,
+                "Username": "ooxx",
+                "FullName": "OOXX OOXX",
+                "Team": "Taiwan ",
+                "LiveryId": {
+                    "Id": 5548,
+                    "Name": "#100"
+                },
+                "CarClass": {
+                    "Id": 5262,
+                    "Name": "DTM 2016"
+                },
+                "PerformanceIndex": 40,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1761.787,
+                "RatingChange": -12.4,
+                "RatingAfter": 1749.387,
+                "ReputationBefore": 84.21,
+                "ReputationChange": -0.485,
+                "ReputationAfter": 83.725,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 17,
+                        "Points": 17
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 98663,
+                        "SectorTimes": [
+                            27482,
+                            66451,
+                            98663
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90744,
+                        "SectorTimes": [
+                            20741,
+                            59156,
+                            90744
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 94762,
+                        "SectorTimes": [
+                            20832,
+                            62801,
+                            94762
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90355,
+                        "SectorTimes": [
+                            20842,
+                            58586,
+                            90355
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 89734,
+                        "SectorTimes": [
+                            20615,
+                            58056,
+                            89734
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91985,
+                        "SectorTimes": [
+                            20776,
+                            60583,
+                            91985
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 89418,
+                        "SectorTimes": [
+                            20793,
+                            57836,
+                            89418
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91086,
+                        "SectorTimes": [
+                            20718,
+                            59417,
+                            91086
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91662,
+                        "SectorTimes": [
+                            21048,
+                            60090,
+                            91662
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90335,
+                        "SectorTimes": [
+                            21499,
+                            58954,
+                            90335
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90797,
+                        "SectorTimes": [
+                            21425,
+                            59235,
+                            90797
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 89789,
+                        "SectorTimes": [
+                            21004,
+                            58300,
+                            89789
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 91116,
+                        "SectorTimes": [
+                            21235,
+                            59317,
+                            91116
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 90414,
+                        "SectorTimes": [
+                            21415,
+                            58906,
+                            90414
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

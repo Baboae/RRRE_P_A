@@ -1,0 +1,569 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "VoEW7m",
+        "TrackLayoutId": {
+            "Id": 5276,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 5275,
+            "Name": "Road America"
+        },
+        "QualiResult": [
+            {
+                "UserId": 183584,
+                "Username": "Ace_PsihopaT",
+                "FullName": "Alexey Antonenko",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5100,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10632,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 7868877,
+                "Username": "Francodirt",
+                "FullName": "Franco Larocca",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10632,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 8974619,
+                "Username": "Jerry_375915",
+                "FullName": "Jerry Santucci",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5106,
+                    "Name": "#24"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9349788,
+                "Username": "a5242",
+                "FullName": "Pascual Simon",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10628,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 10632,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2030.12,
+                "RatingChange": 0.359,
+                "RatingAfter": 2030.479,
+                "ReputationBefore": 93.479,
+                "ReputationChange": -0.821,
+                "ReputationAfter": 92.658,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 3,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 142711,
+                        "SectorTimes": [
+                            47535,
+                            102117,
+                            142711
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135483,
+                        "SectorTimes": [
+                            40937,
+                            94860,
+                            135483
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135855,
+                        "SectorTimes": [
+                            40928,
+                            95195,
+                            135855
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 135540,
+                        "SectorTimes": [
+                            40922,
+                            94993,
+                            135540
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 143015,
+                        "SectorTimes": [
+                            40604,
+                            94962,
+                            143015
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 137418,
+                        "SectorTimes": [
+                            41650,
+                            96593,
+                            137418
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 140164,
+                        "SectorTimes": [
+                            41359,
+                            96007,
+                            140164
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 8974619,
+                "Username": "Jerry_375915",
+                "FullName": "Jerry Santucci",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5106,
+                    "Name": "#24"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1544.368,
+                "RatingChange": 4.304,
+                "RatingAfter": 1548.672,
+                "ReputationBefore": 78.022,
+                "ReputationChange": 1.528,
+                "ReputationAfter": 79.55,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 145405,
+                        "SectorTimes": [
+                            48725,
+                            104004,
+                            145405
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 138221,
+                        "SectorTimes": [
+                            41861,
+                            97085,
+                            138221
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 137465,
+                        "SectorTimes": [
+                            41488,
+                            96045,
+                            137465
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 137181,
+                        "SectorTimes": [
+                            41313,
+                            95961,
+                            137181
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 137937,
+                        "SectorTimes": [
+                            41214,
+                            96001,
+                            137937
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 140467,
+                        "SectorTimes": [
+                            44349,
+                            99249,
+                            140467
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 138280,
+                        "SectorTimes": [
+                            41259,
+                            96751,
+                            138280
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 7868877,
+                "Username": "Francodirt",
+                "FullName": "Franco Larocca",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10632,
+                    "Name": "#15"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 4,
+                "FinishPosition": 3,
+                "StartPositionInClass": 4,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1499.737,
+                "RatingChange": 0.67,
+                "RatingAfter": 1500.407,
+                "ReputationBefore": 60.149,
+                "ReputationChange": -0.702,
+                "ReputationAfter": 59.447,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "Stationary",
+                        "Count": 3,
+                        "Points": 3
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 218149,
+                        "SectorTimes": [
+                            117412,
+                            173441,
+                            218149
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 138951,
+                        "SectorTimes": [
+                            42137,
+                            97259,
+                            138951
+                        ],
+                        "Valid": false,
+                        "Position": 4,
+                        "PositionInClass": 4
+                    },
+                    {
+                        "Time": 137965,
+                        "SectorTimes": [
+                            41560,
+                            96467,
+                            137965
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 201079,
+                        "SectorTimes": [
+                            50593,
+                            149700,
+                            201079
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 274478,
+                        "SectorTimes": [
+                            48582,
+                            106865,
+                            274478
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 183584,
+                "Username": "Ace_PsihopaT",
+                "FullName": "Alexey Antonenko",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 5100,
+                    "Name": "#10"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 5,
+                "FinishPosition": 4,
+                "StartPositionInClass": 5,
+                "FinishPositionInClass": 4,
+                "RatingBefore": 1369.953,
+                "RatingChange": -1.243,
+                "RatingAfter": 1368.71,
+                "ReputationBefore": 48.851,
+                "ReputationChange": 3.667,
+                "ReputationAfter": 52.518,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 150053,
+                        "SectorTimes": [
+                            51597,
+                            107385,
+                            150053
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 141494,
+                        "SectorTimes": [
+                            42914,
+                            99076,
+                            141494
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    }
+                ]
+            },
+            {
+                "UserId": 9349788,
+                "Username": "a5242",
+                "FullName": "Pascual Simon",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 10628,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 4867,
+                    "Name": "Tatuus F4 Cup"
+                },
+                "PerformanceIndex": 125,
+                "StartPosition": 3,
+                "FinishPosition": 5,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 5,
+                "RatingBefore": 1356.949,
+                "RatingChange": -5.07,
+                "RatingAfter": 1351.879,
+                "ReputationBefore": 77.117,
+                "ReputationChange": -7.612,
+                "ReputationAfter": 69.505,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 2,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 5,
+                        "PositionInClass": 5
+                    }
+                ]
+            }
+        ]
+    }
+}

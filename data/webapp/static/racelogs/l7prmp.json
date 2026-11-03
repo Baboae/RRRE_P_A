@@ -1,0 +1,411 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "l7prmp",
+        "TrackLayoutId": {
+            "Id": 1693,
+            "Name": "Grand Prix"
+        },
+        "TrackId": {
+            "Id": 1692,
+            "Name": "Modern"
+        },
+        "QualiResult": [
+            {
+                "UserId": 6394772,
+                "Username": "AriGamer",
+                "FullName": "Ariel Romero",
+                "Team": "Ari_Gamer",
+                "LiveryId": {
+                    "Id": 5047,
+                    "Name": "#35"
+                },
+                "CarClass": {
+                    "Id": 253,
+                    "Name": "FRJ Cup"
+                },
+                "PerformanceIndex": 193,
+                "StartPosition": 1,
+                "FinishPosition": 1,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 1,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123091,
+                        "SectorTimes": [
+                            27444,
+                            84496,
+                            123091
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119698,
+                        "SectorTimes": [
+                            26907,
+                            83400,
+                            119698
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 5031,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 253,
+                    "Name": "FRJ Cup"
+                },
+                "PerformanceIndex": 193,
+                "StartPosition": 2,
+                "FinishPosition": 2,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 2,
+                "Incidents": [
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 1,
+                        "Points": 1
+                    }
+                ],
+                "Laps": [
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": -1000,
+                        "SectorTimes": [
+                            -1000,
+                            -1000,
+                            -1000
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5842351,
+                "Username": "orban_k",
+                "FullName": "Krisztian Orban",
+                "Team": "GPSE",
+                "LiveryId": {
+                    "Id": 5031,
+                    "Name": "#7"
+                },
+                "CarClass": {
+                    "Id": 253,
+                    "Name": "FRJ Cup"
+                },
+                "PerformanceIndex": 193,
+                "StartPosition": 2,
+                "FinishPosition": 1,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 2191.648,
+                "RatingChange": 0.1,
+                "RatingAfter": 2191.748,
+                "ReputationBefore": 89.033,
+                "ReputationChange": -0.006,
+                "ReputationAfter": 89.027,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "LosingControl",
+                        "Count": 1,
+                        "Points": 2
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 4,
+                        "Points": 4
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 152459,
+                        "SectorTimes": [
+                            46842,
+                            102213,
+                            152459
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116629,
+                        "SectorTimes": [
+                            26300,
+                            80572,
+                            116629
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 123256,
+                        "SectorTimes": [
+                            28717,
+                            85377,
+                            123256
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 124116,
+                        "SectorTimes": [
+                            26014,
+                            82062,
+                            124116
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 114567,
+                        "SectorTimes": [
+                            25292,
+                            79028,
+                            114567
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116602,
+                        "SectorTimes": [
+                            25317,
+                            80567,
+                            116602
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114393,
+                        "SectorTimes": [
+                            25104,
+                            78640,
+                            114393
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 115690,
+                        "SectorTimes": [
+                            25563,
+                            79733,
+                            115690
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 6394772,
+                "Username": "AriGamer",
+                "FullName": "Ariel Romero",
+                "Team": "Ari_Gamer",
+                "LiveryId": {
+                    "Id": 5047,
+                    "Name": "#35"
+                },
+                "CarClass": {
+                    "Id": 253,
+                    "Name": "FRJ Cup"
+                },
+                "PerformanceIndex": 193,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1472.544,
+                "RatingChange": -0.2,
+                "RatingAfter": 1472.344,
+                "ReputationBefore": 85.128,
+                "ReputationChange": 0.274,
+                "ReputationAfter": 85.402,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 1,
+                        "Points": 4
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 7,
+                        "Points": 7
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 152570,
+                        "SectorTimes": [
+                            44828,
+                            102107,
+                            152570
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 119692,
+                        "SectorTimes": [
+                            27021,
+                            83178,
+                            119692
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 119300,
+                        "SectorTimes": [
+                            26275,
+                            81961,
+                            119300
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 118516,
+                        "SectorTimes": [
+                            25993,
+                            81375,
+                            118516
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 118730,
+                        "SectorTimes": [
+                            25860,
+                            81483,
+                            118730
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 120742,
+                        "SectorTimes": [
+                            26747,
+                            83816,
+                            120742
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 118709,
+                        "SectorTimes": [
+                            26385,
+                            82041,
+                            118709
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 130237,
+                        "SectorTimes": [
+                            26549,
+                            81665,
+                            130237
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            }
+        ]
+    }
+}

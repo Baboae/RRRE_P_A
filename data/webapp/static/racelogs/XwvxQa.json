@@ -1,0 +1,755 @@
+{
+    "GetMpRaceResultResult": {
+        "RaceHash": "XwvxQa",
+        "TrackLayoutId": {
+            "Id": 13187,
+            "Name": "International"
+        },
+        "TrackId": {
+            "Id": 13186,
+            "Name": "Autodromo Vallelunga Piero Taruffi"
+        },
+        "QualiResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11803,
+                    "Name": "#Pinky"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 11868,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            },
+            {
+                "UserId": 9137377,
+                "Username": "jeanII",
+                "FullName": "Baptiste CHARPENTIER",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11871,
+                    "Name": "#90"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 0,
+                "FinishPosition": 0,
+                "StartPositionInClass": 0,
+                "FinishPositionInClass": 0,
+                "Incidents": [],
+                "Laps": []
+            }
+        ],
+        "RaceResult": [
+            {
+                "UserId": 5110748,
+                "Username": "manolensen",
+                "FullName": "Emmanuel Bibiloni",
+                "Team": "LMR Esports",
+                "LiveryId": {
+                    "Id": 11803,
+                    "Name": "#Pinky"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 3,
+                "FinishPosition": 1,
+                "StartPositionInClass": 3,
+                "FinishPositionInClass": 1,
+                "RatingBefore": 1962.77,
+                "RatingChange": 1.402,
+                "RatingAfter": 1964.172,
+                "ReputationBefore": 93.812,
+                "ReputationChange": -0.209,
+                "ReputationAfter": 93.603,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 11,
+                        "Points": 11
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 118835,
+                        "SectorTimes": [
+                            34083,
+                            86264,
+                            118835
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111053,
+                        "SectorTimes": [
+                            26539,
+                            78581,
+                            111053
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111724,
+                        "SectorTimes": [
+                            26794,
+                            78783,
+                            111724
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116246,
+                        "SectorTimes": [
+                            27074,
+                            79195,
+                            116246
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 119027,
+                        "SectorTimes": [
+                            32060,
+                            86038,
+                            119027
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116500,
+                        "SectorTimes": [
+                            27959,
+                            83133,
+                            116500
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 114832,
+                        "SectorTimes": [
+                            26906,
+                            81877,
+                            114832
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110156,
+                        "SectorTimes": [
+                            26489,
+                            77843,
+                            110156
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110301,
+                        "SectorTimes": [
+                            26233,
+                            77652,
+                            110301
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 112530,
+                        "SectorTimes": [
+                            26794,
+                            79880,
+                            112530
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110666,
+                        "SectorTimes": [
+                            26262,
+                            77604,
+                            110666
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111195,
+                        "SectorTimes": [
+                            26450,
+                            78370,
+                            111195
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111558,
+                        "SectorTimes": [
+                            26881,
+                            78933,
+                            111558
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110058,
+                        "SectorTimes": [
+                            26252,
+                            77484,
+                            110058
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111045,
+                        "SectorTimes": [
+                            26194,
+                            77700,
+                            111045
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111687,
+                        "SectorTimes": [
+                            26547,
+                            78733,
+                            111687
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111380,
+                        "SectorTimes": [
+                            26587,
+                            78918,
+                            111380
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110166,
+                        "SectorTimes": [
+                            26305,
+                            77661,
+                            110166
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110715,
+                        "SectorTimes": [
+                            26565,
+                            78208,
+                            110715
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110941,
+                        "SectorTimes": [
+                            26401,
+                            78060,
+                            110941
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 110929,
+                        "SectorTimes": [
+                            26346,
+                            78315,
+                            110929
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 111688,
+                        "SectorTimes": [
+                            26456,
+                            78802,
+                            111688
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            },
+            {
+                "UserId": 5630332,
+                "Username": "dbp2008",
+                "FullName": "David Phillips",
+                "Team": "rcl26/rrsl2",
+                "LiveryId": {
+                    "Id": 11868,
+                    "Name": "#11"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 1,
+                "FinishPosition": 2,
+                "StartPositionInClass": 1,
+                "FinishPositionInClass": 2,
+                "RatingBefore": 1877.072,
+                "RatingChange": -1.957,
+                "RatingAfter": 1875.115,
+                "ReputationBefore": 94.124,
+                "ReputationChange": -0.196,
+                "ReputationAfter": 93.928,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 2,
+                        "Points": 8
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 10,
+                        "Points": 10
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 130862,
+                        "SectorTimes": [
+                            46411,
+                            98361,
+                            130862
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110720,
+                        "SectorTimes": [
+                            26265,
+                            78192,
+                            110720
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 110621,
+                        "SectorTimes": [
+                            26268,
+                            77869,
+                            110621
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 116536,
+                        "SectorTimes": [
+                            26764,
+                            82952,
+                            116536
+                        ],
+                        "Valid": false,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 109869,
+                        "SectorTimes": [
+                            26131,
+                            77434,
+                            109869
+                        ],
+                        "Valid": true,
+                        "Position": 3,
+                        "PositionInClass": 3
+                    },
+                    {
+                        "Time": 114273,
+                        "SectorTimes": [
+                            26382,
+                            80203,
+                            114273
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 115906,
+                        "SectorTimes": [
+                            26822,
+                            83284,
+                            115906
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110478,
+                        "SectorTimes": [
+                            26518,
+                            78132,
+                            110478
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111773,
+                        "SectorTimes": [
+                            26307,
+                            77896,
+                            111773
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110811,
+                        "SectorTimes": [
+                            26323,
+                            78171,
+                            110811
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110663,
+                        "SectorTimes": [
+                            26514,
+                            77806,
+                            110663
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110643,
+                        "SectorTimes": [
+                            26395,
+                            77784,
+                            110643
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 114146,
+                        "SectorTimes": [
+                            27199,
+                            81460,
+                            114146
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110264,
+                        "SectorTimes": [
+                            26376,
+                            77830,
+                            110264
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111350,
+                        "SectorTimes": [
+                            26194,
+                            78477,
+                            111350
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110204,
+                        "SectorTimes": [
+                            26491,
+                            77561,
+                            110204
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110548,
+                        "SectorTimes": [
+                            26707,
+                            78075,
+                            110548
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110605,
+                        "SectorTimes": [
+                            26511,
+                            77895,
+                            110605
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110883,
+                        "SectorTimes": [
+                            26628,
+                            78141,
+                            110883
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110862,
+                        "SectorTimes": [
+                            26768,
+                            78139,
+                            110862
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 110698,
+                        "SectorTimes": [
+                            26504,
+                            78154,
+                            110698
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 111252,
+                        "SectorTimes": [
+                            26520,
+                            78252,
+                            111252
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    }
+                ]
+            },
+            {
+                "UserId": 9137377,
+                "Username": "jeanII",
+                "FullName": "Baptiste CHARPENTIER",
+                "Team": "",
+                "LiveryId": {
+                    "Id": 11871,
+                    "Name": "#90"
+                },
+                "CarClass": {
+                    "Id": 11564,
+                    "Name": "Porsche 944 Turbo Cup"
+                },
+                "PerformanceIndex": 209,
+                "StartPosition": 2,
+                "FinishPosition": 3,
+                "StartPositionInClass": 2,
+                "FinishPositionInClass": 3,
+                "RatingBefore": 1462.53,
+                "RatingChange": -0.848,
+                "RatingAfter": 1461.682,
+                "ReputationBefore": 72.638,
+                "ReputationChange": -0.458,
+                "ReputationAfter": 72.18,
+                "Incidents": [
+                    {
+                        "Type": "Vehicle",
+                        "Count": 3,
+                        "Points": 12
+                    },
+                    {
+                        "Type": "InvalidLap",
+                        "Count": 5,
+                        "Points": 5
+                    },
+                    {
+                        "Type": "Disconnect",
+                        "Count": 1,
+                        "Points": 3
+                    }
+                ],
+                "Starter": true,
+                "Laps": [
+                    {
+                        "Time": 121085,
+                        "SectorTimes": [
+                            34443,
+                            87962,
+                            121085
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 116501,
+                        "SectorTimes": [
+                            26692,
+                            79995,
+                            116501
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 113887,
+                        "SectorTimes": [
+                            26763,
+                            80402,
+                            113887
+                        ],
+                        "Valid": false,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112522,
+                        "SectorTimes": [
+                            27298,
+                            79520,
+                            112522
+                        ],
+                        "Valid": true,
+                        "Position": 2,
+                        "PositionInClass": 2
+                    },
+                    {
+                        "Time": 112673,
+                        "SectorTimes": [
+                            26823,
+                            79640,
+                            112673
+                        ],
+                        "Valid": true,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    },
+                    {
+                        "Time": 116089,
+                        "SectorTimes": [
+                            27661,
+                            82349,
+                            116089
+                        ],
+                        "Valid": false,
+                        "Position": 1,
+                        "PositionInClass": 1
+                    }
+                ]
+            }
+        ]
+    }
+}
